@@ -37,24 +37,24 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Where to Shop in Nairobi | Best Malls & Markets',
-    description: 'Explore the best shopping spots in Nairobi, from modern malls with global brands to vibrant local artisan markets.',
+    title: 'Where to Party in Nairobi | Party Spots in Nairobi',
+    description: 'Explore the best party spots in Nairobi, from clubs to bars and lounges.',
     images: ['v2/images/background.jpeg'],
   },
 };
 
-export default function ShopPage() {
+export default function PartyPage() {
   const items = data.items.map(item => ({
     title: item.name,
-    subtitle: item.category || 'Shopping',
+    subtitle: item.category || 'Party',
     image: item.image,
-    href: `/shop/${item.slug}`,
+    href: `/party/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
-      heading={data.heading || "Where to Shop in Nairobi"}
-      breadcrumb="Shop"
+      heading={data.heading || "Where to Party in Nairobi"}
+      breadcrumb="Party"
       description={data.description}
       items={items}
     />
