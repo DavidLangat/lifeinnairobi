@@ -1,0 +1,180 @@
+{
+  "header": {
+    "title": "Nairobi",
+    "breadcrumb": "About",
+    "description": "",
+    "backgroundImage": "https://images.unsplash.com/photo-1765466441202-76252154d4fc?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "section": {
+    "introduction": {
+      "heading": "About Nairobi",
+      "text": [
+        "Nairobi is a quiet, green highland area in Kiambu County, Kenya, known for its rolling tea plantations, cool climate, and slow pace of life. Located just outside Nairobi, Nairobi has long been associated with tea growing, fertile land, and peaceful rural landscapes — qualities that continue to shape how the area looks, feels, and is experienced today.",
+        "Locally, Nairobi is often referred to as “the richest village in Africa” — a phrase commonly used to describe the area’s concentration of high-value agricultural land, established tea estates, and long-held family farms. While this description is informal rather than statistical, it reflects how Nairobi has historically been perceived in terms of land wealth, productivity, and legacy rather than urban development."
+      ]
+    },
+    "location": {
+      "heading": "Where Exactly Is Nairobi?",
+      "text": [
+        "Nairobi is located in Kiambu County, along the Limuru–Naivasha Road, approximately 40–50 minutes northwest of Nairobi, depending on traffic.",
+        "Rather than being a single town centre, Nairobi refers to a wider highland area made up of:"
+      ],
+      "list": [
+        "Tea estates and farms",
+        "Forest edges and walking trails",
+        "Small settlements and farm homesteads"
+      ],
+      "closingText": "This is why Nairobi may appear differently on maps and descriptions — it is best understood as a region, not a town."
+    },
+    "nameOrigin": {
+      "heading": "The Origin of the Name “Nairobi”",
+      "text": [
+        "The name Nairobi is widely understood locally to be derived from the phrase “Tea Growing Area.”",
+        "As tea farming expanded in the region in the early 20th century, the term Tea Growing came into common use when referring to the area. Over time, and through everyday local pronunciation, Tea Growing evolved into Nairobi — a name that was easier to say, remember, and use in conversation.",
+        "While this explanation comes from local oral history rather than formal documentation, it remains the most widely accepted and repeated account among residents and tea-farming families in the area."
+      ]
+    },
+    "history": {
+      "heading": "Nairobi and the History of Tea",
+      "text": [
+        "Nairobi holds an important place in the history of tea in Kenya."
+      ],
+      "list": [
+        "Tea was first grown experimentally in Nairobi in 1903, marking one of the earliest introductions of tea cultivation in the country.",
+        "In 1910, the first commercial tea farm, Kiambethu Tea Farm, was established by A.B. McDonell.",
+        "The success of tea farming in Nairobi later influenced the expansion of tea cultivation across other highland areas of Kenya."
+      ],
+      "closingText": "This early history explains why Nairobi remains deeply associated with tea"
+    },
+    "regionDefinition": {
+      "heading": "Is Nairobi a Town, a Village, or a Region?",
+      "text": [
+        "Nairobi is a region.",
+        "There is no distinct urban town centre in Nairobi. Instead, the name is used locally to describe a broader tea-growing landscape within the greater Limuru area. Historically and socially, Nairobi has been defined more by land use and environment than by administrative boundaries."
+      ]
+    },
+    "climate": {
+      "heading": "Climate, Landscape, and Why Nairobi Feels the Way It Does",
+      "text": [
+        "Nairobi sits at an elevation of approximately 2,100 metres above sea level, giving it a cooler climate than Nairobi and much of central Kenya.",
+        "This elevation contributes to:"
+      ],
+      "list": [
+        "Misty mornings",
+        "Mild daytime temperatures",
+        "Fertile volcanic soils",
+        "Lush green landscapes throughout the year"
+      ],
+      "closingText": "The combination of altitude, rainfall, and soil quality makes Nairobi ideal for tea growing and small-scale farming, shaping the calm, green environment visitors experience today."
+    },
+    "knownFor": {
+      "heading": "What Is Nairobi Known For Today?",
+      "text": [
+        "Today, Nairobi is known for:"
+      ],
+      "list": [
+        "Rolling tea plantations",
+        "Quiet walking trails and nature walks",
+        "Farm-to-table food experiences",
+        "Wellness retreats and spas",
+        "Peaceful stays close to Nairobi"
+      ],
+      "closingText": "Rather than large-scale tourism, Nairobi has developed a reputation for slow, nature-based experiences that appeal to visitors seeking calm, space, and authenticity."
+    },
+    "tourismEmergence": {
+      "heading": "The Emergence of Tourism in Nairobi",
+      "text": [
+        "Tourism in Nairobi is a recent and organic development.",
+        "As Nairobi has grown busier, more people have begun seeking nearby escapes that offer:"
+      ],
+      "list": [
+        "Nature without long travel",
+        "Cooler weather",
+        "Quiet, uncrowded spaces"
+      ],
+      "closingText": "This has led to the emergence of guided tea farm walks, wellness and spa experiences, curated stays and retreats, and day trips. Tourism in Nairobi remains small-scale and experience-led, closely tied to the land and local partners."
+    },
+    "ourRole": {
+      "heading": "Our Role in Nairobi Tourism",
+      "text": [
+        "Nairobi Guide exists to:"
+      ],
+      "list": [
+        "Curate authentic experiences",
+        "Provide accurate, updated information",
+        "Help visitors plan meaningful visits",
+        "Support responsible, low-impact tourism"
+      ],
+      "closingText": "We focus on what can genuinely be experienced, rather than repeating unverified claims or exaggerated narratives. Our guides are based on firsthand exploration, local knowledge, and continuous updates."
+    },
+    "images": {
+      "image1": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/private.jpg?updatedAt=1765902341372",
+      "image2": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg",
+      "image3": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/119.jpg",
+      "image4": "https://images.unsplash.com/photo-1597040663442-a6cd21ca13cd?q=80&w=2525&auto=format&fit=crop",
+      "image5": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kenya_tea_Caine_Brothers.jpg"
+    }
+  },
+  "pages": [
+    {
+      "title": "History of Nairobi",
+      "slug": "history-of-Nairobi",
+      "excerpt": "A journey through time, exploring the colonial roots and agricultural heritage of Nairobi.",
+      "image": "https://images.unsplash.com/photo-1570701564993-e00652af8aa7?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Colonial farmhouse in Nairobi",
+      "imageAttribution": "Photo by History Archive",
+      "href": "/about/history-of-Nairobi",
+      "content": {
+        "subheading": "From Colonial Farms to Modern Retreat",
+        "intro": "Nairobi's story is deeply intertwined with the history of tea farming in Kenya. Once a colonial settlement, it has evolved into a vibrant community that honors its past while embracing the future.",
+        "paragraphs": [
+          "In the early 1900s, European settlers were drawn to the cool climate and fertile red soil, perfect for tea and dairy farming. Many of the original farmhouses still stand today, repurposed as boutique hotels or private residences.",
+          "Over the decades, Nairobi has maintained its rural charm, resisting distinct urbanization to preserve its green canopy and agricultural backbone."
+        ],
+        "gallery": [
+          {
+            "src": "https://images.unsplash.com/photo-1597040663442-a6cd21ca13cd?q=80&w=2525&auto=format&fit=crop",
+            "alt": "Tea fields",
+            "attribution": "Photo by Tea Estate"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Historic building",
+            "attribution": "Photo by Heritage Trust"
+          }
+        ],
+        "closing": "Today, Nairobi stands as a testament to sustainable preservation and rich heritage."
+      }
+    },
+    {
+      "title": "Our Team",
+      "slug": "our-team",
+      "excerpt": "Meet the passionate individuals dedicated to showcasing the best of Nairobi.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Team meeting",
+      "imageAttribution": "Photo by Business Team",
+      "href": "/about/our-team",
+      "content": {
+        "subheading": "Passionate Locals, Expert Guides",
+        "intro": "Nairobi is curated by a group of residents, historians, and nature lovers giving you an insider's perspective.",
+        "paragraphs": [
+          "Our team comprises certified guides who know every hidden trail, foodies who have tasted every menu in town, and historians who keep the stories of the old days alive.",
+          "We are united by a single mission: to share the magic of this highland paradise with the world."
+        ],
+        "gallery": [
+          {
+            "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2684&auto=format&fit=crop",
+            "alt": "Guide pointing at view",
+            "attribution": "Photo by Tour Guide"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Group hiking",
+            "attribution": "Photo by Adventure Club"
+          }
+        ],
+        "closing": "Join us on our next adventure!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "heading": "Read Our Latest Travel Blog & Tips Here",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.",
+  "featuredPost": {
+    "title": "Exploring Nairobi: Kenya’s Serene Tea Highlands Escape",
+    "slug": "exploring-Nairobi-kenyas-serene-tea-highlands-escape",
+    "excerpt": "From rolling tea farms to misty mornings, discover why Nairobi is the perfect weekend escape from the city.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2670&auto=format&fit=crop",
+    "imageAlt": "Aerial view of lush green tea plantations in Nairobi",
+    "imageAttribution": "Photo by John Doe on Unsplash",
+    "href": "/blog/exploring-Nairobi-kenyas-serene-tea-highlands-escape",
+    "author": "John Doe",
+    "date": "November 12, 2024",
+    "category": "Travel",
+    "content": {
+      "subheading": "A Peaceful Getaway Just Outside Nairobi",
+      "intro": "Nestled in the lush highlands of Kiambu County, Nairobi offers a refreshing blend of cool weather, scenic tea plantations, and tranquil countryside living.",
+      "paragraphs": [
+        "Nairobi is best known for its expansive tea estates, quiet roads, and charming cafés hidden among the hills. It’s a favorite for cyclists, hikers, and anyone seeking a slow-paced escape.",
+        "Whether you’re planning a day trip or a weekend stay, Nairobi rewards visitors with fresh air, stunning views, and a deep connection to nature."
+      ],
+      "gallery": [
+        {
+          "src": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2670&auto=format&fit=crop",
+          "alt": "Misty tea farm landscape",
+          "attribution": "Photo by Jane Smith on Unsplash"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2670&auto=format&fit=crop",
+          "alt": "Waterfall in the forest",
+          "attribution": "Photo by Alex Green on Unsplash"
+        }
+      ],
+      "closing": "Nairobi is proof that you don’t need to travel far to experience peace, beauty, and adventure. Sometimes, the perfect destination is just a short drive away."
+    }
+  },
+  "recentPosts": [
+    {
+      "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
+      "slug": "how-to-get-to-Nairobi",
+      "excerpt": "Planning a trip to Nairobi? Here’s a simple guide on routes, public transport, and travel tips.",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Winding road through tea fields",
+      "imageAttribution": "Photo by Sarah James on Unsplash",
+      "href": "/blog/how-to-get-to-Nairobi",
+      "author": "Sarah James",
+      "date": "November 10, 2024",
+      "category": "Guide",
+      "content": {
+        "subheading": "Getting to Nairobi",
+        "intro": "Nairobi is easiest to reach by car and, depending on where you are coming from in Nairobi, the journey typically takes 30 minutes to one hour.",
+        "paragraphs": [
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Limuru Road</h3><p>The most commonly used route to Nairobi is Limuru Road. This route is ideal if you are travelling from Karen, Lavington, Spring Valley, Westlands, and most parts of Nairobi located south of the Nairobi Expressway. It is well-marked and generally straightforward, making it a popular choice for first-time visitors.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Banana Hill</h3><p>Running parallel to Limuru Road, the Banana Hill route offers a more scenic drive into Nairobi. It is best suited for travellers coming from Gigiri, Runda, and Rosslyn.</p><p>Please note that there are occasional traffic hotspots around Ruaka and Banana Market, especially during peak hours.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via the Nairobi–Nakuru Highway</h3><p>If you are travelling directly from Jomo Kenyatta International Airport or from regions such as Naivasha, Nakuru, or the Maasai Mara, the Nairobi–Nakuru Highway provides the most convenient access.</p><p>From the highway, look out for exit points toward Limuru, which connect easily to Nairobi.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi is accessible by taxi, and ride-hailing services such as Uber and Bolt operate in the area. While it is usually easy to get a ride to Nairobi, finding a return ride can sometimes take longer, especially during off-peak hours. Visitors are advised to plan return transport in advance.</p>"
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop",
+             "alt": "Car driving on a scenic road",
+             "attribution": "Photo by Road Tripper on Unsplash"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Public transport bus",
+             "attribution": "Photo by Commuter on Unsplash"
+           }
+        ],
+        "closing": "Safe travels! A beautiful escape awaits you just around the corner."
+      }
+    },
+    {
+      "title": "Best Things to Do in Nairobi: Nature, Food & Adventure",
+      "slug": "best-things-to-do-in-Nairobi-nature-food-adventure",
+      "excerpt": "From tea tours to cycling trails and cozy cafés, Nairobi has something for everyone.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Cyclist on a trail",
+      "imageAttribution": "Photo by Michael K on Unsplash",
+      "href": "/blog/best-things-to-do-in-Nairobi-nature-food-adventure",
+      "author": "Michael K.",
+      "date": "November 08, 2024",
+      "category": "Activities",
+      "content": {
+        "subheading": "Unwind and Explore",
+        "intro": "Nairobi is an outdoor lover's paradise, offering everything from adrenaline-pumping bike trails to serene tea farm tours.",
+        "paragraphs": [
+           "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
+           "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
+             "alt": "Tea picking experience",
+             "attribution": "Photo by Farmer Joe"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Cheese tasting platter",
+             "attribution": "Photo by Foodie One"
+           }
+        ],
+        "closing": "Pack your walking shoes and a camera – you'll need both!"
+      }
+    },
+    {
+      "title": "Best Time to Visit Nairobi: Weather & Seasonal Guide",
+      "slug": "best-time-to-visit-Nairobi-weather-seasonal-guide",
+      "excerpt": "Discover the best months to visit Nairobi for clear views, outdoor activities, and relaxed stays.",
+      "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Clear blue sky over highlands",
+      "imageAttribution": "Photo by Weather Watch",
+      "href": "/blog/best-time-to-visit-Nairobi-weather-seasonal-guide",
+      "author": "Weather Watch",
+      "date": "November 05, 2024",
+      "category": "Tips",
+       "content": {
+        "subheading": "Chasing the Perfect Weather",
+        "intro": "Nairobi enjoys a cool, temperate climate year-round, but some months are simply magical.",
+        "paragraphs": [
+           "Jan to March is generally dry and sunny, perfect for outdoor picnics. The cooler months of June and July offer that distinct misty highland atmosphere, ideal for cozying up by a fireplace.",
+           "Avoid the heavy rains in April and November if you plan on doing a lot of hiking."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Sunny picnic day",
+             "attribution": "Photo by Picnic Lover"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=2666&auto=format&fit=crop",
+             "alt": "Cozy fireplace",
+             "attribution": "Photo by Cozy Vibes"
+           }
+        ],
+        "closing": "Whenever you choose to visit, Nairobi's charm is perennial."
+      }
+    }
+  ],
+  "gridPosts": [
+    {
+      "title": "Exploring Nairobi: Kenya’s Serene Tea Highlands Escape",
+      "slug": "exploring-Nairobi-kenyas-serene-tea-highlands-escape",
+      "excerpt": "From rolling tea farms to misty mornings, Nairobi offers a refreshing countryside experience.",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2670&auto=format&fit=crop",
+      "imageAlt": "Tea farm panorama",
+      "imageAttribution": "Photo by John Doe",
+      "href": "/blog/exploring-Nairobi-kenyas-serene-tea-highlands-escape",
+      "author": "John Doe",
+      "date": "November 12, 2024",
+      "category": "Travel",
+      "content": {
+        "subheading": "A Peaceful Getaway Just Outside Nairobi",
+        "intro": "Nestled in the lush highlands of Kiambu County, Nairobi offers a refreshing blend of cool weather, scenic tea plantations, and tranquil countryside living.",
+        "paragraphs": [
+          "Nairobi is best known for its expansive tea estates, quiet roads, and charming cafés hidden among the hills. It’s a favorite for cyclists, hikers, and anyone seeking a slow-paced escape.",
+          "Whether you’re planning a day trip or a weekend stay, Nairobi rewards visitors with fresh air, stunning views, and a deep connection to nature."
+        ],
+        "gallery": [
+          {
+            "src": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Misty hills",
+            "attribution": "Photo by Nature Lover"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Waterfall view",
+            "attribution": "Photo by Explorer"
+          }
+        ],
+        "closing": "Nairobi is proof that you don’t need to travel far to experience peace, beauty, and adventure. Sometimes, the perfect destination is just a short drive away."
+      }
+    },
+    {
+      "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
+      "slug": "how-to-get-to-Nairobi",
+      "excerpt": "A practical guide covering driving routes, public transport, and travel planning.",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=2670&auto=format&fit=crop",
+      "href": "/blog/how-to-get-to-Nairobi",
+      "author": "Sarah James",
+      "date": "November 10, 2024",
+      "category": "Guide",
+      "content": {
+        "subheading": "Navigating Your Way",
+        "intro": "Located just 30 kilometers from Nairobi, getting to Nairobi is a breeze whether you're driving or taking public means.",
+        "paragraphs": [
+           "The most scenic route is via Limuru Road, which winds through lush coffee and tea plantations. If you're using public transport, matatus from Koja Mosque in Nairobi CBD will drop you right at the Limuru town center.",
+           "We recommend starting your journey early in the morning to catch the misty sunrise that the region is famous for."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop",
+             "alt": "Driving route view"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Local transport"
+           }
+        ],
+        "closing": "Safe travels! A beautiful escape awaits you just around the corner."
+      }
+    },
+    {
+      "title": "Best Things to Do in Nairobi: Nature, Food & Adventure",
+      "slug": "best-things-to-do-in-Nairobi-nature-food-adventure",
+      "excerpt": "Explore Nairobi’s tea walks, cycling routes, scenic viewpoints, and hidden cafés.",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=2670&auto=format&fit=crop",
+      "href": "/blog/best-things-to-do-in-Nairobi-nature-food-adventure",
+      "author": "Michael K.",
+      "date": "November 08, 2024",
+      "category": "Activities",
+      "content": {
+        "subheading": "Unwind and Explore",
+        "intro": "Nairobi is an outdoor lover's paradise, offering everything from adrenaline-pumping bike trails to serene tea farm tours.",
+        "paragraphs": [
+           "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
+            "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
+             "alt": "Farm tour"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Food tasting"
+           }
+        ],
+        "closing": "Pack your walking shoes and a camera – you'll need both!"
+      }
+    },
+    {
+      "title": "Top Cafés & Eateries to Try in Nairobi",
+      "slug": "top-cafes-eateries-to-try-in-Nairobi",
+      "excerpt": "Warm meals, fresh coffee, and scenic dining spots you shouldn’t miss in Nairobi.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2670&auto=format&fit=crop",
+      "href": "/blog/top-cafes-eateries-to-try-in-Nairobi",
+      "author": "Foodie KE",
+      "date": "November 03, 2024",
+      "category": "Food",
+      "content": {
+        "subheading": "Culinary Delights in the Mist",
+        "intro": "There is nothing quite like a hot cup of coffee overlooking a mist-covered tea farm. Nairobi's culinary scene is growing fast.",
+        "paragraphs": [
+           "From the rustic charm of The Fig & Olive to the sophisticated menu at The Pot at Panda, there are plenty of options. Most ingredients are locally sourced, ensuring the freshest farm-to-table experience.",
+           "Be sure to try the local Nairobi tea – it's world-renowned for a reason."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2694&auto=format&fit=crop",
+             "alt": "Coffee cup with view"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Cafe interior"
+           }
+        ],
+        "closing": "Bon appétit!"
+      }
+    },
+    {
+      "title": "Cycling & Hiking Trails Around Nairobi",
+      "slug": "cycling-hiking-trails-around-Nairobi",
+      "excerpt": "Discover the best outdoor trails for cycling enthusiasts and nature lovers.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?q=80&w=2670&auto=format&fit=crop",
+      "href": "/blog/cycling-hiking-trails-around-Nairobi",
+      "author": "Adventure Trails",
+      "date": "November 01, 2024",
+      "category": "Activities",
+      "content": {
+        "subheading": "Trails for Every Pace",
+        "intro": "With its undulating hills and cool air, Nairobi is the perfect playground for cyclists and hikers.",
+        "paragraphs": [
+           "The loops around the tea farms offer varying levels of difficulty. The 'Tea Route' is a popular 20km loop that takes you through the most scenic parts of the estate.",
+           "Always respect private property signs and stick to the designated public paths."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Cycling trail"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2670&auto=format&fit=crop",
+             "alt": "Hiking path"
+           }
+        ],
+        "closing": "Ride safe and enjoy the view."
+      }
+    },
+    {
+      "title": "Weekend Getaway Guide: Nairobi to Nairobi",
+      "slug": "weekend-getaway-guide-nairobi-to-Nairobi",
+      "excerpt": "A complete weekend plan for escaping Nairobi and unwinding in Nairobi.",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2670&auto=format&fit=crop",
+      "href": "/blog/weekend-getaway-guide-nairobi-to-Nairobi",
+      "author": "Weekend Warrior",
+      "date": "October 28, 2024",
+      "category": "Guide",
+      "content": {
+        "subheading": "48 Hours in Paradise",
+        "intro": "Need a break from the city noise? Here is how to spend a perfect 48 hours in Nairobi.",
+        "paragraphs": [
+           "Day 1: Arrive early and check into one of the boutique cottages. Spend the afternoon on a tea farm tour. Dinner at a local farm-to-table restaurant is a must.",
+           "Day 2: Start with a sunrise hike or bike ride. Brunch at a garden café, followed by a visit to the local waterfalls before heading back to the city."
+        ],
+        "gallery": [
+           {
+             "src": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=2649&auto=format&fit=crop",
+             "alt": "Boutique cottage"
+           },
+           {
+             "src": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2674&auto=format&fit=crop",
+             "alt": "Garden cafe"
+           }
+        ],
+        "closing": "You'll return to the city refreshed and ready for the week ahead."
+      }
+    }
+  ]
+}

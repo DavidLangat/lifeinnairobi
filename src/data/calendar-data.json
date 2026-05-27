@@ -1,0 +1,145 @@
+{
+    "heading": "Upcoming Events in Nairobi",
+    "description": "Discover seasonal festivals, community gatherings, and exclusive experiences happening in the heart of the highlands.",
+    "items": [
+        {
+            "id": "302d06dc-e9b3-4f67-a1ad-846f651a70ff",
+            "name": "Kawamwaki Hike",
+            "date": "2026-01-24",
+            "location": "Nairobi, Kenya",
+            "price": 3000,
+            "image": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/activities/Nairobi%20Hikes.jpg",
+            "short_description": "A scenic walk leading to a hidden waterfall in Nairobi.",
+            "slug": "kawamwaki-hike-2026-01-24",
+            "full_description": "<p>\n  The <strong>Kawamwaki Hike</strong> takes you deep into one of Nairobi’s most diverse landscapes. Set within a working eco-farm, this trail weaves through rolling tea plantations, shaded forest corridors, open farmland, and multiple water features that define the character of the area.\n</p>\n\n",
+            "highlights": "<p>\n  This <strong>10 km guided walk</strong> is intentionally paced to suit beginners while still offering a sense of adventure. Along the route, you’ll encounter <strong>three waterfalls</strong>, a calm dam, and expansive viewpoints that open up toward Nairobi on clear days. It’s a rewarding escape for nature lovers seeking both scenery and stillness.\n</p>\n\n<p>\n  After the hike, guests are welcome to wind down with a relaxed meal at <strong>COMO Restaurant</strong>, located nearby.\n</p>\n\n<h3>What Makes This Walk Special</h3>\n<ul>\n  <li><strong>Three natural waterfalls</strong> along the route</li>\n  <li>A guided walk through <strong>Kawamwaki Farm</strong></li>\n  <li>Elevated tea fields with <strong>wide views toward Nairobi</strong></li>\n  <li>A peaceful <strong>dam</strong> surrounded by greenery</li>\n  <li>Forest paths and open countryside landscapes</li>\n</ul>\n\n<h3>Trail Details</h3>\n<ul>\n  <li><strong>Difficulty:</strong> Easy / Beginner-friendly</li>\n  <li><strong>Distance:</strong> 10 km</li>\n  <li><strong>Duration:</strong> Approximately 4 hours</li>\n  <li><strong>Trail Location:</strong> Kawamwaki Farm, Nairobi</li>\n</ul>\n\n<h3>What Your Ticket Covers</h3>\n<ul>\n  <li>An experienced, friendly <strong>professional hiking guide</strong></li>\n  <li>A guided experience focused on <strong>nature, learning, and enjoyment</strong></li>\n</ul>\n\n<h3>What’s Not Covered</h3>\n<ul>\n  <li>Meals and refreshments</li>\n</ul>\n\n<h3>Meeting Point Details</h3>\n<p>\n  For self-drive guests, a <strong>location pin for Kawamwaki Farm</strong> will be shared after booking.\n</p>\n\n<h3>Important Notes Before You Go</h3>\n<ul>\n  <li>The guide’s contact information is provided at the bottom of this page.</li>\n  <li>Please note that <strong>en-route pickups are not available</strong>.</li>\n  <li>The hike is suitable for <strong>children and first-time hikers</strong>.</li>\n  <li>By purchasing a ticket, you agree to the <strong>Life in Nairobi Terms &amp; Conditions</strong>.</li>\n  <li>The hike will proceed as scheduled <strong>unless officially communicated otherwise</strong>.</li>\n  <li>A <strong>confirmation email</strong> will be sent once your booking is complete.</li>\n</ul>\n\n<h3>Safety Commitment</h3>\n<p>\n  Your wellbeing comes first. All hikes are led by <strong>qualified guides and trusted local trail experts</strong> who are familiar with the terrain. Every guide carries a <strong>first-aid kit</strong> and maintains emergency contact access throughout the hike.\n</p>\n\n<h3>Cancellation Policy</h3>\n<ul>\n  <li>Cancellations made <strong>over 48 hours before</strong> the hike date qualify for a <strong>50% refund</strong>.</li>\n  <li>Cancellations made <strong>within 48 hours</strong> of the hike are <strong>non-refundable</strong>.</li>\n  <li><strong>No-shows</strong> will not be refunded.</li>\n</ul>",
+            "itinerary": [{
+                "title": "Assembly",
+                "description": "Warm-up and safety briefing 15 mins before start."
+            }, {
+                "title": "The Hike",
+                "description": "2-3 hour hike depending on pace and route chosen."
+            }, {
+                "title": "Cool Down",
+                "description": "Stretch session and refreshments."
+            }],
+            "pricing": {
+                "citizen": 3000,
+                "resident": 4000,
+                "nonResident": 5000
+            },
+            "key_details": {
+                "duration": "90 minutes",
+                "location": "Kawamwaki Farm",
+                "startTime": ["9:00 AM", "12:00 PM", "3:30 PM"]
+            },
+            "gallery": ["https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/Hike.jpg", "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/hike2.jpg"],
+            "created_at": "2026-01-20T07:40:53.614975+00:00",
+            "type": "hiking-tours"
+        },
+        {
+            "id": "918444a7-673b-435d-863c-b8e5625d85fa",
+            "name": "Cianda Hike",
+            "date": "2026-02-01",
+            "location": "Nairobi, Kenya",
+            "price": 3000,
+            "image": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/tea%20farm%20tour.jpg?updatedAt=1768296531301",
+            "short_description": "Explore lush paths and tranquil water features at Cianda.",
+            "slug": "cianda-hike-2026-02-01",
+            "full_description": "<p>\n  The <strong>Cianda Walk</strong> is one of Nairobi’s most loved countryside hikes, offering a refreshing mix of open farmland, flowing water, and quiet rural paths. Beginning at the iconic <strong>Fig &amp; Olive Restaurant</strong>, this trail takes you through tea and coffee farms, past a calm dam, and onward to the hidden <strong>Cianda Caves and Waterfall</strong>—a rewarding natural highlight tucked away in the landscape.\n</p>\n",
+            "highlights": "\n<p>\n  This hike is designed to be accessible while still feeling adventurous, making it ideal for beginners, families, and anyone looking for a full outdoor experience without technical difficulty.\n</p>\n\n<h3>After-Hike Experience</h3>\n<p>\n  Wrap up your hike back at <strong>Fig &amp; Olive Restaurant</strong>. Weekend dining requires a reservation, but their deli is always open for takeaway meals and snacks—perfect before or after the walk.\n</p>\n\n<h3>What Makes This Walk Special</h3>\n<ul>\n  <li>A scenic <strong>waterfall</strong> and natural cave</li>\n  <li>Expansive <strong>tea and coffee farms</strong></li>\n  <li>A peaceful <strong>dam stop</strong> along the route</li>\n  <li>Open countryside with changing terrain</li>\n</ul>\n\n<h3>Trail Details</h3>\n<ul>\n  <li><strong>Difficulty:</strong> Beginner-friendly</li>\n  <li><strong>Distance:</strong> 11 km</li>\n  <li><strong>Duration:</strong> Approximately 4 hours</li>\n  <li><strong>Trail Type:</strong> Out &amp; back</li>\n  <li><strong>Elevation:</strong> Varied, with gentle hills and a few steeper sections</li>\n  <li><strong>Trailhead &amp; End:</strong> Fig &amp; Olive Restaurant</li>\n</ul>\n\n<h3>What Your Ticket Covers</h3>\n<ul>\n  <li>A <strong>professional and experienced hiking guide</strong></li>\n  <li>A guided experience tailored to be <strong>engaging, informative, and enjoyable</strong> throughout the day</li>\n</ul>\n\n<h3>What’s Not Covered</h3>\n<ul>\n  <li>Meals and refreshments</li>\n</ul>\n\n<h3>Meeting Point Details</h3>\n<p>\n  For self-drive guests, the destination is <strong>Fig &amp; Olive Restaurant</strong>, which also serves as the trailhead.\n</p>\n\n<h3>Important Notes Before You Go</h3>\n<ul>\n  <li>The guide’s contact details are provided at the bottom of this page.</li>\n  <li>Please note that <strong>pickups along the route are not available</strong>.</li>\n  <li>The trail is suitable for <strong>children and first-time hikers</strong>.</li>\n  <li>A <strong>confirmation email</strong> will be sent after successful booking.</li>\n</ul>\n\n<h3>Safety Commitment</h3>\n<p>\n  Your safety is always our priority. All hikes are led by <strong>qualified professional guides and trusted local trail leaders</strong> who are familiar with the terrain. Each guide carries a <strong>first-aid kit</strong> and maintains emergency contacts throughout the experience.\n</p>\n\n<h3>Cancellation Policy</h3>\n<ul>\n  <li>Cancellations made <strong>more than 48 hours</strong> before the hike qualify for a <strong>50% refund</strong>.</li>\n  <li>Cancellations made <strong>within 48 hours</strong> of the hike are <strong>non-refundable</strong>.</li>\n  <li><strong>No-shows</strong> will not be refunded.</li>\n</ul>",
+            "itinerary": [{
+                "title": "Assembly",
+                "description": "Warm-up and safety briefing 15 mins before start."
+            }, {
+                "title": "The Hike",
+                "description": "2-3 hour hike depending on pace and route chosen."
+            }, {
+                "title": "Cool Down",
+                "description": "Stretch session and refreshments."
+            }],
+            "pricing": {
+                "citizen": 3000,
+                "resident": 4000,
+                "nonResident": 5000
+            },
+            "key_details": {
+                "duration": "90 minutes",
+                "location": "Cianda Farm",
+                "startTime": ["9:00 AM", "12:00 PM", "3:30 PM"]
+            },
+            "gallery": ["https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/Hike.jpg"],
+            "created_at": "2026-01-20T07:40:53.614975+00:00",
+            "type": "hiking-tours"
+        },
+        {
+            "id": "c594d4da-27c9-4ec4-863d-6aaf0fd87642",
+            "name": "Brackenhurst Hike",
+            "date": "2026-02-07",
+            "location": "Nairobi, Kenya",
+            "price": 3000,
+            "image": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/hike2.jpg",
+            "short_description": "Shaded forest trails rich in birdlife at Brackenhurst.",
+            "slug": "brackenhurst-hike-2026-02-07",
+            "full_description": "<p>\n  The <strong>Brackenhurst Hike</strong> is a refreshing loop trail set within Nairobi’s rolling tea fields and indigenous forest pockets. This experience blends gentle countryside walking with moments of discovery—small waterfalls, shaded forest trails, and wide open views that remind you how close nature is to Nairobi.\n</p>",
+            "highlights": "\n<p>\n  After completing the hike, you return to <strong>Brackenhurst Restaurant</strong>, where you can unwind with a well-earned meal in a calm, green setting. It’s the kind of hike that clears your mind, re-energizes your body, and leaves you feeling ready for the week ahead.\n</p>\n<h3>What Makes This Walk Special</h3>\n<ul>\n  <li>Expansive <strong>tea plantation scenery</strong></li>\n  <li>Shaded <strong>forest trails</strong></li>\n  <li><strong>Small seasonal waterfalls</strong></li>\n  <li>Peaceful highland atmosphere</li>\n</ul>\n\n<h3>Trail Details</h3>\n<ul>\n  <li><strong>Difficulty:</strong> Beginner-friendly</li>\n  <li><strong>Distance:</strong> 10 km</li>\n  <li><strong>Duration:</strong> Approximately 5 hours</li>\n  <li><strong>Trail Type:</strong> Loop</li>\n  <li><strong>Trailhead &amp; End:</strong> Brackenhurst Restaurant, Nairobi</li>\n</ul>\n\n<h3>What Your Ticket Covers</h3>\n<ul>\n  <li>A <strong>professional and experienced hiking guide</strong></li>\n  <li>A guided experience designed to be <strong>engaging, informative, and enjoyable</strong>, tailored to the pace of the group</li>\n</ul>\n\n<h3>What’s Not Covered</h3>\n<ul>\n  <li>Meals and refreshments</li>\n</ul>\n\n<h3>Meeting Point Details</h3>\n<p>\n  For those driving, this hike is <strong>self-drive friendly</strong> with secure parking available.\n</p>\n<p>\n  📍 <strong>Pin Location:</strong> Brackenhurst Nairobi\n</p>\n\n<h3>Important Notes Before You Go</h3>\n<ul>\n  <li>The guide’s contact information is provided at the bottom of this page.</li>\n  <li>Please note that <strong>pickups along the route are not available</strong>.</li>\n  <li>This trail is suitable for <strong>beginners and children</strong>.</li>\n  <li>By purchasing a ticket, you agree to the <strong>Life in Nairobi Terms &amp; Conditions</strong>.</li>\n  <li>Unless communicated otherwise, the hike will proceed as scheduled.</li>\n  <li>A <strong>booking confirmation email</strong> will be sent after purchase.</li>\n</ul>\n\n<h3>Safety Commitment</h3>\n<p>\n  Your safety comes first. All hikes are led by <strong>qualified professional guides and trusted local trail leaders</strong> who are familiar with the area. Guides carry <strong>first-aid kits</strong> and maintain emergency contacts throughout the experience.\n</p>\n\n<h3>Cancellation Policy</h3>\n<ul>\n  <li>Cancellations made <strong>more than 48 hours</strong> before the hike qualify for a <strong>50% refund</strong>.</li>\n  <li>Cancellations made <strong>within 48 hours</strong> of the hike are <strong>non-refundable</strong>.</li>\n  <li><strong>No-shows</strong> will not be refunded.</li>\n</ul>",
+            "itinerary": [{
+                "title": "Assembly",
+                "description": "Warm-up and safety briefing 15 mins before start."
+            }, {
+                "title": "The Hike",
+                "description": "2-3 hour hike depending on pace and route chosen."
+            }, {
+                "title": "Cool Down",
+                "description": "Stretch session and refreshments."
+            }],
+            "pricing": {
+                "citizen": 3000,
+                "resident": 4000,
+                "nonResident": 5000
+            },
+            "key_details": {
+                "duration": "90 minutes",
+                "location": "Brackenhurst",
+                "startTime": ["9:00 AM", "12:00 PM", "3:30 PM"]
+            },
+            "gallery": ["https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/hike2.jpg"],
+            "created_at": "2026-01-20T07:40:53.614975+00:00",
+            "type": "hiking-tours"
+        },
+        {
+            "id": "b45fc8c9-5b29-417b-816e-ef47d711f0e6",
+            "name": "Nairobi Tea Estate Hike",
+            "date": "2026-02-15",
+            "location": "Nairobi, Kenya",
+            "price": 3000,
+            "image": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/activities/Nairobi%20Tea%20Farm%20Tours.jpg",
+            "short_description": "Walks through iconic tea plantations with sweeping views.",
+            "slug": "Nairobi-tea-estate-hike-2026-02-15",
+            "full_description": "<p>\n  The <strong>Nairobi Tea Estate Hike</strong> is a standout hiking experience in the tea-covered highlands of Limuru, just under an hour from Nairobi. This premium trail showcases some of Nairobi’s most striking natural beauty — winding through emerald tea fields, forest edges, and tranquil valleys that lead to a <strong>scenic waterfall and a picturesque picnic stop</strong> nestled beside it.\n</p>\n\n",
+            "highlights": "<p>\n  Designed for those who want more than a walk — whether you’re a keen nature lover, photographer, or weekend adventurer — this hike blends <strong>rich tea heritage with highland serenity</strong> and a rewarding rest point for snacks and relaxation mid-route.\n</p>\n\n<h3>What Makes This Walk Special</h3>\n<ul>\n  <li>A beautiful <strong>natural waterfall</strong> set in lush surroundings — perfect for photos and cool dips.</li>\n  <li>Rolling tea estate views stretching across Nairobi’s green hills.</li>\n  <li>Peaceful forest and shaded paths threading through farmland.</li>\n  <li>A dedicated <strong>picnic area</strong> near the waterfall — ideal for a mid-hike break with snacks.</li>\n</ul>\n\n<h3>Trail Details</h3>\n<ul>\n  <li><strong>Difficulty:</strong> Beginner-friendly to Moderate</li>\n  <li><strong>Distance:</strong> ~10–12 km (loop or out-and-back options)</li>\n  <li><strong>Duration:</strong> ~4–5 hours</li>\n  <li><strong>Trailhead &amp; Finish:</strong> Meet near <strong>Nairobi tea fields access point</strong> (pin provided upon booking)</li>\n  <li><strong>Best Time to Go:</strong> Morning or early afternoon for cool air and best light for photos.</li>\n</ul>\n<h3>What Your Ticket Covers</h3>\n<ul>\n  <li>A <strong>professional, friendly guide</strong> adept with the local landscape.</li>\n  <li>An informative, engaging experience tailored to your group size and pace.</li>\n</ul>\n\n<h3>What’s Not Covered</h3>\n<ul>\n  <li>Transport to/from trailhead</li>\n  <li>Meals and drinks</li>\n  <li>Optional extras like photos or picnic setups</li>\n</ul>\n\n<h3>Meeting Point Details</h3>\n<p><strong>Self-drive:</strong></p>\n<p>\n  Trailhead pin is shared after booking — ample parking available.\n</p>\n<p>\n  🚕 <em>Ride-hail services like Uber or Bolt can reach the trailhead.</em>\n</p>\n\n<h3>Important Notes Before You Go</h3>\n<ul>\n  <li>The guide’s contact is displayed at the bottom of this page for any questions.</li>\n  <li><strong>No pickups en route</strong> — please arrive at the agreed meeting point.</li>\n  <li>This trail is <strong>suitable for beginners and families</strong>.</li>\n  <li>Once your ticket is confirmed, you’ll receive an <strong>email confirmation</strong> with all details.</li>\n</ul>\n\n<h3>Safety Commitment</h3>\n<p>\n  Your safety is our priority. All hikes are led by <strong>trained outdoor guides and experienced local leaders</strong> who know the terrain thoroughly. Each guide carries a <strong>first-aid kit and emergency contact resources</strong>. If you have specific safety questions, please contact us before your trip.\n</p>\n\n<h3>Cancellation Policy</h3>\n<ul>\n  <li>Cancel <strong>more than 48 hours</strong> before the hike — get a <strong>50% refund</strong> of your ticket.</li>\n  <li>Cancel <strong>within 48 hours</strong> of the hike — <strong>no refund</strong>.</li>\n  <li><strong>No-shows</strong> are non-refundable.</li>\n</ul>",
+            "itinerary": [{
+                "title": "Assembly",
+                "description": "Warm-up and safety briefing 15 mins before start."
+            }, {
+                "title": "The Hike",
+                "description": "2-3 hour hike depending on pace and route chosen."
+            }, {
+                "title": "Cool Down",
+                "description": "Stretch session and refreshments."
+            }],
+            "pricing": {
+                "citizen": 3000,
+                "resident": 4000,
+                "nonResident": 5000
+            },
+            "key_details": {
+                "duration": "90 minutes",
+                "location": "Nairobi Tea Farms",
+                "startTime": ["9:00 AM", "12:00 PM", "3:30 PM"]
+            },
+            "gallery": ["https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/activities/Nairobi%20Tea%20Farm%20Tours.jpg"],
+            "created_at": "2026-01-20T07:40:53.614975+00:00",
+            "type": "hiking-tours"
+        }]
+}

@@ -1,0 +1,33 @@
+Options -MultiViews
+
+RewriteEngine On
+RewriteBase /
+
+# Serve the standard index.html for directories
+DirectoryIndex index.html
+
+# Add trailing slash to directories if missing
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ /$1/ [L,R=301]
+
+# If the request matches a file or directory, serve it
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Fallback to custom 404 for everything else
+ErrorDocument 404 /404.html
+
+# --- Cache: avoid stale HTML pointing at deleted Next.js chunks after deploy ---
+<IfModule mod_headers.c>
+  # HTML must revalidate so caches do not serve old markup with outdated _next chunk URLs
+  <FilesMatch "\.(html|htm)$">
+    Header set Cache-Control "no-cache, must-revalidate, max-age=0"
+  </FilesMatch>
+
+  # Hashed assets under _next/static are safe to cache for a year (works at root or in a subfolder)
+  SetEnvIf Request_URI "_next/static/" NEXT_EXPORT_STATIC=1
+  Header set Cache-Control "public, max-age=31536000, immutable" env=NEXT_EXPORT_STATIC
+</IfModule>

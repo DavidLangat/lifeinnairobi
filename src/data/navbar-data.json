@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Home",
+    "href": "/"
+  },
+  {
+    "name": "About",
+    "href": "/about",
+    "dropdown": [
+      {
+        "name": "Nairobi",
+        "href": "/about"
+      },
+        {
+        "name": "Activities",
+        "href": "/activities"
+      },
+        {
+        "name": "Getting to Nairobi",
+        "href": "/about/how-to-get-to-nairobi"
+      }
+    ]
+  },
+  {
+    "name": "Where to?",
+    "href": "#",
+    "dropdown": [
+      {
+        "name": "Stay",
+        "href": "/accommodation"
+      },
+      {
+        "name": "Eat",
+        "href": "/restaurants"
+      }
+    ]
+  },
+
+  {
+    "name": "Blog",
+    "href": "/blog"
+  }
+]

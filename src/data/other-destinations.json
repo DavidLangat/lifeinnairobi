@@ -1,0 +1,40 @@
+{
+  "heading": "Other Destinations",
+  "description": "Discover more hidden gems, relaxation spots, and leisure activities in Tigoni.",
+    "viewMoreLink": "/other-destinations",
+
+  "items": [
+    {
+      "name": "Serenity Spa, Tigoni",
+      "slug": "serenity-spa-tigoni",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Serenity%20Spa%20Tigoni.jpg?updatedAt=1765819898053",
+      "category": "Spa | Wellness",
+      "isActive": true,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Nestled in the tranquil highlands of Tigoni, Serenity Spa offers a refined escape dedicated to relaxation, renewal, and holistic wellbeing. Surrounded by lush greenery and cool mountain air, the spa provides a peaceful setting where guests can slow down and reconnect with themselves.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Serenity Spa is known for its carefully curated range of wellness treatments designed to refresh the body, restore balance, and calm the mind. From soothing massages and revitalising facials to holistic therapies, each experience is delivered by highly trained professionals who are attentive, skilled, and deeply committed to personalised care.</p><p class='mb-6 font-open-sans'>Using premium, high-quality products, every treatment at Serenity Spa is thoughtfully crafted to enhance relaxation and promote lasting rejuvenation. Whether you are unwinding after a day of exploration or planning a dedicated wellness retreat, Serenity Spa in Tigoni offers a serene sanctuary where comfort, professionalism, and natural beauty come together effortlessly.</p>"
+    },
+    {
+      "name": "Limuru Country Club",
+      "slug": "limuru-country-club",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Limuru%20Country%20Club%20Tigoni.jpg?updatedAt=1766043995390",
+      "category": "Golf | Leisure",
+      "isActive": true,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Set within the cool, rolling highlands of Limuru, Limuru Country Club is a classic countryside retreat known for its lush fairways, fresh mountain air, and timeless charm. Surrounded by expansive greenery and scenic views, the club offers a relaxed yet refined atmosphere just a short drive from Tigoni and Nairobi.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>At the heart of the club is its well-maintained golf course, which provides an enjoyable challenge for both seasoned players and casual golfers. Beyond golf, Limuru Country Club is a welcoming space for leisurely afternoons, social gatherings, and quiet moments in nature. The serene environment makes it an ideal stop for visitors seeking a balance of outdoor activity and relaxation.</p><p class='mb-6 font-open-sans'>With its peaceful setting, cool climate, and traditional country club feel, Limuru Country Club remains a favourite escape for those looking to unwind, enjoy sport, and experience the charm of Kenya’s highland landscapes.</p>"
+    },
+    {
+      "name": "Twin Rivers, Tigoni",
+      "slug": "twin-rivers-tigoni",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/twinrivers%20Tigoni.jpg?updatedAt=1766043907017",
+      "category": "Outdoors | Picnic",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Set along the gentle banks of the Tigoni River, Twin Rivers Tigoni is a tranquil outdoor destination surrounded by lush gardens, flowing water, and peaceful green spaces. The property offers a relaxed natural setting ideal for picnics, family outings, group gatherings, and a wide range of outdoor activities.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Guests are welcome to carry their own food and drinks and enjoy them within the serene gardens. For those looking to elevate the experience, Twin Rivers also features an outdoor kitchen available for hire, located beside a picturesque waterfall — perfect for cookouts and shared meals in nature. Alternatively, visitors may order food and drinks from the on-site menu, with meals conveniently delivered within the hour.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Twin Rivers offers a variety of activities suitable for all ages, making it a popular choice for families, friends, and small groups seeking a laid-back countryside escape. For groups of 10 people or more, advance reservations are required to ensure a seamless experience.</p><p class='mb-4 font-bold text-gray-800'>Entry Fees:</p><ul class='mb-4 list-disc list-inside text-gray-700 font-open-sans'><li>Adults: KES 500</li><li>Children (1–12 years): KES 300</li></ul><p class='mb-6 font-open-sans'>With its riverside charm, open spaces, and flexible dining options, Twin Rivers Tigoni provides a refreshing setting to relax, connect, and enjoy the outdoors.</p>"
+    },
+    {
+      "name": "Naishola Gardens, Tigoni",
+      "slug": "naishola-gardens-tigoni",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Naiposha-Gardens-Home-Intro-0001.jpg",
+      "category": "Gardens | Events | Leisure",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Set within the cool highlands of Tigoni, Naishola Gardens is a beautifully curated leisure and events destination where nature, elegance, and tranquility come together. Defined by expansive manicured lawns, mature trees, and open skies, the gardens offer a peaceful countryside setting designed for unhurried moments and meaningful gatherings.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>One of Naishola’s most distinctive features is its fragrant sensory garden, alive with rosemary, lavender, and other aromatic plants that gently engage the senses as you wander through the grounds. A flowing river borders parts of the property, creating intimate picnic spots and quiet corners perfect for reflection, photography, or relaxed outdoor dining.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Naishola Gardens is widely loved for hosting a range of experiences — from romantic picnics and private celebrations to elegant outdoor weddings and full-scale events. Thoughtful amenities, refined landscaping, and a strong connection to the natural environment make it a versatile yet serene escape from the pace of city life.</p><p class='mb-6 font-open-sans'>Whether you are visiting for a leisurely afternoon in nature, planning a special celebration, or simply seeking a calm, scenic setting to unwind, Naishola Gardens offers a timeless blend of countryside charm and understated sophistication.</p>"
+    }
+  ]
+}

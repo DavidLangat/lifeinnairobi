@@ -1,0 +1,51 @@
+'use client';
+
+import React from 'react';
+import Image from 'next/image';
+
+interface BlogPostHeroProps {
+  image: string;
+  title: string;
+  alt?: string;
+  attribution?: string;
+}
+
+export default function BlogPostHero({ image, title, alt, attribution }: BlogPostHeroProps) {
+  return (
+    <div className="relative w-full mb-32 lg:mb-48">
+
+      {/* Layer 1: Background Pattern (Decor) */}
+      <div className="relative w-full h-[300px] md:h-[400px] lg:h-[550px]  overflow-hidden">
+        <Image
+          
+          src="/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg"
+          alt="Tropical Background"
+          fill
+
+          className="object-cover"
+        />
+      </div>
+
+      {/* Layer 2: Foreground Featured Image */}
+      <div className="absolute left-1/2 top-[55%] md:top-[40%] -translate-x-1/2 w-[90%] md:w-[65%] lg:w-[55%] h-[250px] md:h-[400px] lg:h-[600px] rounded-3xl overflow-hidden group">
+        <div className="relative w-full h-full">
+          {image && (
+            <Image
+              
+              src={image}
+              alt={alt || title}
+              fill
+            className={`${title === "Tea Pod Nairobi" ? "object-cover object-bottom" : "object-cover"}`}
+          />
+          )}
+          {/* {attribution && (
+            <div className="absolute bottom-0 left-0 right-0 bg-black/60 p-2 text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <p className="text-white text-xs font-serif">{attribution}</p>
+            </div>
+          )} */}
+        </div>
+      </div>
+
+    </div>
+  );
+}

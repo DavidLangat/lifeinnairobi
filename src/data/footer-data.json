@@ -1,0 +1,46 @@
+{
+  "logo": {
+    "text": "Nairobi",
+    "image": "/logo-white.png",
+    "address": "Nairobi",
+    "phone": "+254 740 726 783",
+    "email": "experienceNairobi@gmail.com",
+    "socials": [
+      {
+        "platform": "instagram",
+        "href": "https://www.instagram.com/life_in_Nairobi"
+      },
+      { "platform": "tiktok", "href": "https://www.tiktok.com/@life_in_Nairobi" }
+    ]
+  },
+  "columns": [
+    {
+      "title": "Weekly Activities",
+      "links": [
+        { "label": "E-bike Tours", "href": "/activities/ebike-tours" },
+        { "label": "Farm Tours", "href": "/activities/farm-tours" },
+        { "label": "Hiking", "href": "/activities/hiking-tours" },
+        { "label": "Weekly Calendar", "href": "/calendar?view=weekly" }
+      ]
+    },
+    {
+      "title": "Monthly Activities",
+      "links": [
+        { "label": "E-bike Tours", "href": "/activities/ebike-tours" },
+        { "label": "Farm Tours", "href": "/activities/farm-tours" },
+        { "label": "Hiking", "href": "/activities/hiking-tours" },
+        { "label": "Monthly Calendar", "href": "/calendar?view=monthly" }
+      ]
+    }
+  ],
+  "newsletter": {
+    "title": "Become a Member",
+    "description": "Join our community to access exclusive activities, offers, and personalized experiences.",
+    "placeholder": "Your Email Address",
+    "buttonText": "JOIN NOW"
+  },
+  "bottom": {
+    "poweredBy": "Nairobi",
+    "copyright": "Copyright © 2026. All rights reserved"
+  }
+}

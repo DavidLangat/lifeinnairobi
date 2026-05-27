@@ -1,0 +1,48 @@
+{
+  "services": [
+    {
+      "title": "Activities",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Activities.jpg?updatedAt=1765824023770",
+      "href": "/activities"
+    },
+    {
+      "title": "Accommodation",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Ravenswood%20Escapes%20Tigoni.jpg?updatedAt=1766044401159",
+      "href": "/accommodation"
+    },
+    {
+      "title": "Restaurants",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Resteraunts.jpg?updatedAt=1765824407537",
+      "href": "/restaurants"
+    }
+  ],
+  "blogRelated": [
+
+  ],
+  "tips": [
+    {
+      "question": "1. What to prepare for a trip to Tigoni?",
+      "answer": "Tigoni can get quite chilly, especially in the mornings and evenings. We recommend packing warm layered clothing, comfortable walking shoes for farm tours, and a raincoat just in case. Don't forget your camera for the stunning views!"
+    },
+    {
+      "question": "2. What documents do you need?",
+      "answer": "For international visitors, a valid passport and Kenyan visa (ETA) are required. For locals and residents, carry your National ID or Residency card, as some venues may ask for identification at the gate."
+    },
+    {
+      "question": "3. How to schedule your Tigoni itinerary?",
+      "answer": "We suggest arriving by 9:00 AM to enjoy the misty morning views. Start with a tea farm tour, have a leisurely lunch at one of the garden restaurants, and end your day with a nature walk or sundowner. Weekdays are quieter than weekends."
+    },
+    {
+      "question": "4. Best resources to check before visiting?",
+      "answer": "Check the 'Tigoni' blog for the latest reviews. Apps like Google Maps are reliable for navigation. You can also visit Kiambethu Farm's website for tour booking requirements."
+    },
+    {
+      "question": "5. What is the estimated budget?",
+      "answer": "A day trip typically costs between KES 3,000 to KES 8,000 per person, covering transport, a farm tour (approx KES 4,000 with lunch), and extra snacks. Budget varies depending on your dining choices."
+    },
+    {
+      "question": "6. Where to find more travel info?",
+      "answer": "Follow our social media channels for real-time updates, scroll through our 'Destinations' page, or sign up for our newsletter to get curated guides sent to your inbox."
+    }
+  ]
+}

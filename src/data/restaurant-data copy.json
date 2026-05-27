@@ -1,0 +1,89 @@
+{
+  "heading": "Restaurants in Tigoni",
+  "description": "Discover the best dining spots offering unique flavors, stunning ambience, and unforgettable culinary experiences.",
+  "viewMoreLink": "/restaurants",
+  "items": [
+    {
+      "name": "The Fig & Olive",
+      "slug": "the-fig-and-olive",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/The%20Fig%20&%20Olive%20Tigoni.jpg?updatedAt=1766044453390",
+      "category": "Bar | Café",
+      "isActive": true,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Located just off the Banana–Raini Road near Kentmere Club, The Fig & Olive is set within the rolling tea hills of Tigoni on one of Kenya’s oldest tea farms. This much-loved farm-to-table café and farm shop is housed in a beautifully upcycled barn, blending rustic charm with a relaxed countryside elegance.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Open daily from 9:00 AM to 5:00 PM, The Fig & Olive serves nourishing breakfasts, light lunches, and a tempting selection of freshly baked pastries, cakes, and scones. Guests can choose to dine beside the grand fireplace indoors or enjoy alfresco seating in the garden overlooking the tea fields.</p><p class='mb-6 font-open-sans'>The Fig & Olive is especially popular for being dog-friendly, making it a favorite stop for visitors exploring Tigoni with their pets. Families are equally drawn to the café thanks to Amuse, a dedicated kids’ space where children can paint, create, and play—allowing parents to relax and fully enjoy the experience.</p>"
+    },
+    {
+      "name": "Ridge Cabin Resort",
+      "slug": "ridge-cabin-resort",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Ridge%20Cabin%20Resort.jpg",
+      "category": "Bar | Café | Accommodation",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Ridge Cabin Resort offers a tranquil retreat nestled in nature, featuring charming, well-appointed cabins set against serene forest views. Located less than an hour from Nairobi, it provides the perfect escape from city life without traveling far.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Each cabin is designed to balance modern comfort with rustic charm, offering essential amenities that ensure a relaxed and comfortable stay while allowing guests to fully immerse themselves in the surrounding natural beauty. The quiet, leafy setting creates an atmosphere of calm—ideal for slowing down and reconnecting with nature.</p><p class='mb-6 font-open-sans'>Ridge Cabin Resort is especially suited for weekend getaways, romantic retreats, and nature enthusiasts seeking privacy, fresh air, and scenic surroundings. Whether you’re enjoying a peaceful morning in the forest, an intimate escape with a loved one, or a restful break surrounded by greenery, Ridge Cabin Resort delivers a cozy countryside experience that feels both refreshing and restorative.</p>"
+    },
+    {
+      "name": "Como",
+      "slug": "como",
+      "seo":"Como Restaurant Tigoni",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/como%20Tigoni.jpg?updatedAt=1766044343503",
+      "category": "Bar | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Como is the creative vision of Swiss-trained chef Stephanie Kiragu and one of the most exciting additions to Tigoni’s growing culinary scene. Set in a refined yet laid-back outdoor environment, Como delivers an elevated Kenyan–fusion dining experience, blending locally inspired flavors with modern international techniques.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Open Wednesday to Sunday from 12:00 PM, Como is known for its thoughtfully curated menu, seasonal ingredients, and beautifully presented dishes that celebrate Kenyan produce in a contemporary way. The relaxed garden setting makes it ideal for long lunches, intimate dinners, and special occasions in the countryside.</p><p class='mb-6 font-open-sans'>Due to its popularity—especially on weekends—advanced reservations are highly recommended. Whether you’re a food enthusiast or simply looking to enjoy a stylish dining experience in Tigoni, Como offers a perfect balance of sophistication, creativity, and comfort.</p>"
+    },
+    {
+      "name": "Nifty Café & Wine Bar",
+      "slug": "nifty-cafe-and-wine-bar",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Nifty%20Tigoni.jpg?updatedAt=1766044299491",
+      "category": "Bar | Café | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Nifty Café & Wine Bar is one of Tigoni’s most loved hangout spots, offering a warm, welcoming atmosphere that effortlessly blends great food, good music, and relaxed countryside charm. Known for its excellent coffee and freshly baked pastries, Nifty is an ideal place to slow down and enjoy the moment—whether you’re starting your day or winding down in the evening.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>The menu features crowd favorites such as flavorful chicken wings and wood-fired pizzas, perfectly complemented by a well-curated selection of wines, including rich reds that pair beautifully with the setting. The café’s cozy interiors and scenic surroundings make it a popular choice for brunch, casual meetings, quiet work sessions, or laid-back afternoons with friends.</p><p class='mb-6 font-open-sans'>What truly sets Nifty apart is its live music scene. Saturday performances by Shane Gray and Sunday sessions with Rae & Robin create an inviting, soulful vibe that draws both locals and visitors alike. With its relaxed energy, great views, and consistently good food and drinks, Nifty Café & Wine Bar is a Tigoni essential—and one that rarely disappoints.</p>"
+    },
+    {
+      "name": "Muna Tree Café",
+      "slug": "muna-tree-cafe",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Muna%20Tree.jpg",
+      "category": "Café | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Muna Tree Café is a relaxed, nature-filled dining spot in Tigoni, celebrated for its wholesome food, thoughtful sourcing, and strong connection to the local community. The café offers a wide-ranging menu that includes specialty coffees, a variety of teas, and comforting, well-prepared dishes suited for any time of day.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>A key part of Muna Tree Café’s philosophy is sustainability. Many of the vegetables used in their kitchen are sourced directly from Brackenhurst Farm and neighboring local farmers, ensuring fresh, seasonal ingredients while supporting the surrounding community. The café also stocks a small selection of artisanal products such as organic nut butters, kombucha, and other natural pantry items, making it a great stop for conscious shoppers.</p><p class='mb-6 font-open-sans'>One of its highlights is the monthly farmers’ market, held on the first Saturday of every month within the Brackenhurst grounds. The market brings together local growers, food producers, and artisans, offering visitors the chance to purchase organic produce, discover handmade goods, and enjoy the vibrant, community-driven atmosphere that Tigoni is known for.</p>"
+    },
+    {
+      "name": "Kentmere Club",
+      "slug": "kentmere-club",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/Kentmere%20Club.jpg",
+      "category": "Event Venue | Horse Riding | Hotel",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Set in the heart of Tigoni, Kentmere Club is a historic countryside retreat that blends leisure, heritage, and outdoor adventure. Founded in the 1920s, the club began as an exclusive getaway for British settlers, offering activities such as shooting ranges and horse riding. Today, it has evolved into a welcoming destination open to both locals and visitors, while still retaining its old-world charm.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Known for its lively and social atmosphere, Kentmere Club is especially popular with nyama choma enthusiasts, serving a generous selection of grilled meats alongside classic local dishes. The expansive green grounds and relaxed setting make it an ideal place to unwind, whether after a day of exploring Tigoni or as a destination in its own right.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Beyond dining, the club offers a variety of outdoor and adventure activities, including ziplining, horse riding, archery, and nature-based experiences that appeal to families, groups, and thrill-seekers alike. Kentmere also functions as an event venue and accommodation spot, making it suitable for weekend getaways, celebrations, and corporate retreats.</p><p class='mb-6 font-open-sans'>Its distinctive architecture and tranquil surroundings reflect decades of history, seamlessly paired with modern amenities. Kentmere Club remains a cornerstone of Tigoni—where heritage, hospitality, and adventure meet in a truly unique setting.</p>"
+    },
+    {
+      "name": "Brown’s Cheese Factory",
+      "slug": "browns-cheese-factory",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/brown's.jpg",
+      "category": "Farm | Tasting Experience",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>For cheese lovers, Brown’s Cheese Factory & Farm is an unmissable Tigoni experience. Known for its artisanal approach and serene farm setting, a visit to Brown’s begins with a warm welcome and a light snack that sets the tone for an engaging and educational journey into the world of cheese making.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Guests are guided through an insightful cheese-making demonstration led by knowledgeable experts, followed by a behind-the-scenes tour of the production facility. A highlight of the visit is the walk through the cheese caves, where thousands of cheeses are carefully aged using traditional methods that emphasize patience, craftsmanship, and quality.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>The experience continues with an indulgent cheese tasting, where you sample 8–10 varieties of handcrafted cheeses, thoughtfully paired with homemade crackers, fresh bread, and flavorful chutneys. Select house wines are often included to enhance the tasting and bring out the distinct character of each cheese.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>To round off the visit, guests enjoy a seasonal light lunch featuring comforting soups, fresh salads, and artisanal flatbreads, followed by dessert and coffee for a sweet finish.</p><p class='mb-6 font-open-sans'>Brown’s Cheese Tasting Room is open to visitors on Thursdays, Fridays, and Saturdays, with advance reservations required to ensure an intimate and memorable farm-to-table experience in the heart of Tigoni’s countryside.</p>"
+    },
+    {
+      "name": "Zereniti House",
+      "slug": "Zereniti-house",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/zereneti-272-2.jpg",
+      "category": "Event Venue | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Zereniti House offers a thoughtfully curated dining and event experience designed around connection, comfort, and meaningful moments. Set within calm, nature-inspired surroundings, it is a place where intimate gatherings and shared meals take center stage.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>The restaurant focuses on freshly prepared, seasonal cuisine, with menus that change to reflect what is locally available and in season. From nourishing breakfasts to relaxed lunches and elegant dinners, each dish is crafted to be both wholesome and satisfying—food that feeds the body while uplifting the spirit.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Zereniti House is equally loved for its warm, inviting spaces, making it ideal for family meals, friendly catch-ups, creative meetings, and private celebrations. Natural light, earthy textures, and a cozy atmosphere create the perfect setting for conversation, laughter, and reflection.</p><p class='mb-6 font-open-sans'>Beyond dining, Zereniti House also serves as a boutique event venue, suitable for small weddings, corporate retreats, workshops, and private functions. Whether you come for a quiet meal or to celebrate a special occasion, Zereniti House invites you to slow down, connect deeply, and leave with memories worth holding onto.</p>"
+    },
+    {
+      "name": "Camellia Gardens",
+      "slug": "camellia-gardens",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/camellia%20gardens.jpg?updatedAt=1765862357170",
+      "category": "Bar | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Set amid the lush, rolling tea plantations of Limuru, Camellia Gardens is a picturesque destination that seamlessly blends nature, dining, and celebration. Surrounded by sweeping green landscapes and fresh highland air, it offers a serene escape just a short drive from Nairobi.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Camellia Gardens is widely sought after as a venue for birthdays, weddings, team-building events, and photoshoots, thanks to its expansive outdoor spaces and scenic backdrops. The setting provides a natural elegance that requires little embellishment, making it ideal for both intimate gatherings and larger celebrations.</p><p class='mb-6 font-open-sans'>In addition to being an event venue, Camellia Gardens features a relaxed bar and restaurant, where guests can enjoy good food and drinks while taking in uninterrupted views of the tea fields. Whether you’re celebrating a milestone, hosting a corporate retreat, or simply enjoying a leisurely day out in the countryside, Camellia Gardens offers a calm, beautiful, and memorable Tigoni–Limuru experience.</p>"
+    },
+    {
+      "name": "Anza Tigoni",
+      "slug": "anza-tigoni",
+      "seo":"Anza Restaurant & Bar Tigoni",
+      "image": "https://ik.imagekit.io/kggumm8iz/tigonilife/v2/images/anza%20Tigoni.jpg?updatedAt=1766044264851",
+      "category": "Bar | Restaurant",
+      "isActive": false,
+      "contentHtml": "<p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Anza Tigoni is a relaxed and lively social spot located along the Limuru–Tigoni Road, near Tigoni Hospital. Popular with both locals and visitors, it offers a comfortable escape where good food, music, and conversation come together in a laid-back countryside setting.</p><p class='mb-4 text-gray-700 leading-relaxed font-open-sans'>Best known for its well-seasoned nyama choma, Anza Tigoni is an ideal choice for casual lunches, evening hangouts, or energetic weekend gatherings. The venue features lush garden spaces, a spacious sports bar for live match screenings, and private patios that are perfect for small groups seeking a more intimate setting.</p><p class='mb-6 font-open-sans'>With its friendly vibe, generous portions, and open-air layout, Anza Tigoni strikes a balance between relaxation and buzz. Whether you’re unwinding with friends after a day of exploring Tigoni or looking for a vibrant place to enjoy food and drinks, Anza offers an easygoing yet memorable experience.</p>"
+    }
+  ]
+}
