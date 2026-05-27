@@ -60,7 +60,7 @@ export default function CategoryListClientPage({
             title={heading}
             breadcrumb={breadcrumb}
             description={description}
-            backgroundImage="https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg"
+            backgroundImage="/image/bg2.jpg"
           />
         </div>
 

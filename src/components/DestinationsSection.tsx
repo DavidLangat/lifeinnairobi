@@ -88,7 +88,7 @@ export default function DestinationsSection() {
                   className="relative shrink-0 w-full md:w-1/2 lg:w-1/4 snap-start px-4"
                 >
                   <Link
-                    href={`/activities/${slug}`}
+                    href={`/things-to-do/${slug}`}
                     className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
                   >
                     {/* Background Image */}
