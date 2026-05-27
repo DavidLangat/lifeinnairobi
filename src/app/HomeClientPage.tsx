@@ -1,15 +1,15 @@
-'use client';
+"use client";
 
-import React from 'react';
+import React from "react";
 // import Image from 'next/image';
-import HeroSection from '@/components/HeroSection';
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
-import DestinationsSection from '@/components/DestinationsSection';
-import FavoriteDestinationsSection from '@/components/FavoriteDestinationsSection';
-import ServiceCategories from '@/components/ServiceCategories';
-import Image from 'next/image';
-import BestThingsToDoSection from '@/components/BestThingsToDoSection';
+import HeroSection from "@/components/HeroSection";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import DestinationsSection from "@/components/DestinationsSection";
+import FavoriteDestinationsSection from "@/components/FavoriteDestinationsSection";
+import ServiceCategories from "@/components/ServiceCategories";
+import Image from "next/image";
+import BestThingsToDoSection from "@/components/BestThingsToDoSection";
 
 interface HomeClientPageProps {
   restaurantData: any;
@@ -24,17 +24,17 @@ interface HomeClientPageProps {
   hotelData: any;
 }
 
-export default function HomeClientPage({ 
-  restaurantData, 
-  favoriteDestinationsData, 
-  otherDestinationsData, 
-  eatData, 
-  golfData, 
-  padelData, 
-  shopData, 
-  stayData, 
+export default function HomeClientPage({
+  restaurantData,
+  favoriteDestinationsData,
+  otherDestinationsData,
+  eatData,
+  golfData,
+  padelData,
+  shopData,
+  stayData,
   partyData,
-  hotelData
+  hotelData,
 }: HomeClientPageProps) {
   return (
     <main className="min-h-screen bg-primary relative overflow-hidden">
@@ -56,10 +56,9 @@ export default function HomeClientPage({
         />
       </div>
 
-
       <div className="relative z-10">
         <Navbar />
-        
+
         <div>
           <HeroSection />
         </div>
@@ -68,7 +67,7 @@ export default function HomeClientPage({
         </div>
 
         <div>
-            <DestinationsSection />
+          <DestinationsSection />
         </div>
 
         {/* <FavoriteDestinationsSection
@@ -81,27 +80,13 @@ export default function HomeClientPage({
           data={otherDestinationsData}
         /> */}
 
-        <FavoriteDestinationsSection
-        page="eat"
-        data={eatData} />
-<FavoriteDestinationsSection
-page="stay"
-data={stayData} />
-<FavoriteDestinationsSection
-page="hotels"
-data={hotelData} />
-<FavoriteDestinationsSection
-page="shop"
-data={shopData} />
-<FavoriteDestinationsSection
-page="golf"
-data={golfData} />
-<FavoriteDestinationsSection
-page="padel"
-data={padelData} />
-<FavoriteDestinationsSection
-page="party"
-data={partyData} />
+        <FavoriteDestinationsSection page="eat" data={eatData} />
+        <FavoriteDestinationsSection page="stay" data={stayData} />
+        <FavoriteDestinationsSection page="hotel" data={hotelData} />
+        <FavoriteDestinationsSection page="shop" data={shopData} />
+        <FavoriteDestinationsSection page="golf" data={golfData} />
+        <FavoriteDestinationsSection page="padel" data={padelData} />
+        <FavoriteDestinationsSection page="party" data={partyData} />
 
         <div className="h-8"></div>
 

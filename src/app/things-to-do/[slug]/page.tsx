@@ -1,7 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import destinationsData from '@/data/bestthings-data.json';
+import destinationsData from '@/data/destinations-data.json';
 import ActivityClientPage from './ActivityClientPage';
 
 // Force static generation for all known slugs
@@ -32,12 +32,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
     keywords: [activity.name, 'Nairobi Activities', 'Things to do in Nairobi', 'Kenya Travel', 'Nairobi Day Trip'],
     alternates: {
-      canonical: `https://nairobi.life/activities/${slug}`,
+      canonical: `https://nairobi.life/things-to-do/${slug}`,
     },
     openGraph: {
       title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
       description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
-      url: `https://nairobi.life/activities/${slug}`,
+      url: `https://nairobi.life/things-to-do/${slug}`,
       images: [
         {
           url: activity.image,
@@ -91,7 +91,7 @@ export default async function ActivityPage({ params }: { params: Promise<{ slug:
     .map(item => ({
       title: item.name,
       image: item.image,
-      href: `/activities/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
+      href: `/things-to-do/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
     }));
 
 

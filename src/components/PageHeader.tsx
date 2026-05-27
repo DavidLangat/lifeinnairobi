@@ -23,7 +23,7 @@ export default function PageHeader({
       <div
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url("$/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg")`,
+          backgroundImage: `url("/image/bg2.jpg")`,
         }}
       >
         {/* Overlay */}
