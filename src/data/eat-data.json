@@ -39,13 +39,15 @@
       "seo": "",
       "slug": "crave-kenya-kilimani"
     },
+ 
     {
-      "category": "",
-      "contentHtml": "",
+      "category": "Restaurant / Fine Dining",
+      "contentHtml": "<p>Jiko Restaurant Nairobi is an upscale dining destination located within the Tribe Hotel at the Village Market in the Gigiri area. Known for its refined ambiance and culinary creativity, the restaurant offers an “Africa-forward” menu that celebrates local ingredients and traditional cooking techniques with a modern twist.</p><p>The restaurant’s atmosphere is <strong>contemporary, elegant, and family-friendly</strong>, designed to provide a relaxed yet sophisticated dining experience. Guests are encouraged to follow a <strong>smart, modest dress code</strong>, reflecting the upscale nature of the venue while maintaining a welcoming environment.</p><p>Jiko Restaurant Nairobi’s menu focuses on <strong>grilled dishes and fresh, locally inspired cuisine</strong>, highlighting African flavors in a modern presentation. Signature offerings include a variety of expertly prepared meats and seafood, particularly <strong>prawns and other coastal selections</strong>, alongside creative side dishes such as crispy sweet potato fries.</p><p>One of the most popular experiences at Jiko Restaurant Nairobi is its <strong>Sunday brunch</strong>, which is widely regarded as one of the best in the city. The brunch combines a diverse food selection with <strong>live music and bottomless cocktails</strong>, creating a vibrant yet relaxed social setting that attracts both locals and visitors.</p><p>The restaurant benefits from its prime location in Gigiri, a district known for its diplomatic presence and secure environment. Being within the Village Market complex provides guests with access to a wide range of shopping, entertainment, and leisure options before or after dining.</p><p>Service at Jiko Restaurant Nairobi is consistently described as <strong>professional and attentive</strong>, contributing to a polished and enjoyable dining experience. The combination of high-quality food, ambiance, and service positions it as a strong choice for both casual upscale dining and special occasions.</p><p>The overall atmosphere at Jiko Restaurant Nairobi is refined, culturally inspired, and inviting, offering a modern interpretation of African cuisine in a premium setting.</p><p>For those searching for <strong>fine dining restaurants in Gigiri Nairobi, Sunday brunch spots near Village Market, or African-inspired cuisine in Nairobi</strong>, Jiko Restaurant Nairobi stands out as a distinctive and well-regarded option.</p>",
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+            "image": "/image/destination-img-11.jpg",
+
       "isActive": false,
       "name": "Jiko",
       "seo": "",
