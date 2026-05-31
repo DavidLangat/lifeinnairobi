@@ -57,7 +57,7 @@ export default function HeroSection() {
         }}
       >
         {/* Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/70" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/75" />
       </div>
 
       <div className="container mx-auto px-6 lg:px-6 h-full relative z-10 flex flex-col justify-end pb-26 lg:pb-20 max-w-7xl">

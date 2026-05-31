@@ -4,16 +4,16 @@ import data from '@/data/shop-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Shop in Nairobi | Shopping Malls & Markets',
+  title: 'Where to Shop in Nairobi | Places to shop in Nairob',
   description: 'Explore the best shopping spots in Nairobi, from modern malls with global brands to vibrant local artisan markets.',
   keywords: ['Where to Shop in Nairobi', 'Nairobi Malls', 'Artisan Markets Nairobi', 'Shopping in Nairobi', 'Nairobi Gift Shops'],
   alternates: {
-    canonical: 'https://nairobi.life/shop',
+    canonical: 'https://nairobi.life/shops-in-nairobi',
   },
   openGraph: {
-    title: 'Where to Shop in Nairobi | Shopping Malls & Markets',
+    title: 'Where to Shop in Nairobi | Places to shop in Nairob',
     description: 'Explore the best shopping spots in Nairobi, from modern malls with global brands to vibrant local artisan markets.',
-    url: 'https://nairobi.life/shop',
+    url: 'https://nairobi.life/shops-in-nairobi',
     type: 'website',
     images: [
       {
@@ -48,7 +48,7 @@ export default function ShopPage() {
     title: item.name,
     subtitle: item.category || 'Shopping',
     image: item.image,
-    href: `/shop/${item.slug}`,
+    href: `/shops-in-nairobi/${item.slug}`,
   }));
 
   return (

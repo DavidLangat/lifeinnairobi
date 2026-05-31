@@ -45,13 +45,16 @@ export default function AboutNairobiSection() {
   const { images } = section;
 
   const sections = [
-    { id: 'intro', data: section.introduction, label: 'About Nairobi' },
+    { id: 'intro', data: section.introduction, label: 'Introduction' },
     { id: 'location', data: section.location, label: 'Location' },
     { id: 'origin', data: section.nameOrigin, label: 'Name Origin' },
-    { id: 'history', data: section.history, label: 'History of Tea', image: images.image5 },
-    { id: 'region', data: section.regionDefinition, label: 'The Region' },
+    { id: 'early-formation', data: section.earlyFormation, label: 'Early Formation' },
+    { id: 'history', data: section.history, label: 'History', image: images.image5 },
     { id: 'climate', data: section.climate, label: 'Climate & Landscape' },
-    { id: 'known-for', data: section.knownFor, label: 'What to Expect', image: images.image1 }, // Using image1 as a break
+    { id: 'known-for', data: section.knownFor, label: 'Known For', image: images.image1 }, // Using image1 as a break
+    { id: 'economic-hub', data: section.economicHub, label: 'Economic Hub' },
+    { id: 'tourism-identity', data: section.tourismIdentity, label: 'Tourism Identity' },
+    { id: 'practical', data: section.practicalConsiderations, label: 'Practical Considerations' },
     { id: 'tourism', data: section.tourismEmergence, label: 'Tourism' },
     { id: 'our-role', data: section.ourRole, label: 'Our Role' },
   ];
@@ -150,7 +153,7 @@ export default function AboutNairobiSection() {
                         className="object-cover object-[50%_60%] hover:scale-105 transition-transform duration-700"
                       />
                       <div className="absolute bottom-0 left-0 right-0 p-4 bg-linear-to-t from-black/60 to-transparent">
-                        {item.data.heading === "Nairobi and the History of Tea" ? <p className="text-white/90 text-sm font-sans">By bandabarn, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35732143</p> : <p className="text-white/90 text-sm font-sans">{item.data.heading}</p>}
+                        {item.data.heading === "Nairobi Through History" ? <p className="text-white/90 text-sm font-sans">By bandabarn, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=35732143</p> : <p className="text-white/90 text-sm font-sans">{item.data.heading}</p>}
                       </div>
                     </div>
                   )}

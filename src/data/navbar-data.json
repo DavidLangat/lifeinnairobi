@@ -11,11 +11,11 @@
         "name": "Nairobi",
         "href": "/about"
       },
-        {
+      {
         "name": "Activities",
         "href": "/activities"
       },
-        {
+      {
         "name": "Getting to Nairobi",
         "href": "/about/how-to-get-to-nairobi"
       }
@@ -27,11 +27,28 @@
     "dropdown": [
       {
         "name": "Stay",
-        "href": "/accommodation"
+        "href": "/accommodation-in-nairobi"
       },
       {
         "name": "Eat",
-        "href": "/restaurants"
+        "href": "/restaurants-in-nairobi"
+      },
+      {
+        "name": "Shop",
+        "href": "/shops-in-nairobi"
+      },
+
+      {
+        "name": "Golf",
+        "href": "/golf-clubs-in-nairobi"
+      },
+      {
+        "name": "Padel",
+        "href": "/padel-courts-in-nairobi"
+      },
+      {
+        "name": "Party",
+        "href": "/clubs-in-nairobi"
       }
     ]
   },

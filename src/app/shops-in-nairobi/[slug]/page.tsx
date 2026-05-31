@@ -1,7 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import data from '@/data/eat-data.json';
+import data from '@/data/shop-data.json';
 import CategoryClientPage from '@/components/CategoryClientPage';
 
 interface ItemType {
@@ -38,12 +38,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         description: `Experience ${item.name} in Nairobi. ${item.category}`,
         keywords: [item.name, 'Nairobi', item.category, 'Limuru'],
         alternates: {
-            canonical: `https://nairobi.life/eat/${slug}`,
+            canonical: `https://nairobi.life/shops-in-nairobi/${slug}`,
         },
         openGraph: {
             title: `${titleStr} | Places to Visit in Nairobi`,
             description: `Experience ${item.name} in Nairobi.`,
-            url: `https://nairobi.life/eat/${slug}`,
+            url: `https://nairobi.life/shops-in-nairobi/${slug}`,
             type: 'website',
             images: [
                 {
@@ -95,13 +95,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                         .map(i => ({
                             title: i.name,
                             image: i.image,
-                            href: `/eat/${i.slug}`
+                            href: `/shops-in-nairobi/${i.slug}`
                         }));
 
     return <CategoryClientPage 
               item={item} 
               relatedItems={relatedItems} 
-              basePath="/eat" 
-              categoryName="Dining" 
+              basePath="/shops-in-nairobi" 
+              categoryName="Shopping" 
            />;
 }

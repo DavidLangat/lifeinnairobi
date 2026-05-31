@@ -17,13 +17,16 @@ export default function BlogPostHeroWithMap({ image, title, alt, attribution }: 
       {/* Layer 1: Background Pattern (Decor) */}
       <div className="relative w-full h-[300px] md:h-[400px] lg:h-[550px]  overflow-hidden">
         <Image
+        src={"/image/bg2.jpg"}
           
-          src="https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg"
           alt="Tropical Background"
           fill
 
           className="object-cover"
+
         />
+                <div className="absolute inset-0 bg-black/50" />
+
       </div>
 
       {/* Layer 2: Foreground Featured Image */}

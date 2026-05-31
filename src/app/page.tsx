@@ -14,7 +14,7 @@ import hotelData from '@/data/hotel-data.json';
 
 export const metadata: Metadata = {
   title: 'Discover things to do in Nairobi | Visit Nairobi',
-  description: 'Discover lush tea farms, scenic hiking and e-bike trails, farmhouse restaurants, and peaceful retreats just outside Nairobi.',
+  description: 'Discover Nairobi’s top experiences, from wildlife and culture to food tours, museums, and authentic local experiences.',
   keywords: ['Nairobi Kenya', 'Visit Nairobi', 'Things to do in Nairobi', 'Limuru Tea Farms', 'Weekend Getaway Nairobi', 'Hiking Nairobi', 'E-biking Nairobi', 'Cycling Nairobi', 'Restaurants in Nairobi'],
   alternates: {
     canonical: 'https://nairobi.life',

@@ -4,16 +4,16 @@ import data from '@/data/eat-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Eat in Nairobi | Dining & Culinary Guide',
-  description: 'Discover the best dining spots and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
+  title: 'Restaurants in Nairobi | Places to eat in Nairobi',
+  description: 'Discover the best restaurants and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
   keywords: ['Where to Eat in Nairobi', 'Nairobi Restaurants', 'Best Dining Nairobi', 'Nairobi Food Guide', 'Restaurants in Westlands'],
   alternates: {
-    canonical: 'https://nairobi.life/eat',
+    canonical: 'https://nairobi.life/restaurants-in-nairobi',
   },
   openGraph: {
-    title: 'Where to Eat in Nairobi | Dining & Culinary Guide',
-    description: 'Discover the best dining spots and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
-    url: 'https://nairobi.life/eat',
+    title: 'Restaurants in Nairobi | Places to eat in Nairobi',
+    description: 'Discover the best restaurants and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
+    url: 'https://nairobi.life/restaurants-in-nairobi',
     type: 'website',
     images: [
       {
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Where to Eat in Nairobi | Top Restaurants & Cafes',
-    description: 'Discover the best dining spots and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
+    description: 'Discover the best restaurants and culinary experiences in Nairobi, from fine dining to vibrant local eateries.',
     images: ['v2/images/background.jpeg'],
   },
 };
@@ -48,13 +48,13 @@ export default function EatPage() {
     title: item.name,
     subtitle: item.category || 'Dining',
     image: item.image,
-    href: `/eat/${item.slug}`,
+    href: `/restaurants-in-nairobi/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
       heading={data.heading || "Where to Eat in Nairobi"}
-      breadcrumb="Eat"
+      breadcrumb="Restaurants in Nairobi"
       description={data.description}
       items={items}
     />

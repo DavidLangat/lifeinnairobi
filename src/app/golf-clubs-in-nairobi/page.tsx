@@ -4,16 +4,16 @@ import data from '@/data/golf-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Golf in Nairobi | Best Golf Courses & Clubs',
+  title: 'Golf Clubs in Nairobi | Things to do in Nairob',
   description: 'Explore the finest golf courses and country clubs across Nairobi for an unforgettable golfing experience.',
   keywords: ['Where to Golf in Nairobi', 'Nairobi Golf Courses', 'Best Golf Clubs Nairobi', 'Golfing in Nairobi', 'Nairobi Country Clubs'],
   alternates: {
-    canonical: 'https://nairobi.life/golf',
+    canonical: 'https://nairobi.life/golf-clubs-in-nairobi',
   },
   openGraph: {
-    title: 'Where to Golf in Nairobi | Best Golf Courses & Clubs',
+    title: 'Golf Clubs in Nairobi | Things to do in Nairobi',
     description: 'Explore the finest golf courses and country clubs across Nairobi for an unforgettable golfing experience.',
-    url: 'https://nairobi.life/golf',
+    url: 'https://nairobi.life/golf-clubs-in-nairobi',
     type: 'website',
     images: [
       {
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Where to Golf in Nairobi | Finest Clubs & Resorts',
+    title: 'Golf Clubs in Nairobi | Things to do in Nairobi',
     description: 'Explore the finest golf courses and country clubs across Nairobi for an unforgettable golfing experience.',
     images: ['v2/images/background.jpeg'],
   },
@@ -48,13 +48,13 @@ export default function GolfPage() {
     title: item.name,
     subtitle: item.category || 'Golf',
     image: item.image,
-    href: `/golf/${item.slug}`,
+    href: `/golf-clubs-in-nairobi/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
-      heading={data.heading || "Where to Golf in Nairobi"}
-      breadcrumb="Golf"
+      heading={data.heading || "Golf clubs in Nairobi"}
+      breadcrumb="Golf clubs in Nairobi"
       description={data.description}
       items={items}
     />

@@ -4,14 +4,14 @@ import data from '@/data/stay-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Stay in Nairobi | Top Accommodations & Stays',
+  title: 'Accommodation in Nairobi | Places to stay in Nairobi',
   description: 'Discover top-rated accommodations offering comfort, style, and exceptional hospitality for your next trip to Nairobi. Find your perfect getaway.',
   keywords: ['Where to Stay in Nairobi', 'Nairobi Hotels', 'Cottages Nairobi', 'Nairobi Retreats', 'Vacation Rentals Limuru'],
   alternates: {
     canonical: 'https://nairobi.life/stay',
   },
   openGraph: {
-    title: 'Where to Stay in Nairobi | Top Accommodations & Stays',
+    title: 'Accommodation in Nairobi | Places to stay in Nairobi',
     description: 'Discover top-rated accommodations offering comfort, style, and exceptional hospitality for your next trip to Nairobi.',
     url: 'https://nairobi.life/stay',
     type: 'website',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Where to Stay in Nairobi | Hotels, Cottages & Stays',
+    title: 'Accommodation in Nairobi | Places to stay in Nairobi',
     description: 'Discover top-rated accommodations offering comfort, style, and exceptional hospitality for your next trip to Nairobi.',
     images: ['v2/images/background.jpeg'],
   },
@@ -48,13 +48,13 @@ export default function StayPage() {
     title: item.name,
     subtitle: item.category || 'Stays',
     image: item.image,
-    href: `/stay/${item.slug}`,
+    href: `/accommodation-in-nairobi/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
-      heading={data.heading || "Where to Stay in Nairobi"}
-      breadcrumb="Stay"
+      heading={data.heading || "Accommodation in Nairobi"}
+      breadcrumb="Accommodation in Nairobi"
       description={data.description}
       items={items}
     />

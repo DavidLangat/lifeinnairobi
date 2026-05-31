@@ -4,16 +4,16 @@ import data from '@/data/padel-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Play Padel in Nairobi | Best Padel Courts',
-  description: 'Discover the premier padel tennis courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
-  keywords: ['Where to Play Padel in Nairobi', 'Nairobi Padel Courts', 'Best Padel Clubs Nairobi', 'Padel Tennis Nairobi'],
+  title: 'Padel courts in Nairobi | Things to do in Nairobi',
+  description: 'Discover the premier padel courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
+  keywords: ['Where to Play Padel in Nairobi', 'Nairobi Padel Courts', 'Best Padel Clubs Nairobi'],
   alternates: {
-    canonical: 'https://nairobi.life/padel',
+    canonical: 'https://nairobi.life/padel-courts-in-nairobi',
   },
   openGraph: {
-    title: 'Where to Play Padel in Nairobi | Best Padel Courts',
-    description: 'Discover the premier padel tennis courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
-    url: 'https://nairobi.life/padel',
+    title: 'Padel courts in Nairobi | Things to do in Nairobi',
+    description: 'Discover the premier padel courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
+    url: 'https://nairobi.life/padel-courts-in-nairobi',
     type: 'website',
     images: [
       {
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Where to Play Padel in Nairobi | Premier Courts & Clubs',
-    description: 'Discover the premier padel tennis courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
+    description: 'Discover the premier padel courts and clubs in Nairobi. Join the fastest growing sport with our curated venues.',
     images: ['v2/images/background.jpeg'],
   },
 };
@@ -48,7 +48,7 @@ export default function PadelPage() {
     title: item.name,
     subtitle: item.category || 'Padel',
     image: item.image,
-    href: `/padel/${item.slug}`,
+    href: `/padel-courts-in-nairobi/${item.slug}`,
   }));
 
   return (

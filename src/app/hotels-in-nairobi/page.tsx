@@ -4,14 +4,14 @@ import data from '@/data/hotel-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Stay in Nairobi | Hotels & Accommodation',
+  title: 'Hotels in Nairobi | Places to stay in Nairobi',
   description: 'Explore the best hotels and accommodation options in Nairobi, from luxury hotels to budget-friendly stays.',
   keywords: ['Where to Stay in Nairobi', 'Nairobi Hotels', 'Accommodation Nairobi', 'Hotels in Nairobi', 'Nairobi Accommodation'],
   alternates: {
     canonical: 'https://nairobi.life/hotel',
   },
   openGraph: {
-    title: 'Where to Stay in Nairobi | Hotels & Accommodation',
+    title: 'Hotels in Nairobi | Places to stay in Nairobi',
     description: 'Explore the best hotels and accommodation options in Nairobi, from luxury hotels to budget-friendly stays.',
     url: 'https://nairobi.life/hotel',
     type: 'website',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Where to Stay in Nairobi | Hotels & Accommodation',
+    title: 'Hotels in Nairobi | Places to stay in Nairobi',
     description: 'Explore the best hotels and accommodation options in Nairobi, from luxury hotels to budget-friendly stays.',
     images: ['v2/images/background.jpeg'],
   },
@@ -48,13 +48,13 @@ export default function HotelPage() {
     title: item.name,
     subtitle: item.category || 'Hotel',
     image: item.image,
-    href: `/hotel/${item.slug}`,
+    href: `/hotels-in-nairobi/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
-      heading={data.heading || "Where to Stay in Nairobi"}
-      breadcrumb="Hotel"
+      heading={data.heading || "Hotels in Nairobi"}
+      breadcrumb="Hotels in Nairobi"
       description={data.description}
       items={items}
     />
