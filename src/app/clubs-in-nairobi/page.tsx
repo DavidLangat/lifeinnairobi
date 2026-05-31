@@ -4,16 +4,16 @@ import data from '@/data/party-data.json';
 import CategoryListClientPage from '@/components/CategoryListClientPage';
 
 export const metadata: Metadata = {
-  title: 'Where to Party in Nairobi | Party Spots in Nairobi',
+  title: 'Clubs in Nairobi | Where to Party in Nairobi',
   description: 'Explore the best party spots in Nairobi, from clubs to bars and lounges.',
   keywords: ['Where to Party in Nairobi', 'Nairobi Clubs', 'Bars in Nairobi', 'Party in Nairobi', 'Nairobi Party Spots'],
   alternates: {
-    canonical: 'https://nairobi.life/party',
+    canonical: 'https://nairobi.life/clubs-in-nairobi',
   },
   openGraph: {
-    title: 'Where to Party in Nairobi | Party Spots in Nairobi',
+    title: 'Clubs in Nairobi | Where to Party in Nairobi',
     description: 'Explore the best party spots in Nairobi, from clubs to bars and lounges.',
-    url: 'https://nairobi.life/party',
+    url: 'https://nairobi.life/clubs-in-nairobi',
     type: 'website',
     images: [
       {
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Where to Party in Nairobi | Party Spots in Nairobi',
+    title: 'Clubs in Nairobi | Where to Party in Nairobi',
     description: 'Explore the best party spots in Nairobi, from clubs to bars and lounges.',
     images: ['v2/images/background.jpeg'],
   },
@@ -48,13 +48,13 @@ export default function PartyPage() {
     title: item.name,
     subtitle: item.category || 'Party',
     image: item.image,
-    href: `/party/${item.slug}`,
+    href: `/clubs-in-nairobi/${item.slug}`,
   }));
 
   return (
     <CategoryListClientPage
       heading={data.heading || "Where to Party in Nairobi"}
-      breadcrumb="Party"
+      breadcrumb="Clubs in Nairobi"
       description={data.description}
       items={items}
     />

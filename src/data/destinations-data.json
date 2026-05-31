@@ -1,107 +1,9 @@
 {
   "heading": "Things to do in Nairobi",
-  "description": "Discover unique outdoor activities, countryside tours, and nature hikes in Nairobi.",
+  "description": "Discover unique outdoor activities and authentic local experiences in Nairobi. Explore art galleries, guided museum tours, and local food experiences while connecting with the culture, people, and stories that make the city unforgettable.",
   "items": [
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span>The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span>The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p></div><div><h3 class='text-2xl font-semibold mb-3'>The Walking Experience</h3><p><span>The route follows a scenic trail through:</span></p><p><span>Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p id=\"h.ktryy2rafga6\"><span><b>Natural Features and Landscape</b></span></p><p><span>The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><p><span>These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p id=\"h.yfz0864vpa44\"><span><b>Heritage and Tea Culture</b></span></p><p><span>A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span>During the tour, participants learn about:</span></p><p><span>This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p id=\"h.cmb926idhz78\"><span><b>Tea Tasting Experience</b></span></p><p><span>The tour concludes with a guided tea tasting session.</span></p><p><span>Participants are invited to:</span></p><p><span>This final stage provides a quiet and reflective end to the experience.</span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.</span></p><p><span>Set within a working tea estate, the tour is designed for visitors who enjoy walking, learning, and unhurried exploration of nature.</span></p><p><span></span></p></div>",
-      "exclusions": [],
-      "faqs": [
-        {
-          "answer": "Yes there are tea plantations near Nairobi in Tigoni, offering guided walking experiences through tea plantations within a short distance from Nairobi.",
-          "question": "Tea Plantations near Nairobi?"
-        },
-        {
-          "answer": "Most tea farm tours last between two to three hours, including the walking experience and tea tasting session.",
-          "question": "How long does a tea farm tour take?"
-        },
-        {
-          "answer": "The experience typically includes a guided walk through tea fields and a tea tasting session, along with educational insights into tea farming.",
-          "question": "What is included in a tea farm tour?"
-        },
-        {
-          "answer": "Comfortable walking shoes and light layers are recommended. The weather in Tigoni can be cool.",
-          "question": "What should I wear for a tea farm tour?"
-        },
-        {
-          "answer": "Yes. The experience is family-friendly and suitable for a wide range of ages.",
-          "question": "Is the tea farm tour suitable for families?"
-        }
-      ],
-      "featured": false,
-      "gallery": [
-        {
-          "alt": "Nairobi Tea Farm Tour",
-          "src": "/image/destination-img-0.jpg"
-        }
-      ],
-      "highlights": [],
-      "image": "/image/destination-img-0.jpg",
-      "inclusions": [],
-      "itinerary": [],
-      "keyDetails": {
-        "location": "All tours take place in Tigoni, approximately 30 to 60 minutes from Nairobi."
-      },
-      "location": "Nairobi",
-      "name": "Nairobi Tea Farm Tour",
-      "price": 0,
-      "pricing": {},
-      "seo": "Nairobi Tea Farm Tour",
-      "shortDescription": "Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.",
-      "slug": "nairobi-tea-farm-tour"
-    },
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span>The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span>The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p id=\"h.wlhpym90jtzf\"><span><b>The Ride Through Tigoni</b></span></p><p><span>The route takes you through:</span></p><p><span>As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p id=\"h.aa4dumb3w4sp\"><span><b>Midway Stop at The Fig & Olive</b></span></p><p><span>At the halfway point, the tour includes a stop at The Fig & Olive, a farm-style restaurant set within the tea fields.</span></p><p><span>This break allows participants to:</span></p><p><span>The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p id=\"h.dnbtfp16zado\"><span><b>Return Journey</b></span></p><p><span>After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span>By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
-      "exclusions": [],
-      "faqs": [
-        {
-          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
-          "question": "Can I do an e-bike tour near Nairobi?"
-        },
-        {
-          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
-          "question": "Do I need cycling experience to join?"
-        },
-        {
-          "answer": "The experience typically lasts between two to three hours, including stops and a midway break.",
-          "question": "How long does the tour take?"
-        },
-        {
-          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
-          "question": "Is food included in the tour?"
-        },
-        {
-          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni.",
-          "question": "What should I wear?"
-        },
-        {
-          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
-          "question": "Is this suitable for groups?"
-        }
-      ],
-      "featured": false,
-      "gallery": [
-        {
-          "alt": "Nairobi E-bike tours",
-          "src": "/image/destination-img-1.jpg"
-        }
-      ],
-      "highlights": [],
-      "image": "/image/destination-img-1.jpg",
-      "inclusions": [],
-      "itinerary": [],
-      "keyDetails": {
-        "location": "All tours take place in Tigoni, approximately 30 to 45 minutes from Nairobi."
-      },
-      "location": "Nairobi",
-      "name": "Nairobi E-bike tours",
-      "price": 0,
-      "pricing": {},
-      "seo": "Nairobi E-bike tours",
-      "shortDescription": "Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.",
-      "slug": "nairobi-e-bike-tours"
-    },
+
+
     {
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>Hiking in Nairobi is accessible and flexible, with options ranging from short, shaded walks to longer, more physically demanding routes.</span></p><p><span>Within the city, trails are generally well-maintained and suitable for beginners. On the outskirts, hikes become more rugged and offer expansive views of the surrounding landscapes, including the Great Rift Valley.</span></p><p><span>Most hikes can be completed within half a day or a full day, making them ideal for day trips.</span></p><p id=\"h.bfp6mebw90wa\"><span><b>Urban Nature Walks</b></span></p><p id=\"h.1g6cb5cl8emg\"><span><b>Karura Forest</b></span></p><p><span>Karura Forest is one of the largest urban forests in the world, offering over 50 kilometres of marked trails.</span></p><p><span>Key features include:</span></p><p><span>Trail options range from 5 km to 15 km, making it suitable for both casual walkers and regular hikers.</span></p><p id=\"h.irlenuizorun\"><span><b>Oloolua Nature Trail</b></span></p><p><span>Located in Karen, this is a quieter and more shaded trail that follows the Mbagathi River.</span></p><p><span>The experience includes:</span></p><p><span>The trail is approximately 5 km and is ideal for relaxed walks.</span></p><p id=\"h.fojsdlv9t3o2\"><span><b>Nairobi Arboretum</b></span></p><p><span>The Nairobi Arboretum offers a calm environment for light walking rather than strenuous hiking.</span></p><p><span>It features:</span></p><p><span>This is best suited for short visits and nature walks.</span></p><p id=\"h.k1xc117hf25d\"><span><b>Challenging Day Hikes Near Nairobi</b></span></p><p id=\"h.ursglak9wcf5\"><span><b>Ngong Hills</b></span></p><p><span>Ngong Hills is one of the most popular hiking destinations near Nairobi.</span></p><p><span>The experience includes:</span></p><p><span>The full hike typically takes 4 to 6 hours.</span></p><p id=\"h.i2w51rlgh36l\"><span><b>Mount Longonot</b></span></p><p><span>Mount Longonot is a dormant volcano located approximately 68 km from Nairobi.</span></p><p><span>The hike consists of:</span></p><p><span>The terrain is more demanding but offers dramatic views of the crater and surrounding landscape.</span></p><p id=\"h.jmm2ktauioav\"><span><b>Elephant Hill</b></span></p><p><span>Elephant Hill is a more demanding trek often used for high-altitude training.</span></p><p><span>The trail includes:</span></p><p><span>It is best suited for experienced hikers.</span></p><p id=\"h.xudwvymucnnh\"><span><b>Adventure and Wildlife Hiking Experiences</b></span></p><p id=\"h.hixpxfq51pwo\"><span><b>Hell's Gate National Park</b></span></p><p><span>Hell’s Gate offers a unique hiking experience where visitors can walk or cycle among wildlife.</span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi offers a diverse range of hiking experiences, from relaxed nature walks within the city to more challenging treks on the outskirts. Whether you are looking for a short outdoor escape or a full-day adventure, there are several well-established trails within and around Nairobi that cater to different fitness levels.</span></p><p><span>These hiking experiences combine:</span></p><p><span></span></p></div>",
@@ -170,11 +72,15 @@
       "gallery": [
         {
           "alt": "Ngong hills",
-          "src": "/image/destination-img-3.jpg"
+          "src": "/image/ngong-hills.jpg"
+        },
+        {
+          "alt": "Ngong hills",
+          "src": "/image/destination-img-11.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-3.jpg",
+      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
@@ -282,76 +188,7 @@
       "shortDescription": "Brown’s Cheese Factory Tour - A Unique Food and Farm Experience Near Nairobi",
       "slug": "brown-s-cheese-factory"
     },
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The walking tour typically begins in Nairobi’s central business district, where participants meet their guide for a short orientation. From there, the route follows key streets, landmarks, and public spaces that reveal Nairobi’s development from a railway town into one of East Africa’s most important cities.</span></p><p><span>The experience is relaxed and guided throughout, with opportunities to ask questions, take photographs, and observe daily city life.</span></p><p id=\"h.8o7u2olna8d9\"><span><b>What to Expect</b></span></p><p><span>Participants may explore:</span></p><p><span>Each stop adds context to Nairobi’s history, culture, and identity.</span></p><p id=\"h.3if7838p5h6v\"><span><b>Duration and Difficulty</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.</span></p><p><span>The tour is ideal for visitors who want to understand Nairobi beyond the usual sightseeing routes. It combines historical context, local interaction, architecture, culture, and street-level storytelling in one accessible city experience.</span></p></div>",
-      "exclusions": [],
-      "faqs": [],
-      "featured": false,
-      "gallery": [
-        {
-          "alt": "Nairobi city walking tour",
-          "src": "/image/destination-img-6.jpg"
-        }
-      ],
-      "highlights": [],
-      "image": "/image/destination-img-6.jpg",
-      "inclusions": [],
-      "itinerary": [
-        {
-          "description": "The tour begins at a central meeting point within Nairobi CBD. Guests meet the guide, receive a short briefing, and get an introduction to the city’s history and route.",
-          "title": "1. Meet and Orientation"
-        },
-        {
-          "description": "The walk continues through key city streets such as Kenyatta Avenue and Moi Avenue, where guests learn about Nairobi’s growth from a railway settlement into a modern capital city.",
-          "title": "2. Historic Streets Walk"
-        },
-        {
-          "description": "The route may include stops at important landmarks such as KICC, the Railway Museum, August 7th Memorial Park, or nearby public monuments, depending on the selected route and timing.",
-          "title": "3. Landmark Stops"
-        },
-        {
-          "description": "Guests visit a local market such as City Market or Maasai Market, where they can observe Nairobi’s craft culture, interact with vendors, and explore local art, souvenirs, and street activity.",
-          "title": "4. Market and Culture Experience"
-        },
-        {
-          "description": "The tour may include a stop at Uhuru Park, Jeevanjee Gardens, or another public green space for a short break and a slower view of the city.",
-          "title": "5. Green Space Stop"
-        },
-        {
-          "description": "The experience ends at a convenient central location, where guests can continue exploring, visit a nearby café, or arrange transport to their next destination.",
-          "title": "6. End of Tour"
-        },
-        {
-          "description": "Is a Nairobi city walking tour safe?",
-          "title": "FAQs – Nairobi City Walking Tour"
-        },
-        {
-          "description": "How long does a Nairobi city walking tour take?",
-          "title": "Yes. Nairobi city walking tours are generally safe when done during the day with a knowledgeable local guide and within recommended routes."
-        },
-        {
-          "description": "What places do you visit on a Nairobi walking tour?",
-          "title": "Most Nairobi city walking tours take between 2 and 4 hours, depending on the route, number of stops, and walking pace."
-        },
-        {
-          "description": "What should I wear for a Nairobi walking tour?",
-          "title": "Common stops include Nairobi CBD, Kenyatta Avenue, Moi Avenue, KICC, City Market, Maasai Market, Uhuru Park, and other cultural or historical landmarks."
-        },
-        {
-          "description": "Can solo travelers join a Nairobi walking tour?",
-          "title": "Wear comfortable walking shoes and light clothing. It is also advisable to carry water, sunscreen, and a hat for sunny days."
-        }
-      ],
-      "keyDetails": {},
-      "location": "Nairobi",
-      "name": "Nairobi city walking tour",
-      "price": 0,
-      "pricing": {},
-      "seo": "Nairobi city walking tour",
-      "shortDescription": "A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.",
-      "slug": "nairobi-city-walking-tour"
-    },
+ 
     {
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical Nairobi food tour involves visiting multiple food locations within a structured route, often within the Central Business District or surrounding neighborhoods.</span></p><p><span>Led by a local guide, the experience includes:</span></p><p><span>The tours are paced to allow for both tasting and exploration, creating a balanced and engaging experience.</span></p><p id=\"h.tfyp5ll553pb\"><span><b>What to Expect</b></span></p><p id=\"h.vimff7wk4p72\"><span><b>Multiple Food Stops</b></span></p><p><span>Participants visit a combination of:</span></p><p><span>Each stop introduces a different aspect of Nairobi’s food culture, from quick street snacks to more traditional meals.</span></p><p id=\"h.gcrzn9e3biyw\"><span><b>Authentic Kenyan Dishes</b></span></p><p><span>Food tours typically include tastings of well-known local dishes such as:</span></p><p><span>Each dish is accompanied by an explanation of its preparation, significance, and role in daily life.</span></p><p id=\"h.1o311clfv47w\"><span><b>Cultural and Culinary Insights</b></span></p><p><span>Guides provide context throughout the experience, covering:</span></p><p><span>This transforms the experience from a series of tastings into a structured cultural exploration.</span></p><p id=\"h.4cehi4u52oq7\"><span><b>Walkable and Social Experience</b></span></p><p><span>Food tours are typically:</span></p><p><span>This makes them suitable for both individual travelers and groups.</span></p><p id=\"h.of3b2w28nqud\"><span><b>Types of Food Tours in Nairobi</b></span></p><p id=\"h.v7i6o2ldla0b\"><span><b>City Street Food Tours</b></span></p><p><span>These tours focus on Nairobi’s street food culture, particularly within the CBD.</span></p><p><span>They typically include:</span></p><p id=\"h.fc5p5kmvycza\"><span><b>Restaurant and Fusion Experiences</b></span></p><p><span>These tours involve curated stops at selected restaurants offering:</span></p><p id=\"h.oytmdmtfzwxc\"><span><b>Farm-to-Table and Countryside Experiences</b></span></p><p><span>Some food tours extend beyond the city into areas such as Tigoni, combining:</span></p><p id=\"h.jmq1py29nqk7\"><span><b>Duration and Accessibility</b></span></p><p><span>Longer experiences may extend to half-day or full-day formats.</span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Guided food tours in Nairobi offer an immersive way to experience the city’s culture through its cuisine. These curated experiences take participants beyond traditional dining, introducing them to local dishes, food traditions, and the stories behind Nairobi’s diverse culinary scene.</span></p><p><span>Food tours are designed for those who want to explore the city in a more interactive and sensory way, combining walking, tasting, and cultural insight.</span></p><p><span></span></p></div>",
@@ -398,52 +235,7 @@
       "shortDescription": "Guided food tours in Nairobi offer an immersive way to experience the city’s culture through its cuisine. These curated experiences take participants beyond traditional dining, introducing them to local dishes, food traditions, and the stories behind Nairobi’s diverse culinary scene.",
       "slug": "guided-food-tour"
     },
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical coffee farm tour includes a guided walk through the plantation, followed by a structured introduction to coffee processing and a tasting session.</span></p><p><span>Participants are guided through each stage of production, gaining an understanding of both traditional and modern methods used in Kenyan coffee farming.</span></p><p><span>The experience is paced to allow for learning, interaction, and appreciation of the environment.</span></p><p id=\"h.tlvicroepxmx\"><span><b>What to Expect</b></span></p><p id=\"h.ewragnje4fbx\"><span><b>Walk Through Coffee Plantations</b></span></p><p><span>The experience begins with a walk through the coffee farm, where participants learn about:</span></p><p><span>The environment is typically calm and scenic, offering a relaxed introduction to the experience.</span></p><p id=\"h.ht3sgw4t4sys\"><span><b>Coffee Processing Experience</b></span></p><p><span>Participants are introduced to the steps involved in transforming coffee cherries into beans, including:</span></p><p><span>This stage provides insight into the craftsmanship and precision required to produce high-quality coffee.</span></p><p id=\"h.lss05qhxrs51\"><span><b>Roasting and Brewing Demonstration</b></span></p><p><span>Some experiences include demonstrations covering:</span></p><p><span>This connects the farm process to everyday coffee consumption.</span></p><p id=\"h.k6e8x7km9pqs\"><span><b>Coffee Tasting (Cupping Session)</b></span></p><p><span>The experience concludes with a guided tasting session where participants:</span></p><p><span>This stage provides a complete “farm-to-cup” understanding.</span></p><p id=\"h.4ate2d9qvyl5\"><span><b>Popular Coffee Farm Experiences Near Nairobi</b></span></p><p><span>Well-known coffee farm experiences are located within 20 to 60 minutes from Nairobi and typically include:</span></p><p><span>As highlighted in your source material, these tours are structured to provide a full journey through coffee production while maintaining a relaxed and educational pace .</span></p><p id=\"h.ipxzl66xj3qu\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p id=\"h.bkgmvzsvgs1o\"><span><b>Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi</b></span></p><p><span>Coffee farm tours near Nairobi offer an immersive way to explore one of Kenya’s most important agricultural exports. Located in regions such as Kiambu County and Limuru, these experiences combine scenic farm walks, educational insights, and coffee tasting to create a well-rounded day activity.</span></p><p><span>The tours are designed to take visitors through the full journey of coffee production, from cultivation to the final cup.</span></p><p><span></span></p></div>",
-      "exclusions": [],
-      "faqs": [
-        {
-          "answer": "Yes. Several coffee farms are located within 20 to 60 minutes from Nairobi, making them easily accessible for day trips.",
-          "question": "Can I visit a coffee farm near Nairobi?"
-        },
-        {
-          "answer": "The experience includes a guided walk through the plantation, learning about coffee processing, and a coffee tasting session.",
-          "question": "What happens during a coffee farm tour?"
-        },
-        {
-          "answer": "Most tours last between 2 to 4 hours, depending on the itinerary and included activities.",
-          "question": "How long does a coffee farm tour take?"
-        },
-        {
-          "answer": "Coffee farm tours typically cost between KES 2,000 and KES 5,000 per person, depending on the experience.",
-          "question": "How much does a coffee farm tour cost in Nairobi?"
-        },
-        {
-          "answer": "Yes. The tours are designed to be educational and accessible, requiring no prior knowledge.",
-          "question": "Are coffee farm tours suitable for beginners?"
-        }
-      ],
-      "featured": false,
-      "gallery": [
-        {
-          "alt": "coffee farm tour Nairobi",
-          "src": "/image/destination-img-11.jpg"
-        }
-      ],
-      "highlights": [],
-      "image": "/image/destination-img-11.jpg",
-      "inclusions": [],
-      "itinerary": [],
-      "keyDetails": {},
-      "location": "Nairobi",
-      "name": "coffee farm tour Nairobi",
-      "price": 0,
-      "pricing": {},
-      "seo": "coffee farm tour Nairobi",
-      "shortDescription": "Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi",
-      "slug": "coffee-farm-tour-nairobi"
-    },
+  
     {
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
@@ -591,11 +383,11 @@
       "gallery": [
         {
           "alt": "Naivasha",
-          "src": "/image/destination-img-0.jpg"
+          "src": "/image/photo-1706083642707-63a4ed57d068.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-0.jpg",
+      "image": "/image/photo-1706083642707-63a4ed57d068.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
@@ -637,11 +429,11 @@
       "gallery": [
         {
           "alt": "Giraffe Centre",
-          "src": "/image/destination-img-1.jpg"
+          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-1.jpg",
+      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
@@ -729,11 +521,15 @@
       "gallery": [
         {
           "alt": "David Sheldrick Wildlife Trust",
-          "src": "/image/destination-img-3.jpg"
+          "src": "/image/destination-img-0.jpg"
+        },
+             {
+          "alt": "David Sheldrick Wildlife Trust",
+          "src": "/image/destination-img-6.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-3.jpg",
+      "image": "/image/destination-img-0.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
@@ -775,11 +571,11 @@
       "gallery": [
         {
           "alt": "Karen Blixen Museum Tour",
-          "src": "/image/destination-img-4.jpg"
+          "src": "/image/destination-img-8.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-4.jpg",
+      "image": "/image/destination-img-8.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {
@@ -869,11 +665,15 @@
       "gallery": [
         {
           "alt": "nairobi pottery tour",
-          "src": "/image/destination-img-6.jpg"
+          "src": "/image/destination-img-1.jpg"
+        },
+         {
+          "alt": "nairobi pottery tour",
+          "src": "/image/destination-img-4.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-6.jpg",
+      "image": "/image/destination-img-4.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
@@ -915,11 +715,15 @@
       "gallery": [
         {
           "alt": "Nairobi Art gallery Tours",
-          "src": "/image/destination-img-8.jpg"
+          "src": "/image/destination-img-2.jpg"
+        },
+        {
+          "alt": "Nairobi Art gallery Tours",
+          "src": "/image/destination-img-5.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-8.jpg",
+      "image": "/image/destination-img-2.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},

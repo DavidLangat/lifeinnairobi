@@ -3,116 +3,148 @@
     "title": "Nairobi",
     "breadcrumb": "About",
     "description": "",
-    "backgroundImage": "https://images.unsplash.com/photo-1765466441202-76252154d4fc?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "backgroundImage": "/image/bg.jpg"
   },
   "section": {
     "introduction": {
       "heading": "About Nairobi",
       "text": [
-        "Nairobi is a quiet, green highland area in Kiambu County, Kenya, known for its rolling tea plantations, cool climate, and slow pace of life. Located just outside Nairobi, Nairobi has long been associated with tea growing, fertile land, and peaceful rural landscapes — qualities that continue to shape how the area looks, feels, and is experienced today.",
-        "Locally, Nairobi is often referred to as “the richest village in Africa” — a phrase commonly used to describe the area’s concentration of high-value agricultural land, established tea estates, and long-held family farms. While this description is informal rather than statistical, it reflects how Nairobi has historically been perceived in terms of land wealth, productivity, and legacy rather than urban development."
+        "Nairobi is the capital and largest city of Kenya, serving as the country’s political, economic, and cultural centre. Often referred to as the “Green City in the Sun,” Nairobi is known for its rare combination of urban development and natural environment — a place where modern city life exists alongside open landscapes and wildlife.",
+        "As one of the most influential cities in Africa, Nairobi functions as a regional hub for business, diplomacy, and travel. It is also widely recognised as a gateway to East Africa, connecting visitors to the wider region while offering a distinct identity of its own."
       ]
     },
     "location": {
       "heading": "Where Exactly Is Nairobi?",
       "text": [
-        "Nairobi is located in Kiambu County, along the Limuru–Naivasha Road, approximately 40–50 minutes northwest of Nairobi, depending on traffic.",
-        "Rather than being a single town centre, Nairobi refers to a wider highland area made up of:"
+        "Nairobi is located in south-central Kenya, positioned between the coastal city of Mombasa and inland cities such as Kampala. It lies just east of the Great Rift Valley and sits at an elevation of approximately 1,795 metres above sea level.",
+        "The city covers an area of about 684 square kilometres and is surrounded by key geographical landmarks:"
       ],
       "list": [
-        "Tea estates and farms",
-        "Forest edges and walking trails",
-        "Small settlements and farm homesteads"
+        "The Ngong Hills to the west",
+        "Mount Kenya to the north",
+        "Mount Kilimanjaro to the southeast (visible on clear days from certain areas)"
       ],
-      "closingText": "This is why Nairobi may appear differently on maps and descriptions — it is best understood as a region, not a town."
+      "closingText": "Flowing through the city is the Nairobi River, along with its tributaries, forming part of the area’s original natural landscape."
     },
     "nameOrigin": {
       "heading": "The Origin of the Name “Nairobi”",
       "text": [
-        "The name Nairobi is widely understood locally to be derived from the phrase “Tea Growing Area.”",
-        "As tea farming expanded in the region in the early 20th century, the term Tea Growing came into common use when referring to the area. Over time, and through everyday local pronunciation, Tea Growing evolved into Nairobi — a name that was easier to say, remember, and use in conversation.",
-        "While this explanation comes from local oral history rather than formal documentation, it remains the most widely accepted and repeated account among residents and tea-farming families in the area."
+        "The name Nairobi is derived from the Maasai phrase “Enkare Nairobi,” meaning “cool waters.” This refers to the streams and water sources that once defined the area before urban development.",
+        "The name reflects Nairobi’s environmental origins — a landscape shaped by water, wetlands, and open plains — long before it became a city."
+      ]
+    },
+    "earlyFormation": {
+      "heading": "The Early Formation of Nairobi",
+      "text": [
+        "Before its development, the area that is now Nairobi was largely open land used by the Maasai and Kikuyu communities.",
+        "In 1899, during the construction of the Uganda Railway, the British colonial administration selected the site as a rail depot, supply station, and settlement point for workers. Its central location and access to water made it a practical choice.",
+        "By 1900, the settlement had been rebuilt following a plague outbreak. In 1907, Nairobi replaced Mombasa as the capital of British East Africa, marking its transition from a temporary railway outpost into a growing administrative and commercial centre."
       ]
     },
     "history": {
-      "heading": "Nairobi and the History of Tea",
+      "heading": "Nairobi Through History",
       "text": [
-        "Nairobi holds an important place in the history of tea in Kenya."
-      ],
-      "list": [
-        "Tea was first grown experimentally in Nairobi in 1903, marking one of the earliest introductions of tea cultivation in the country.",
-        "In 1910, the first commercial tea farm, Kiambethu Tea Farm, was established by A.B. McDonell.",
-        "The success of tea farming in Nairobi later influenced the expansion of tea cultivation across other highland areas of Kenya."
-      ],
-      "closingText": "This early history explains why Nairobi remains deeply associated with tea"
-    },
-    "regionDefinition": {
-      "heading": "Is Nairobi a Town, a Village, or a Region?",
-      "text": [
-        "Nairobi is a region.",
-        "There is no distinct urban town centre in Nairobi. Instead, the name is used locally to describe a broader tea-growing landscape within the greater Limuru area. Historically and socially, Nairobi has been defined more by land use and environment than by administrative boundaries."
+        "Nairobi continued to grow during the colonial period, attracting settlers, traders, and workers. In 1919, it was officially declared a municipality.",
+        "The city also became a centre of political activity during the struggle for independence. In 1922, protests led by Harry Thuku marked one of the early organised movements against colonial rule, highlighting Nairobi’s role in shaping national history.",
+        "Following years of political pressure and resistance movements, including the Mau Mau uprising, Kenya gained independence in 1963, and Nairobi became the capital of the new republic."
       ]
     },
     "climate": {
       "heading": "Climate, Landscape, and Why Nairobi Feels the Way It Does",
       "text": [
-        "Nairobi sits at an elevation of approximately 2,100 metres above sea level, giving it a cooler climate than Nairobi and much of central Kenya.",
-        "This elevation contributes to:"
+        "Nairobi’s elevation gives it a relatively mild climate compared to many other African cities.",
+        "The city typically experiences:"
       ],
       "list": [
-        "Misty mornings",
-        "Mild daytime temperatures",
-        "Fertile volcanic soils",
-        "Lush green landscapes throughout the year"
+        "Warm, sunny days with temperatures between 20°C and 30°C",
+        "Cooler periods, particularly in June and July, where temperatures can drop to around 9°C",
+        "Moderate rainfall, with occasional drizzles during transitional seasons"
       ],
-      "closingText": "The combination of altitude, rainfall, and soil quality makes Nairobi ideal for tea growing and small-scale farming, shaping the calm, green environment visitors experience today."
+      "closingText": "This climate supports green spaces, tree-lined streets, and open landscapes, contributing to the city’s reputation as a balanced urban environment."
     },
     "knownFor": {
       "heading": "What Is Nairobi Known For Today?",
       "text": [
-        "Today, Nairobi is known for:"
+        "Today, Nairobi is known for its unique position as both a modern city and a wildlife destination.",
+        "Key characteristics include:"
       ],
       "list": [
-        "Rolling tea plantations",
-        "Quiet walking trails and nature walks",
-        "Farm-to-table food experiences",
-        "Wellness retreats and spas",
-        "Peaceful stays close to Nairobi"
+        "A major business and financial hub in Africa",
+        "A centre for international organisations, including the United Nations Office at Nairobi",
+        "A diverse urban culture with strong influences from across Kenya and beyond",
+        "Proximity to wildlife, including the globally unique Nairobi National Park"
       ],
-      "closingText": "Rather than large-scale tourism, Nairobi has developed a reputation for slow, nature-based experiences that appeal to visitors seeking calm, space, and authenticity."
+      "closingText": "This combination makes Nairobi one of the few cities in the world where wildlife and urban life coexist within the same space."
+    },
+    "economicHub": {
+      "heading": "Nairobi as an Economic and Regional Hub",
+      "text": [
+        "Nairobi plays a central role in Kenya’s economy and the wider East African region.",
+        "The city hosts:"
+      ],
+      "list": [
+        "The Nairobi Securities Exchange, one of Africa’s leading stock exchanges",
+        "Regional headquarters for multinational companies such as Google, Coca-Cola, and General Electric",
+        "Key industries including manufacturing, technology, finance, and agriculture"
+      ],
+      "closingText": "In addition, Nairobi serves as a major transport hub, linking air, rail, and road networks across Kenya and neighbouring countries."
+    },
+    "tourismIdentity": {
+      "heading": "Tourism and the Identity of Nairobi",
+      "text": [
+        "Tourism in Nairobi is shaped by its dual identity.",
+        "On one hand, it is a working city — fast-moving, commercial, and constantly evolving. On the other, it offers access to nature, history, and culture within a relatively compact space.",
+        "Experiences in Nairobi often include:"
+      ],
+      "list": [
+        "Wildlife encounters within and around the city",
+        "Cultural and historical sites",
+        "Urban exploration, markets, and local cuisine",
+        "Nightlife and contemporary creative spaces"
+      ],
+      "closingText": "Rather than being defined by a single attraction, Nairobi is experienced through contrast — movement and stillness, structure and openness."
+    },
+    "practicalConsiderations": {
+      "heading": "Practical Considerations for Visitors",
+      "text": [
+        "Visa Requirements: Most visitors to Kenya require a visa, unless they are from visa-exempt countries. A valid passport (minimum six months validity) is required for entry.",
+        "When to Visit: Nairobi’s climate is moderate year-round, making it a destination that can be visited at any time. Seasonal variations are generally mild.",
+        "Transport: Nairobi is served by Jomo Kenyatta International Airport for international travel and Wilson Airport for domestic flights. The city also connects to other regions via road and rail, including the Standard Gauge Railway. Within the city, transport options include taxis, ride-hailing services, buses, and matatus.",
+        "Safety: Like many major cities, Nairobi requires awareness and basic precautions, particularly at night or in unfamiliar areas. Visitors are advised to stay informed, avoid displaying valuables, and plan movements carefully."
+      ]
     },
     "tourismEmergence": {
-      "heading": "The Emergence of Tourism in Nairobi",
+      "heading": "The Emergence of Nairobi as a Destination",
       "text": [
-        "Tourism in Nairobi is a recent and organic development.",
-        "As Nairobi has grown busier, more people have begun seeking nearby escapes that offer:"
+        "While Nairobi has long been known as a gateway to safari destinations, it has increasingly become a destination in its own right.",
+        "As travel patterns evolve, more visitors are choosing to spend time within the city to experience:"
       ],
       "list": [
-        "Nature without long travel",
-        "Cooler weather",
-        "Quiet, uncrowded spaces"
+        "Its cultural diversity",
+        "Its evolving creative scene",
+        "Its balance between urban life and nature"
       ],
-      "closingText": "This has led to the emergence of guided tea farm walks, wellness and spa experiences, curated stays and retreats, and day trips. Tourism in Nairobi remains small-scale and experience-led, closely tied to the land and local partners."
+      "closingText": "This shift reflects a broader understanding of Nairobi — not just as a starting point, but as a place with its own depth and character."
     },
     "ourRole": {
-      "heading": "Our Role in Nairobi Tourism",
+      "heading": "Our Role in Nairobi",
       "text": [
-        "Nairobi Guide exists to:"
+        "Visit Nairobi exists to:"
       ],
       "list": [
-        "Curate authentic experiences",
-        "Provide accurate, updated information",
-        "Help visitors plan meaningful visits",
-        "Support responsible, low-impact tourism"
+        "Curate meaningful and well-structured experiences",
+        "Provide clear, reliable information",
+        "Help visitors understand the city beyond surface-level tourism",
+        "Support responsible and informed exploration"
       ],
-      "closingText": "We focus on what can genuinely be experienced, rather than repeating unverified claims or exaggerated narratives. Our guides are based on firsthand exploration, local knowledge, and continuous updates."
+      "closingText": "We focus on presenting Nairobi as it is — a complex, evolving city shaped by history, geography, and the people who move through it."
     },
     "images": {
-      "image1": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/private.jpg?updatedAt=1765902341372",
-      "image2": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg",
-      "image3": "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/119.jpg",
-      "image4": "https://images.unsplash.com/photo-1597040663442-a6cd21ca13cd?q=80&w=2525&auto=format&fit=crop",
-      "image5": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kenya_tea_Caine_Brothers.jpg"
+      "image1": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image2": "/image/destination-img-1.jpg",
+      "image3": "/image/bg2.jpg",
+      "image4": "/image/destination-img-2.jpg",
+      "image5": "/image/photo-1706083642707-63a4ed57d068.jpg"
     }
   },
   "pages": [
@@ -120,7 +152,7 @@
       "title": "History of Nairobi",
       "slug": "history-of-Nairobi",
       "excerpt": "A journey through time, exploring the colonial roots and agricultural heritage of Nairobi.",
-      "image": "https://images.unsplash.com/photo-1570701564993-e00652af8aa7?q=80&w=2670&auto=format&fit=crop",
+      "image": "/image/ngong-hills.jpg",
       "imageAlt": "Colonial farmhouse in Nairobi",
       "imageAttribution": "Photo by History Archive",
       "href": "/about/history-of-Nairobi",
@@ -133,12 +165,12 @@
         ],
         "gallery": [
           {
-            "src": "https://images.unsplash.com/photo-1597040663442-a6cd21ca13cd?q=80&w=2525&auto=format&fit=crop",
+            "src": "/image/destination-img-3.jpg",
             "alt": "Tea fields",
             "attribution": "Photo by Tea Estate"
           },
           {
-            "src": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=2670&auto=format&fit=crop",
+            "src": "/image/destination-img-4.jpg",
             "alt": "Historic building",
             "attribution": "Photo by Heritage Trust"
           }
@@ -150,7 +182,7 @@
       "title": "Our Team",
       "slug": "our-team",
       "excerpt": "Meet the passionate individuals dedicated to showcasing the best of Nairobi.",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2670&auto=format&fit=crop",
+      "image": "/image/destination-img-5.jpg",
       "imageAlt": "Team meeting",
       "imageAttribution": "Photo by Business Team",
       "href": "/about/our-team",
@@ -163,17 +195,51 @@
         ],
         "gallery": [
           {
-            "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2684&auto=format&fit=crop",
+            "src": "/image/destination-img-6.jpg",
             "alt": "Guide pointing at view",
             "attribution": "Photo by Tour Guide"
           },
           {
-            "src": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?q=80&w=2670&auto=format&fit=crop",
+            "src": "/image/destination-img-8.jpg",
             "alt": "Group hiking",
             "attribution": "Photo by Adventure Club"
           }
         ],
         "closing": "Join us on our next adventure!"
+      }
+    },
+    {
+      "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
+      "slug": "how-to-get-to-nairobi",
+      "excerpt": "Planning a trip to Nairobi? Here’s a simple guide on routes, public transport, and travel tips.",
+      "image": "/image/destination-img-11.jpg",
+      "imageAlt": "Winding road through tea fields",
+      "imageAttribution": "Photo by Sarah James",
+      "href": "/about/how-to-get-to-nairobi",
+      "content": {
+        "subheading": "Getting to Nairobi",
+        "intro": "Nairobi is one of Africa’s most accessible cities, served by a major international airport, well-connected highways, and a wide range of public and private transport options. Depending on where you are coming from, getting into the city is generally straightforward and efficient.",
+        "paragraphs": [
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
+        ],
+        "gallery": [
+           {
+             "src": "/image/destination-img-12.jpg",
+             "alt": "Car driving on a scenic road",
+             "attribution": "Photo by Road Tripper"
+           },
+           {
+             "src": "/image/destination-img-0.jpg",
+             "alt": "Public transport bus",
+             "attribution": "Photo by Commuter"
+           }
+        ],
+        "closing": "Safe travels! A beautiful escape awaits you just around the corner."
       }
     }
   ]

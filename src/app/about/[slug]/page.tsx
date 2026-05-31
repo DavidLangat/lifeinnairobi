@@ -1,33 +1,21 @@
 import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import blogData from '@/data/about2-data.json';
+import aboutData from '@/data/about-data.json';
 import AboutDetailClientPage from './AboutDetailClientPage';
 
 export async function generateStaticParams() {
-  const allPosts = [
-    blogData.featuredPost,
-    ...blogData.recentPosts,
-    ...blogData.gridPosts
-  ];
-
-  return allPosts.map((post) => ({
-    slug: post.slug,
+  return aboutData.pages.map((page) => ({
+    slug: page.slug,
   }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   
-  const allPosts = [
-    blogData.featuredPost,
-    ...blogData.recentPosts,
-    ...blogData.gridPosts
-  ];
+  const page = aboutData.pages.find((p) => p.slug === slug);
 
-  const post = allPosts.find((p) => p.slug === slug);
-
-  if (!post) {
+  if (!page) {
       return {
           title: 'Not Found | Nairobi',
           description: 'The requested page could not be found.',
@@ -35,23 +23,23 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-      title: `${post.title} `,
-      description: post.excerpt || `Read about ${post.title} in Nairobi.`,
-      keywords: [post.title, 'Nairobi', post.category || 'Travel', 'Kenya'],
+      title: `${page.title} `,
+      description: page.excerpt || `Read about ${page.title} in Nairobi.`,
+      keywords: [page.title, 'Nairobi', 'Travel', 'Kenya'],
       alternates: {
           canonical: `https://nairobi.life/about/${slug}`,
       },
       openGraph: {
-          title: `${post.title} `,
-          description: post.excerpt || `Read about ${post.title} in Nairobi.`,
+          title: `${page.title} `,
+          description: page.excerpt || `Read about ${page.title} in Nairobi.`,
           url: `https://nairobi.life/about/${slug}`,
           type: 'article',
           images: [
               {
-                  url: post.image,
+                  url: page.image,
                   width: 1200,
                   height: 630,
-                  alt: (post as any).imageAlt || post.title,
+                  alt: (page as any).imageAlt || page.title,
               },
           ],
       },
@@ -68,55 +56,45 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       },
       twitter: {
           card: 'summary_large_image',
-          title: post.title,
-          description: post.excerpt || `Read about ${post.title} in Nairobi.`,
-          images: [post.image],
+          title: page.title,
+          description: page.excerpt || `Read about ${page.title} in Nairobi.`,
+          images: [page.image],
       },
   };
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function AboutSubPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
 
-  // Flatten all posts to search for the requested slug
-  const allPosts = [
-    blogData.featuredPost,
-    ...blogData.recentPosts,
-    ...blogData.gridPosts
-  ];
-
-  const post = allPosts.find(p => p.slug === slug) as {
+  const page = aboutData.pages.find(p => p.slug === slug) as {
     title: string;
     slug: string;
     excerpt: string;
     image: string;
     href: string;
     content?: any;
-    author?: string;
-    date?: string;
-    category?: string;
     imageAlt?: string;
     imageAttribution?: string;
   } | undefined;
 
-  if (!post) {
+  if (!page) {
     return notFound();
   }
 
   // Use content from JSON
-  const content = post.content;
+  const content = page.content;
 
   if (!content) {
     return notFound();
   }
 
   // Prepare props
-  const postProps = {
-      ...post,
-      content, // ensure content is passed correctly
-      imageAlt: (post as any).imageAlt,
-      imageAttribution: (post as any).imageAttribution,
+  const pageProps = {
+      ...page,
+      content,
+      imageAlt: (page as any).imageAlt,
+      imageAttribution: (page as any).imageAttribution,
   };
 
-  return <AboutDetailClientPage post={postProps} />;
+  return <AboutDetailClientPage post={pageProps as any} />;
 }

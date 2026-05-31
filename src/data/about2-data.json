@@ -39,32 +39,34 @@
       "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
       "slug": "how-to-get-to-Nairobi",
       "excerpt": "Planning a trip to Nairobi? Here’s a simple guide on routes, public transport, and travel tips.",
-      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=2670&auto=format&fit=crop",
+      "image": "/image/destination-img-11.jpg",
       "imageAlt": "Winding road through tea fields",
-      "imageAttribution": "Photo by Sarah James on Unsplash",
-      "href": "/blog/how-to-get-to-Nairobi",
+      "imageAttribution": "",
+      "href": "/blog/how-to-get-to-nairobi",
       "author": "Sarah James",
       "date": "November 10, 2024",
       "category": "Guide",
       "content": {
         "subheading": "Getting to Nairobi",
-        "intro": "Nairobi is easiest to reach by car and, depending on where you are coming from in Nairobi, the journey typically takes 30 minutes to one hour.",
+        "intro": "Nairobi is one of Africa’s most accessible cities, served by a major international airport, well-connected highways, and a wide range of public and private transport options. Depending on where you are coming from, getting into the city is generally straightforward and efficient.",
         "paragraphs": [
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Limuru Road</h3><p>The most commonly used route to Nairobi is Limuru Road. This route is ideal if you are travelling from Karen, Lavington, Spring Valley, Westlands, and most parts of Nairobi located south of the Nairobi Expressway. It is well-marked and generally straightforward, making it a popular choice for first-time visitors.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Banana Hill</h3><p>Running parallel to Limuru Road, the Banana Hill route offers a more scenic drive into Nairobi. It is best suited for travellers coming from Gigiri, Runda, and Rosslyn.</p><p>Please note that there are occasional traffic hotspots around Ruaka and Banana Market, especially during peak hours.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via the Nairobi–Nakuru Highway</h3><p>If you are travelling directly from Jomo Kenyatta International Airport or from regions such as Naivasha, Nakuru, or the Maasai Mara, the Nairobi–Nakuru Highway provides the most convenient access.</p><p>From the highway, look out for exit points toward Limuru, which connect easily to Nairobi.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi is accessible by taxi, and ride-hailing services such as Uber and Bolt operate in the area. While it is usually easy to get a ride to Nairobi, finding a return ride can sometimes take longer, especially during off-peak hours. Visitors are advised to plan return transport in advance.</p>"
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
+           "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
         ],
         "gallery": [
            {
-             "src": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop",
+             "src": "/image/destination-img-12.jpg",
              "alt": "Car driving on a scenic road",
-             "attribution": "Photo by Road Tripper on Unsplash"
+             "attribution": "Photo by Road Tripper"
            },
            {
-             "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+             "src": "/image/destination-img-0.jpg",
              "alt": "Public transport bus",
-             "attribution": "Photo by Commuter on Unsplash"
+             "attribution": "Photo by Commuter"
            }
         ],
         "closing": "Safe travels! A beautiful escape awaits you just around the corner."

@@ -1,27 +1,171 @@
 {
   "heading": "Best Things to Do in Nairobi",
-  "description": "Discover the best things to do in Nairobi, from tea tours to e-bike rides and scenic hikes.",
+  "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
   "items": [
     {
+      "name": "Tea Farm Tours",
+      "slug": "tea-farm-tours-in-nairobi",
+      "keywords": [
+        "Tea farm tour",
+        "Nairobi tea farm",
+        "Tea farm tour Nairobi",
+        "Farm tour",
+        "Tea tour",
+        "Tea farm tour near Nairobi",
+        "Nairobi tea farm tour",
+        "Nairobi tea tour",
+        "Farm to visit Nairobi",
+        "Things to do in Nairobi",
+        "Places to visit in Nairobi"
+      ],
+      "seo": "Tea farm tours in Nairobi",
+      "location": "Nairobi, Kenya",
+      "price": 4500,
+      "pricing": {
+        "citizen": 4500,
+        "resident": 4500,
+        "nonResident": 4500
+      },
+      "keyDetails": {
+        "duration": "120 minutes",
+        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
+        "location": "Ravenswood Escapes, Tigoni",
+        "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
+      },
+      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg",
+      "shortDescription": "Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span>The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span>The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p></div><div><h3 class='text-2xl font-semibold mb-3'>The Walking Experience</h3><p><span>The route follows a scenic trail through:</span></p><p><span>Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p id=\"h.ktryy2rafga6\"><span><b>Natural Features and Landscape</b></span></p><p><span>The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><p><span>These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p id=\"h.yfz0864vpa44\"><span><b>Heritage and Tea Culture</b></span></p><p><span>A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span>During the tour, participants learn about:</span></p><p><span>This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p id=\"h.cmb926idhz78\"><span><b>Tea Tasting Experience</b></span></p><p><span>The tour concludes with a guided tea tasting session.</span></p><p><span>Participants are invited to:</span></p><p><span>This final stage provides a quiet and reflective end to the experience.</span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.</span></p><p><span>Set within a working tea estate, the tour is designed for visitors who enjoy walking, learning, and unhurried exploration of nature.</span></p><p><span></span></p></div>",
+      "gallery": [
+        {
+          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm.jpg",
+          "alt": "Tea farm landscape"
+        },
+        {
+          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm%20tour.jpg",
+          "alt": "Tea picking"
+        }
+      ],
+      "highlights": [
+        "Guided Plantation Walk",
+        "Hands-On Tea Picking",
+        "Processing Demonstrations",
+        "Tea Tasting Experience",
+        "Farm-to-Table Refreshments",
+        "Educational Insights"
+      ],
+      "itinerary": [
+        {
+          "title": "Welcome & Briefing",
+          "description": "Meet at the center, brief history of Tigoni tea farming."
+        },
+        {
+          "title": "Field Walk",
+          "description": "Guided walk through the tea bushes, interaction with farmers."
+        },
+        {
+          "title": "Tasting Session",
+          "description": "Sample different grades of tea with light snacks."
+        }
+      ],
+      "inclusions": ["Professional Guide", "Tea tasting", "Farm entry fees"],
+      "exclusions": ["Transport", "Lunch (unless arranged)"],
+      "faqs": [
+        {
+          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
+          "question": "Can I do an e-bike tour near Nairobi?"
+        },
+        {
+          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
+          "question": "Do I need cycling experience to join?"
+        },
+        {
+          "answer": "The experience typically lasts between two to three hours, including stops and a midway break.",
+          "question": "How long does the tour take?"
+        },
+        {
+          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
+          "question": "Is food included in the tour?"
+        },
+        {
+          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni.",
+          "question": "What should I wear?"
+        },
+        {
+          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
+          "question": "Is this suitable for groups?"
+        }
+      ]
+    },
+    {
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical coffee farm tour includes a guided walk through the plantation, followed by a structured introduction to coffee processing and a tasting session.</span></p><p><span>Participants are guided through each stage of production, gaining an understanding of both traditional and modern methods used in Kenyan coffee farming.</span></p><p><span>The experience is paced to allow for learning, interaction, and appreciation of the environment.</span></p><p id=\"h.tlvicroepxmx\"><span><b>What to Expect</b></span></p><p id=\"h.ewragnje4fbx\"><span><b>Walk Through Coffee Plantations</b></span></p><p><span>The experience begins with a walk through the coffee farm, where participants learn about:</span></p><p><span>The environment is typically calm and scenic, offering a relaxed introduction to the experience.</span></p><p id=\"h.ht3sgw4t4sys\"><span><b>Coffee Processing Experience</b></span></p><p><span>Participants are introduced to the steps involved in transforming coffee cherries into beans, including:</span></p><p><span>This stage provides insight into the craftsmanship and precision required to produce high-quality coffee.</span></p><p id=\"h.lss05qhxrs51\"><span><b>Roasting and Brewing Demonstration</b></span></p><p><span>Some experiences include demonstrations covering:</span></p><p><span>This connects the farm process to everyday coffee consumption.</span></p><p id=\"h.k6e8x7km9pqs\"><span><b>Coffee Tasting (Cupping Session)</b></span></p><p><span>The experience concludes with a guided tasting session where participants:</span></p><p><span>This stage provides a complete “farm-to-cup” understanding.</span></p><p id=\"h.4ate2d9qvyl5\"><span><b>Popular Coffee Farm Experiences Near Nairobi</b></span></p><p><span>Well-known coffee farm experiences are located within 20 to 60 minutes from Nairobi and typically include:</span></p><p><span>As highlighted in your source material, these tours are structured to provide a full journey through coffee production while maintaining a relaxed and educational pace .</span></p><p id=\"h.ipxzl66xj3qu\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p id=\"h.bkgmvzsvgs1o\"><span><b>Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi</b></span></p><p><span>Coffee farm tours near Nairobi offer an immersive way to explore one of Kenya’s most important agricultural exports. Located in regions such as Kiambu County and Limuru, these experiences combine scenic farm walks, educational insights, and coffee tasting to create a well-rounded day activity.</span></p><p><span>The tours are designed to take visitors through the full journey of coffee production, from cultivation to the final cup.</span></p><p><span></span></p></div>",
+      "exclusions": [],
+      "faqs": [
+        {
+          "answer": "Yes. Several coffee farms are located within 20 to 60 minutes from Nairobi, making them easily accessible for day trips.",
+          "question": "Can I visit a coffee farm near Nairobi?"
+        },
+        {
+          "answer": "The experience includes a guided walk through the plantation, learning about coffee processing, and a coffee tasting session.",
+          "question": "What happens during a coffee farm tour?"
+        },
+        {
+          "answer": "Most tours last between 2 to 4 hours, depending on the itinerary and included activities.",
+          "question": "How long does a coffee farm tour take?"
+        },
+        {
+          "answer": "Coffee farm tours typically cost between KES 2,000 and KES 5,000 per person, depending on the experience.",
+          "question": "How much does a coffee farm tour cost in Nairobi?"
+        },
+        {
+          "answer": "Yes. The tours are designed to be educational and accessible, requiring no prior knowledge.",
+          "question": "Are coffee farm tours suitable for beginners?"
+        }
+      ],
+      "featured": false,
+      "gallery": [
+        {
+          "alt": "coffee farm tour Nairobi",
+          "src": "/image/destination-img-3.jpg"
+        },
+        {
+          "alt": "coffee farm tour Nairobi",
+          "src": "/image/destination-img-12.jpg"
+        }
+      ],
+      "highlights": [],
+      "image": "/image/destination-img-3.jpg",
+      "inclusions": [],
+      "itinerary": [],
+      "keyDetails": {},
+      "location": "Nairobi",
+      "name": "coffee farm tour Nairobi",
+      "price": 0,
+      "pricing": {},
+      "seo": "coffee farm tour Nairobi",
+      "shortDescription": "Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi",
+      "slug": "coffee-farm-tour-nairobi"
+    },
+    {
       "name": "E-bike Tours",
-      "name2":"E-bike Tours in Tigoni",
-      "seo":"Tigoni E-bike Tours",
-      "slug": "ebike-tours-tigoni",
+      "name2": "E-bike Tours in Nairobi",
+      "seo": "Nairobi E-bike Tours",
+      "slug": "ebike-tours-nairobi",
       "keywords": [
         "Ebike tours",
-        "Tigoni ebike tours",
-        "Ebike tours tigoni",
-        "Tigoni electric bike tour",
-        "Tigoni bike tour",
-        "Cycling in Tigoni",
-        "Things to do in Tigoni",
-        "Places to visit in Tigoni"
+        "Nairobi ebike tours",
+        "Ebike tours Nairobi",
+        "Nairobi electric bike tour",
+        "Nairobi bike tour",
+        "Cycling in Nairobi",
+        "Things to do in Nairobi",
+        "Places to visit in Nairobi"
       ],
-      "location": "Tigoni, Kenya",
+      "location": "Nairobi, Kenya",
       "price": 3500,
       "featured": true,
       "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20E-bike%20Tours.jpeg",
-      "shortDescription": "Effortlessly navigate through lush, green terrains and immerse yourself in nature on an electric bike.",
       "keyDetails": {
         "duration": "120 minutes",
         "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
@@ -33,86 +177,35 @@
         "resident": 4500,
         "nonResident": 5500
       },
-      "contentHtml": "<div class='text-gray-700 leading-relaxed '><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>What’s Included</h3><ul class='list-disc pl-5 space-y-1'><li>Electric bike rental</li><li>Helmet and safety gear</li><li>Guided 2 hours tour through scenic Tigoni trails</li><li>Secure parking</li><li>Mid-ride stop (please note the venue has outdoor washrooms only)</li></ul></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Why Choose Tigoni eBike Tours?</h3><ul class='space-y-2'><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Local Expertise:</strong> Ride with guides who know Tigoni inside and out.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Scenic Start & Finish:</strong> Begin and end your tour at the beautiful  Ravenswood Escapes, Tigoni.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Nature & Adventure:</strong> Breathe in fresh highland air while exploring Tigoni’s most stunning trails.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Effortless Riding:</strong> Go farther and climb hills with ease using powerful eBee electric bikes.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Intimate Experience:</strong> Small groups capped at 10 riders for a personal and safe adventure.</span></li></ul></div></div><div><h3 class='text-2xl font-serif text-background font-medium mt-6 mb-3'>Private Group eBike Tours (Min 4 Guests)</h3><p class='leading-relaxed'>Celebrate a birthday, host a team-building event, or enjoy a weekend adventure with friends on a private eBike tour. Departing from Ravenswood Escapes, Tigoni, these tours provide a personalized, guided experience through Tigoni’s most scenic trails. With local guides and powerful eBee electric bikes, your group can explore at its own pace. Private tours can be scheduled outside standard time slots and tailored to your group’s preferences — contact us to plan your exclusive adventure.</p></div><div class='mt-8 pt-6 border-t border-gray-100'></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed  '>Our guided <a href='https://maps.app.goo.gl/5uxqsXuMAA6aCNUG7' target='_blank' rel='noopener noreferrer' class='no-underline'><span class='font-black text-accent'>e-Bike tours in Tigoni</span></a> are perfect for riders of all skill levels. Experience the excitement of exploring the countryside with the effortless boost of electric power. Conquer scenic hills, discover hidden trails, and venture deep into Tigoni's lush landscapes with ease.</div> <div><h3 class='text-2xl font-serif text-background  font-medium mb-3'>eBike Tour Highlights</h3><p class='mb-4 leading-relaxed'>Set out from the picturesque <a href='https://maps.app.goo.gl/NmntafaDgkzh1ng86' target='_blank' rel='noopener noreferrer' class='no-underline'><span class='font-black text-accent'> Ravenswood Escapes, Tigoni</span></a> on a guided eBike journey through one of Kenya’s most breathtaking countryside destinations — just a short drive from Nairobi. Whether you’re seeking a weekend adventure, a nature escape, or a unique experience with friends, this ride offers the perfect balance of excitement and relaxation.</p><p class='leading-relaxed'>With our high-performance eBee electric bikes, you’ll effortlessly glide through tea plantations, forest paths, and rolling hills, enjoying more of Tigoni without breaking a sweat.</p></div>",
+      "shortDescription": "Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span>The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span>The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p id=\"h.wlhpym90jtzf\"><span><b>The Ride Through Tigoni</b></span></p><p><span>The route takes you through:</span></p><p><span>As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p id=\"h.aa4dumb3w4sp\"><span><b>Midway Stop at The Fig & Olive</b></span></p><p><span>At the halfway point, the tour includes a stop at The Fig & Olive, a farm-style restaurant set within the tea fields.</span></p><p><span>This break allows participants to:</span></p><p><span>The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p id=\"h.dnbtfp16zado\"><span><b>Return Journey</b></span></p><p><span>After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span>By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
       "faqs": [
-      {
-      "question": "What are e-bike tours in Tigoni?",
-      "answer": "E-bike tours in Tigoni are guided cycling experiences using electric bicycles that help riders comfortably explore the scenic tea farms, rolling hills, and countryside roads of Tigoni without requiring intense physical effort.<br><br>These tours combine outdoor adventure, nature, sightseeing, and cultural experiences near Nairobi."
-    },
-    {
-      "question": "Where can I do e-bike tours in Tigoni?",
-      "answer": "Ravenswood farm, Tigoni is one of the top destinations for e-bike tours near Nairobi because of its scenic tea plantations, quiet roads, cool climate, and beautiful countryside landscapes."
-    },
-    {
-      "question": "How far is Tigoni from Nairobi for an e-bike tour?",
-      "answer": "Tigoni is located approximately 30 to 40 minutes from Nairobi, making it one of the most convenient countryside destinations for day trips and e-bike adventures."
-    },
-    {
-      "question": "Are Tigoni e-bike tours beginner-friendly?",
-      "answer": "Yes. E-bike tours in Tigoni are beginner-friendly because electric bikes provide pedal assistance, making it easier to ride through hills and longer routes comfortably.<br><br>Most tours are suitable for:<br>• Beginners<br>• Couples<br>• Families<br>• Solo travelers<br>• Corporate groups"
-    },
-    {
-      "question": "How do electric bikes work during the tour?",
-      "answer": "Electric bikes use battery-powered pedal assistance to help riders cycle with less effort.<br><br>Riders can still pedal normally, but the motor provides additional support, especially when climbing hills or covering long distances.<br><br>This makes Tigoni e-bike tours enjoyable even for people with little cycling experience."
-    },
-    {
-      "question": "What can you see during a Tigoni e-bike tour?",
-      "answer": "During an e-bike tour in Tigoni, visitors may experience:<br>• Scenic tea plantations<br>• Forest trails<br>• Rolling hills<br>• Countryside roads<br>• Tea farms<br>• Local villages<br>• Panoramic viewpoints<br>• Sunrise or sunset scenery<br><br>Some routes also pass through coffee farms and nature trails."
-    },
-    {
-      "question": "Why are Tigoni e-bike tours popular?",
-      "answer": "Tigoni e-bike tours are popular because they combine:<br>• Adventure<br>• Scenic landscapes<br>• Relaxation<br>• Photography opportunities<br>• Outdoor exercise<br>• Tea farm experiences<br><br>The cool weather and peaceful environment make Tigoni one of the best cycling destinations near Nairobi."
-    },
-    {
-      "question": "Are Tigoni e-bike tours worth it?",
-      "answer": "Yes. Tigoni e-bike tours are considered one of the best outdoor activities near Nairobi because they provide a unique way to explore tea farms and countryside scenery while enjoying a comfortable cycling experience."
-    },
-    {
-      "question": "How long do e-bike tours in Tigoni take?",
-      "answer": "Tigoni e bike tours last between 2-3 hours depending on the route, pace, and package selected.<br><br>Some premium experiences may include:<br>• Tea tasting<br>• Picnic experiences<br>• Farm visits<br>• Photography stops"
-    },
-    {
-      "question": "Are e-bike tours in Tigoni safe?",
-      "answer": "Yes. Guided e-bike tours in Tigoni are generally safe because the area has relatively quiet countryside roads and experienced guides often lead the tours.<br><br>Safety equipment such as helmets is usually provided."
-    },
-    {
-      "question": "What should I wear for a Tigoni e-bike tour?",
-      "answer": "Recommended clothing includes:<br>• Comfortable sportswear<br>• Closed shoes or sneakers<br>• Sunglasses<br>• Light jackets<br>• Sunscreen<br><br>Because Tigoni can become cool and misty, carrying a light sweater or jacket is recommended."
-    },
-    {
-      "question": "Do I need cycling experience for an e-bike tour?",
-      "answer": "No. Most Tigoni e-bike tours are designed for beginners and casual riders.<br><br>The electric pedal assistance makes riding easier compared to traditional bicycles."
-    },
-    {
-      "question": "Are Tigoni e-bike tours good for couples?",
-      "answer": "Yes. Tigoni e-bike tours are popular date experiences because they combine scenic landscapes, adventure, and romantic countryside settings.<br><br>Couples often combine e-bike rides with:<br>• Tea farm tours<br>• Picnic experiences<br>• Coffee stops<br>• Photography sessions"
-    },
-    {
-      "question": "Can families do e-bike tours in Tigoni?",
-      "answer": "Yes. Many e-bike tours in Tigoni are family-friendly and suitable for older children and parents looking for outdoor experiences near Nairobi."
-    },
-    {
-      "question": "What is the best time for e-bike tours in Tigoni?",
-      "answer": "The best time for e-bike tours in Tigoni is during:<br>• Early mornings<br>• Late afternoons<br>• Dry seasons from January to March and June to October<br><br>These periods provide cooler weather and clearer views of the tea plantations."
-    },
-    {
-      "question": "Are there guided e-bike tours in Tigoni?",
-      "answer": "Yes. Most e-bike experiences in Tigoni are guided tours where local guides lead visitors through scenic routes while sharing stories about the area, tea farming culture, and hidden viewpoints."
-    },
-    {
-      "question": "Can tourists book Tigoni e-bike tours?",
-      "answer": "Yes. Tigoni e-bike tours are popular with both local and international tourists looking for unique outdoor experiences near Nairobi."
-    },
-    {
-      "question": "How much do e-bike tours in Tigoni cost?",
-      "answer": "Ebike tours prices start at ksh3500 for Kenyan citizens, Ksh.4500 for Residents and Ksh 5500 for non residents."
-    },
-    {
-      "question": "What makes Tigoni one of the best places for e-bike tours in Kenya?",
-      "answer": "Tigoni stands out because of its:<br>• Scenic tea plantations<br>• Rolling hills<br>• Quiet roads<br>• Cool climate<br>• Beautiful countryside views<br>• Accessibility from Nairobi<br><br>It offers one of the most scenic and beginner-friendly e-bike experiences in Kenya."
-    }
-  ],
+        {
+          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
+          "question": "Can I do an e-bike tour near Nairobi?"
+        },
+        {
+          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
+          "question": "Do I need cycling experience to join?"
+        },
+        {
+          "answer": "The experience typically lasts between two to three hours, including stops and a midway break.",
+          "question": "How long does the tour take?"
+        },
+        {
+          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
+          "question": "Is food included in the tour?"
+        },
+        {
+          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni.",
+          "question": "What should I wear?"
+        },
+        {
+          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
+          "question": "Is this suitable for groups?"
+        }
+      ],
       "gallery": [
         {
           "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5922-2.jpg",
@@ -164,396 +257,76 @@
         }
       ]
     },
+
     {
-      "name": "Tea Farm Tours",
-      "slug": "tea-farm-tours-in-tigoni",
-      "keywords": [
-        "Tea farm tour",
-        "Tigoni tea farm",
-        "Tea farm tour tigoni",
-        "Farm tour",
-        "Tea tour",
-        "Tea farm tour near Nairobi",
-        "Tigoni tea farm tour",
-        "Tigoni tea tour",
-        "Farm to visit tigoni",
-        "Things to do in tigoni",
-        "Places to visit in Tigoni"
-      ],
-      "seo":"Tea farm tours in Tigoni",
-      "location": "Tigoni, Kenya",
-      "price": 4500,
-      "pricing": {
-        "citizen": 4500,
-        "resident": 4500,
-        "nonResident": 4500
-      },
-      "keyDetails": {
-        "duration": "120 minutes",
-        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
-        "location": "Ravenswood Escapes, Tigoni",
-        "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
-      },
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg",
-      "shortDescription": "Discover the best tea farm tours in Tigoni near Nairobi. Enjoy tea tasting, guided plantation walks, tea picking experiences, and farm-to-cup dining on beautiful Kenyan tea estates.",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed  '>Tigoni is home to some of Kenya’s most scenic tea farms, offering unforgettable <a href='https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6'  style='text-decoration:none;'><strong class='text-accent'>tea farm tours</strong></a> just outside Nairobi. Surrounded by rolling green hills, fresh highland air, and rich agricultural heritage, Tigoni provides the perfect countryside escape for visitors seeking an authentic tea farm experience in Kenya.</div><div class='text-gray-700 leading-relaxed '><h3></h3> Explore beautiful tea plantations, learn how tea is cultivated and harvested, enjoy guided tea tasting experiences, and discover the fascinating journey from leaf to cup. Whether you are looking to book a tea farm tour in Tigoni, enjoy a relaxing day trip from Nairobi, or experience a working tea estate firsthand, Tigoni offers one of the best tea tourism experiences in East Africa.</div><div class='text-gray-700 leading-relaxed '>Popular experiences include guided tea plantation walks, hands-on tea picking, tea processing demonstrations, farm-to-table dining, and premium tea tasting sessions hosted on family-owned tea estates.</div>",
-      "contentHtml": "<div class='text-gray-700 leading-relaxed '><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Why Visit a Tea Farm in Tigoni?</h3><p class='mb-4 leading-relaxed'>Located in the lush highlands of Limuru, near Nairobi, Tigoni is one of Kenya’s most beautiful tea-growing regions. The area’s cool climate, fertile volcanic soils, and high altitude create ideal conditions for producing some of the world’s finest teas.</p><p class='mb-4 leading-relaxed'>A tea farm tour in Tigoni gives visitors the opportunity to:</p><ul class='space-y-2 list-disc pl-5'><li>Walk through scenic tea plantations</li><li>Learn how tea is cultivated and harvested</li><li>Participate in tea picking experiences</li><li>Tea processing Demonstration</li><li>Enjoy guided tea tasting sessions</li><li>Experience farm-to-cup dining</li><li>Discover the history of Kenyan tea farming</li><li>Enjoy breathtaking countryside views near Nairobi</li></ul><p class='mt-4 leading-relaxed'>Whether you are a tea enthusiast, photographer, couple, family, or international traveler, Tigoni tea farm tours offer a unique blend of relaxation, culture, education, and nature.</p></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>What to Expect on a Tea Farm Tour in Tigoni</h3><p class='mb-4 leading-relaxed'>Tea farm tours in Tigoni are designed to take visitors through the complete tea-making journey, from the plantation to the final cup. Each experience combines hands-on learning, breathtaking scenery, and authentic local hospitality.</p></div><div class='space-y-4'><div><h4 class='text-lg font-bold text-background mb-1'>Guided Tea Farm Tour</h4><p>Begin your experience with a guided walk through lush tea plantations while learning about Kenya’s tea industry and the different varieties of tea grown in Tigoni, including black tea, green tea, and purple tea. Your guide will explain how Tigoni’s altitude, climate, and fertile soils contribute to the rich flavor and quality of Kenyan tea. Along the way, enjoy panoramic views of the rolling tea fields and surrounding countryside.</p></div><div><h4 class='text-lg font-bold text-background mb-1'>Hands-On Tea Picking Experience</h4><p>Experience tea farming firsthand by participating in a traditional tea-picking session. Learn how farmers carefully harvest the “two leaves and a bud,” the essential technique used to produce high-quality tea. This interactive experience gives visitors a deeper appreciation of the craftsmanship and labor involved in tea production.</p></div><div><h4 class='text-lg font-bold text-background mb-1'>Tea Processing Demonstration</h4><p>Discover how freshly picked tea leaves are transformed into the final product. Learn about the different stages of tea production, including withering, rolling, oxidation and fermentation, drying, and sorting and grading. Some tea farms also offer hands-on mini processing experiences where visitors can create and package a small batch of tea as a souvenir.</p></div><div><h4 class='text-lg font-bold text-background mb-1'>Tea Tasting Experience in Tigoni</h4><p>No tea farm tour is complete without an authentic tea tasting experience. Sample freshly brewed Kenyan teas while learning how to identify differences in flavor, aroma, texture, and quality. Taste a variety of locally grown teas, including black tea, green tea, purple tea, and herbal infusions. Enjoy your tea tasting session while overlooking Tigoni’s stunning tea landscapes.</p></div><div><h4 class='text-lg font-bold text-background mb-1'>Farm-to-Table Lunch at the Tea Farm</h4><p>Many Tigoni tea farm tours include delicious farm-to-table meals or refreshments prepared using locally sourced ingredients grown on the estate. Guests can enjoy traditional Kenyan dishes, homemade desserts, and freshly brewed tea in a peaceful countryside setting surrounded by tea plantations.</p></div><div><h4 class='text-lg font-bold text-background mb-1'>Learn About Kenya’s Tea Farming History</h4><p>Throughout the tour, guides share fascinating insights into the history of tea farming in Kenya and the importance of tea to the country’s economy and culture. Historic tea estates such as Kiambethu Tea Farm offer visitors a deeper understanding of Tigoni’s tea heritage, dating back to the early 1900s when commercial tea farming first began in the region.</p></div></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Tea Farms to Explore in Tigoni</h3><p class='mb-4 leading-relaxed'>Tea farm tours near Nairobi include visits to some of the most scenic estates in the region:</p><ul class='space-y-2'><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Ravenswood Tea Farm</strong> — Scenic plantation walks, tea tasting experiences, and countryside views.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Gathoni Farm</strong> — Authentic tea picking, sustainable farming, and local hospitality.</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Kiambethu Tea Farm</strong> — Historic estate dating back to 1910 with guided tours and farm-to-table dining.</span></li></ul></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Book a Tea Farm Tour in Tigoni</h3><p class='mb-4 leading-relaxed'>Looking for the perfect countryside experience near Nairobi? Book a tea farm tour in Tigoni and enjoy guided plantation walks, tea tasting sessions, tea picking activities, and breathtaking views of Kenya’s tea highlands.</p><p class='mb-4 leading-relaxed'>Our Tigoni tea farm tours are perfect for:</p><ul class='space-y-2 list-disc pl-5'><li>Couples and romantic getaways</li><li>Families and children</li><li>Corporate team-building activities</li><li>International tourists</li><li>Weekend trips from Nairobi</li><li>Nature and photography lovers</li></ul><p class='mt-4 leading-relaxed'>Advance booking is recommended, especially during weekends and holiday seasons.</p></div></div>",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The walking tour typically begins in Nairobi’s central business district, where participants meet their guide for a short orientation. From there, the route follows key streets, landmarks, and public spaces that reveal Nairobi’s development from a railway town into one of East Africa’s most important cities.</span></p><p><span>The experience is relaxed and guided throughout, with opportunities to ask questions, take photographs, and observe daily city life.</span></p><p id=\"h.8o7u2olna8d9\"><span><b>What to Expect</b></span></p><p><span>Participants may explore:</span></p><p><span>Each stop adds context to Nairobi’s history, culture, and identity.</span></p><p id=\"h.3if7838p5h6v\"><span><b>Duration and Difficulty</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.</span></p><p><span>The tour is ideal for visitors who want to understand Nairobi beyond the usual sightseeing routes. It combines historical context, local interaction, architecture, culture, and street-level storytelling in one accessible city experience.</span></p></div>",
+      "exclusions": [],
+      "faqs": [],
+      "featured": false,
       "gallery": [
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm.jpg",
-          "alt": "Tea farm landscape"
-        },
-        {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm%20tour.jpg",
-          "alt": "Tea picking"
+          "alt": "Nairobi city walking tour",
+          "src": "/image/destination-img-6.jpg"
         }
       ],
-      "highlights": [
-        "Guided Plantation Walk",
-        "Hands-On Tea Picking",
-        "Processing Demonstrations",
-        "Tea Tasting Experience",
-        "Farm-to-Table Refreshments",
-        "Educational Insights"
-      ],
+      "highlights": [],
+      "image": "/image/destination-img-6.jpg",
+      "inclusions": [],
       "itinerary": [
         {
-          "title": "Welcome & Briefing",
-          "description": "Meet at the center, brief history of Tigoni tea farming."
+          "description": "The tour begins at a central meeting point within Nairobi CBD. Guests meet the guide, receive a short briefing, and get an introduction to the city’s history and route.",
+          "title": "1. Meet and Orientation"
         },
         {
-          "title": "Field Walk",
-          "description": "Guided walk through the tea bushes, interaction with farmers."
+          "description": "The walk continues through key city streets such as Kenyatta Avenue and Moi Avenue, where guests learn about Nairobi’s growth from a railway settlement into a modern capital city.",
+          "title": "2. Historic Streets Walk"
         },
         {
-          "title": "Tasting Session",
-          "description": "Sample different grades of tea with light snacks."
+          "description": "The route may include stops at important landmarks such as KICC, the Railway Museum, August 7th Memorial Park, or nearby public monuments, depending on the selected route and timing.",
+          "title": "3. Landmark Stops"
+        },
+        {
+          "description": "Guests visit a local market such as City Market or Maasai Market, where they can observe Nairobi’s craft culture, interact with vendors, and explore local art, souvenirs, and street activity.",
+          "title": "4. Market and Culture Experience"
+        },
+        {
+          "description": "The tour may include a stop at Uhuru Park, Jeevanjee Gardens, or another public green space for a short break and a slower view of the city.",
+          "title": "5. Green Space Stop"
+        },
+        {
+          "description": "The experience ends at a convenient central location, where guests can continue exploring, visit a nearby café, or arrange transport to their next destination.",
+          "title": "6. End of Tour"
+        },
+        {
+          "description": "Is a Nairobi city walking tour safe?",
+          "title": "FAQs – Nairobi City Walking Tour"
+        },
+        {
+          "description": "How long does a Nairobi city walking tour take?",
+          "title": "Yes. Nairobi city walking tours are generally safe when done during the day with a knowledgeable local guide and within recommended routes."
+        },
+        {
+          "description": "What places do you visit on a Nairobi walking tour?",
+          "title": "Most Nairobi city walking tours take between 2 and 4 hours, depending on the route, number of stops, and walking pace."
+        },
+        {
+          "description": "What should I wear for a Nairobi walking tour?",
+          "title": "Common stops include Nairobi CBD, Kenyatta Avenue, Moi Avenue, KICC, City Market, Maasai Market, Uhuru Park, and other cultural or historical landmarks."
+        },
+        {
+          "description": "Can solo travelers join a Nairobi walking tour?",
+          "title": "Wear comfortable walking shoes and light clothing. It is also advisable to carry water, sunscreen, and a hat for sunny days."
         }
       ],
-      "inclusions": ["Professional Guide", "Tea tasting", "Farm entry fees"],
-      "exclusions": ["Transport", "Lunch (unless arranged)"],
-"faqs": [
-    {
-      "question": "What are tea farm tours in Tigoni?",
-      "answer": "Tea farm tours in Tigoni are guided countryside experiences that take visitors through the scenic tea plantations of Tigoni, Kenya. These tours allow guests to explore lush tea farms, learn about tea growing and harvesting, enjoy panoramic views, and experience the peaceful atmosphere of the Limuru highlands near Nairobi."
-    },
-    {
-      "question": "Where is Tigoni located?",
-      "answer": "Tigoni is located in Limuru, Kiambu County, approximately 30–40 minutes from Nairobi. It is one of Kenya’s oldest tea-growing regions and is known for its cool weather, rolling green hills, and scenic tea estates."
-    },
-    {
-      "question": "How far is Tigoni from Nairobi?",
-      "answer": "Tigoni is about 25–35 kilometers from Nairobi depending on your starting point. Most visitors can reach Tigoni within 40 minutes by car, making it one of the best day trips and countryside escapes from Nairobi."
-    },
-    {
-      "question": "What happens during a Tigoni tea farm tour?",
-      "answer": "A typical Tigoni tea farm tour includes guided walks through tea plantations, learning about tea cultivation, photography stops, tea tasting experiences, nature exploration, and opportunities to enjoy scenic views of the tea-covered hills.<br><br>Some tours also include:<br>• Tea processing explanations<br>• Tea picking demonstrations<br>• Picnic experiences<br>• Farm-to-cup tea tastings<br>• E-bike experiences through tea farms"
-    },
-    {
-      "question": "Why is Tigoni famous for tea farm tours?",
-      "answer": "Tigoni is famous for tea farm tours because it combines Kenya’s rich tea heritage with breathtaking landscapes and easy accessibility from Nairobi. The region’s cool climate and high altitude make it ideal for producing premium Kenyan tea.<br><br>Visitors also love Tigoni because it offers:<br>• Scenic tea plantations<br>• Fresh countryside air<br>• Quiet and relaxing environments<br>• Photography opportunities<br>• Authentic Kenyan tea experiences"
-    },
-    {
-      "question": "Are tea farm tours in Tigoni worth it?",
-      "answer": "Yes. Tea farm tours in Tigoni are considered one of the best outdoor experiences near Nairobi. Visitors enjoy nature, culture, photography, fresh air, and educational insights into Kenya’s globally recognized tea industry.<br><br>The tours are especially popular among:<br>• Couples<br>• Families<br>• Tourists<br>• Corporate groups<br>• Content creators<br>• Nature lovers"
-    },
-    {
-      "question": "What is the best time to visit Tigoni tea farms?",
-      "answer": "The best time to visit Tigoni tea farms is during the dry seasons:<br>• January to March<br>• June to October<br><br>Morning and late afternoon tours usually offer the best lighting for photography and cooler temperatures for walking through the tea plantations."
-    },
-    {
-      "question": "Can you walk through tea plantations in Tigoni?",
-      "answer": "Yes. Most tea farm tours in Tigoni include guided walks through the tea plantations. Visitors can explore scenic trails, interact with tea pickers, and learn about the tea farming process while enjoying panoramic countryside views."
-    },
-    {
-      "question": "How long do tea farm tours in Tigoni take?",
-      "answer": "Most Tigoni tea farm tours last between 2 to 5 hours depending on the package. Some experiences are short guided walks, while others include tea tasting, meals, picnics, or e-bike tours."
-    },
-    {
-      "question": "Are Tigoni tea farm tours family-friendly?",
-      "answer": "Yes. Tigoni tea farm tours are family-friendly and suitable for children, couples, groups, and senior visitors. The peaceful environment and open spaces make it an excellent outdoor activity for all ages."
-    },
-    {
-      "question": "What should I wear for a tea farm tour in Tigoni?",
-      "answer": "Visitors are advised to wear:<br>• Comfortable walking shoes<br>• Light jackets or sweaters<br>• Sunscreen<br>• Hats or caps<br>• Comfortable outdoor clothing<br><br>Because Tigoni has cool weather, carrying a light jacket is highly recommended."
-    },
-    {
-      "question": "Do tea farm tours in Tigoni include tea tasting?",
-      "answer": "Many Tigoni tea farm tours include tea tasting experiences where visitors can sample freshly brewed Kenyan tea while learning about tea grades, flavors, and processing methods."
-    },
-    {
-      "question": "Can tourists visit tea farms in Tigoni?",
-      "answer": "Yes. Tea farm tours in Tigoni are popular with both local and international tourists looking for authentic Kenyan countryside experiences near Nairobi."
-    },
-    {
-      "question": "Are there photography spots in Tigoni tea farms?",
-      "answer": "Yes. Tigoni is one of the best photography destinations near Nairobi because of its rolling green hills, tea plantations, misty landscapes, and scenic countryside roads.<br><br>Popular photography moments include:<br>• Sunrise over tea farms<br>• E-bike rides through plantations<br>• Tea picking activities<br>• Scenic tea estate roads"
-    },
-    {
-      "question": "Are Tigoni tea farm tours good for couples?",
-      "answer": "Yes. Tigoni tea farm tours are popular date experiences because of the peaceful atmosphere, scenic landscapes, and romantic countryside setting.<br><br>Many couples combine tea farm tours with:<br>• Picnic experiences<br>• Coffee stops<br>• E-bike tours<br>• Spa visits<br>• Sunset experiences"
-    },
-    {
-      "question": "Can I combine a tea farm tour with other activities in Tigoni?",
-      "answer": "Yes. Many visitors combine tea farm tours with:<br>• E-bike tours<br>• Nature walks<br>• Coffee experiences<br>• Spa visits<br>• Golf<br>• Picnics<br>• Farm visits<br>• Scenic drives<br><br>This makes Tigoni one of the best full-day getaway destinations near Nairobi."
-    },
-    {
-      "question": "Are Tigoni tea farm tours suitable for corporate groups?",
-      "answer": "Yes. Tea farm tours in Tigoni are commonly booked for:<br>• Team-building activities<br>• Corporate retreats<br>• Staff wellness experiences<br>• Group outdoor events<br><br>The quiet environment makes Tigoni ideal for escaping Nairobi’s busy atmosphere."
-    },
-    {
-      "question": "How much does a tea farm tour in Tigoni cost?",
-      "answer": "Tea farm tours in tigoni go for ksh.4500 for all nationalities"
-    },
-    {
-      "question": "Is Tigoni safe for tourists?",
-      "answer": "Yes. Tigoni is generally considered safe for tourists and visitors. However, as with any outdoor destination, visitors are advised to follow guide instructions and keep personal belongings secure."
-    },
-    {
-      "question": "What makes Tigoni different from other tea farm destinations in Kenya?",
-      "answer": "Tigoni stands out because of:<br>• Its proximity to Nairobi<br>• Scenic rolling tea hills<br>• Cooler weather<br>• Easy accessibility<br>• Combination of nature and luxury experiences<br>• Relaxed countryside atmosphere<br><br>It is one of the most accessible tea tourism destinations in Kenya."
-    }
-  ]
-    },
-    {
-      "name": "Hiking Tours",
-      "seo":"Hiking tours in Tigoni",
-      "slug": "hiking-tours",
-      "keywords": [
-        "Hiking tours in Tigoni",
-        "Tigoni hiking trails",
-        "Limuru hiking",
-        "Hiking near Nairobi",
-        "Walking tours in Tigoni",
-        "Nature trails in Tigoni",
-        "Waterfall hike Tigoni",
-        "Things to do in Tigoni",
-        "Places to visit in Tigoni"
-      ],
-      "location": "Tigoni, Kenya",
-      "price": 3000,
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Hikes.jpg",
-      "shortDescription": "Discover the beauty of Kenya’s highlands on foot with scenic hiking trails.",
-      "keyDetails": {
-        "duration": "90 minutes",
-        "startTime": ["9:00 AM", "12:00 PM", "3:30 PM"],
-        "location": "Various Locations"
-      },
-      "pricing": {
-        "citizen": 3000,
-        "resident": 4000,
-        "nonResident": 5000
-      },
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed  '>Discover the beauty of Kenya’s highlands on foot with <span class='font-black'>Tigoni’s scenic hiking trails</span>. This peaceful countryside region is a hiker’s paradise, offering routes that meander through lush forests, rolling tea plantations, and picturesque valleys. Popular trails such as Ravenswood Farm provide shaded paths lined with indigenous trees, serenaded by birdsong — perfect for nature lovers. Other routes lead you through vibrant tea estates, hidden waterfalls, and sweeping countryside vistas. Whether you are seeking a leisurely family-friendly walk, a dog-friendly trail with your four-legged friend, or a romantic hike for couples, Tigoni has a trail for every kind of explorer.</div>",
-      "contentHtml": "<div class='text-gray-700 leading-relaxed '><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>The Best Guides</h3><p class='leading-relaxed'>Enhance your hiking experience with our knowledgeable local guides, many of whom are female and born and raised in Tigoni. Their intimate connection to the land ensures you’ll uncover hidden trails, breathtaking viewpoints, and fascinating local stories often missed by other visitors. As you walk through Tigoni’s forests, tea-covered hills, and tranquil valleys, you’ll gain unique insights into its rich culture, natural history, and everyday life. Their warmth and expertise make every hike both safe and unforgettable.</p></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Private Hikes</h3><p class='leading-relaxed'>For a more personalized experience, book a private hike with a local guide. Explore scenic trails at your own pace while learning about Tigoni’s flora, wildlife, and cultural heritage. Private hikes are perfect for families seeking quality time, couples on a romantic escape, or groups wanting a tailored adventure through the countryside.</p></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Group Hikes & Corporate Retreats</h3><p class='leading-relaxed'>Hiking in Tigoni is ideal for team-building and corporate retreats. Its scenic trails offer a blend of adventure, relaxation, and bonding opportunities in a natural setting. Customized packages can include guided routes, outdoor challenges, and optional meals or activities. Families, friends, and colleagues alike will enjoy the combination of fresh air, beautiful landscapes, and shared experiences that only Tigoni’s trails can offer.</p></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Special Experiences</h3><ul class='list-disc pl-5 space-y-2'><li><strong>Family-Friendly Walks:</strong> Gentle trails suitable for children and multi-generational groups.</li><li><strong>Dog-Friendly Walks:</strong> Bring your furry friends along for a scenic adventure through open fields and forest paths.</li><li><strong>Couples’ Walks:</strong> Secluded trails perfect for romantic moments amid misty tea plantations and rolling hills.</li></ul></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Hikes to Choose From</h3><p class='mb-4 leading-relaxed'>Visitors can select from a variety of scenic routes, each offering a unique perspective of Tigoni:</p><ul class='space-y-2'><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Ravenswood Farm Hike:</strong> Gentle trails through farmland and open countryside</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Kawamwaki Waterfall Hike:</strong> A scenic walk leading to a hidden waterfall</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Cianda Waterfall Hike:</strong> Lush paths and tranquil water features</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Brackenhurst Forest Hike:</strong> Shaded forest trails rich in birdlife</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Tigoni Tea Estate Hike:</strong> Walks through iconic tea plantations with sweeping views</span></li></ul></div></div>",
-      "gallery": [
-        {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/Hike.jpg",
-          "alt": "Tigoni Hiking Trail"
-        },
-        {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/hike2.jpg",
-          "alt": "Forest path"
-        }
-      ],
-      "highlights": [
-        "Ravenswood Farm Hike",
-        "Kawamwaki Waterfall",
-        "Cianda Waterfall",
-        "Brackenhurst Forest",
-        "Tigoni Tea Estate"
-      ],
-      "itinerary": [
-        {
-          "title": "Assembly",
-          "description": "Warm-up and safety briefing 15 mins before start."
-        },
-        {
-          "title": "The Hike",
-          "description": "2-3 hour hike depending on pace and route chosen."
-        },
-        {
-          "title": "Cool Down",
-          "description": "Stretch session and refreshments."
-        }
-      ],
-      "inclusions": ["Local Guide", "Conservation fees", "Bottled water"],
-      "exclusions": ["Transport", "Meals"],
-     "faqs": [
-    {
-      "question": "What are the best hiking trails in Tigoni?",
-      "answer": "Tigoni offers some of the most scenic hiking trails near Nairobi, known for tea plantations, rolling hills, forests, dams, and waterfalls .<br><br>Popular routes include:<br>• Ravenswood Walk <br>• Brackenhurst Forest Trail <br>• Kawamwaki Trail <br>• Limuru Country Club Walk <br>• Cianda Walk <br><br>These trails vary from easy 1.5-hour walks to longer 4-hour immersive hikes through tea farms and indigenous forest landscapes."
-    },
-    {
-      "question": "How difficult are hiking trails in Tigoni?",
-      "answer": "Most hiking trails in Tigoni are <strong>easy to moderate</strong>, making them suitable for beginners, families, and experienced hikers. Trails like Kawamwaki and Limuru Country Walk are gentle and flat, while Brackenhurst and Ravenswood offer slightly more elevation and longer distances."
-    },
-    {
-      "question": "What is included in a guided hiking tour in Tigoni?",
-      "answer": "A guided hiking tour in Tigoni typically includes a professional local guide, route navigation through tea farms and forest paths, storytelling about tea farming history, and stops at scenic points such as dams, waterfalls, and viewpoints. Some tours also include optional picnic stops or café experiences at the end of the hike."
-    },
-    {
-      "question": "How long do hikes in Tigoni take?",
-      "answer": "Hiking durations in Tigoni range from <strong>1.5 hours to 4+ hours</strong>, depending on the trail. Short walks like Limuru Country Walk take around 1.5 hours, while immersive routes like Brackenhurst or Cianda Walk can take up to 4 hours or more depending on pace and stops."
-    },
-    {
-      "question": "What should I wear for hiking in Tigoni?",
-      "answer": "Wear comfortable hiking shoes or sturdy sneakers, layered clothing (because Tigoni is cool and can get misty), and bring a light jacket. It is also recommended to carry water, sunscreen, and a hat. Early morning hikes are ideal due to cooler temperatures and better visibility."
-    },
-    {
-      "question": "Is Tigoni good for hiking near Nairobi?",
-      "answer": "Yes. Tigoni is one of the best hiking destinations near Nairobi, located less than an hour from the city via Limuru Road. It offers a peaceful alternative to busier parks, with tea plantations, forest trails, waterfalls, and scenic countryside views."
-    },
-    {
-      "question": "What outdoor activities can I do in Tigoni besides hiking?",
-      "answer": "Besides hiking, Tigoni offers e-bike tours, tea farm experiences, nature walks, picnics, photography tours, and farm visits. Many visitors combine hiking with tea estate exploration or café stops for a full-day outdoor experience."
-    },
-    {
-      "question": "Are Tigoni hiking tours suitable for beginners?",
-      "answer": "Yes. Most Tigoni hiking trails are beginner-friendly and designed for casual walkers. Trails like Kawamwaki and Limuru Country Walk are especially suitable for first-time hikers, with gentle terrain and short distances."
-    },
-    {
-      "question": "Can I see waterfalls during hiking in Tigoni?",
-      "answer": "Yes. Some hiking routes include waterfalls or dam viewpoints, especially Kawamwaki Trail and Cianda Walk. These scenic water points are often highlights of the hiking experience and popular photography stops."
-    },
-    {
-      "question": "What is the best time to go hiking in Tigoni?",
-      "answer": "The best time for hiking in Tigoni is in the morning (9:00 AM–11:00 AM) or late afternoon (3:00 PM–5:00 PM). These times offer cooler weather, softer lighting for photography, and better visibility across tea plantations and valleys."
-    },
-    {
-      "question": "Do I need a guide for hiking in Tigoni?",
-      "answer": "A guide is not mandatory but highly recommended. Guided hikes improve navigation, provide cultural and agricultural insights, and ensure you don’t miss hidden viewpoints like waterfalls, caves, or scenic ridgelines."
-    },
-    {
-      "question": "What makes hiking in Tigoni unique?",
-      "answer": "Tigoni hiking is unique because it combines <strong>tea plantation landscapes, indigenous forests, rural farm life, and panoramic highland views</strong> all within a short drive from Nairobi. It offers a quiet, less crowded alternative to traditional hiking destinations."
-    }
-  ]
-    },
-    {
-      "name": "Custom Experience",
-      "slug": "custom-experience",
-      "keywords": [
-        "Custom experience Tigoni",
-        "Tigoni custom tours",
-        "Private tours Tigoni",
-        "Corporate team building Tigoni",
-        "Romantic getaways Tigoni",
-        "Custom day trips from Nairobi",
-        "Things to do in Tigoni",
-        "Places to visit in Tigoni"
-      ],
-      "seo": "Custom Experience",
-      "location": "Tigoni, Kenya",
-      "price": 3500,
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Custom%20Experience.jpg",
-      "shortDescription": "For clients seeking a fully personalized day in Tigoni, we offer curated itineraries that combine multiple activities into one seamless experience.",
-      "keyDetails": {
-        "duration": "Flexible",
-        "startTime": ["Flexible"],
-        "location": "Tigoni, Kenya"
-      },
-      "pricing": {
-        "citizen": 3500,
-        "resident": 4500,
-        "nonResident": 5500
-      },
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed '>For clients seeking a <span class='font-black'>fully personalized day in Tigoni</span>, we offer curated itineraries that combine multiple activities into one seamless experience. These itineraries can be fully tailored to your preferences, allowing you to mix and match activities such as hiking, eBike tours, tea farm visits, scenic walks, or wellness experiences. Whether you’re planning a romantic escape, a family adventure, or a corporate retreat, we design the day around your interests, pace, and style.</div>",
-      "contentHtml": "<div class='text-gray-700 leading-relaxed '><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Curated Itinerary Example</h3><p class='mb-4 leading-relaxed'>A custom package could include:</p><ul class='space-y-2'><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Morning:</strong> Guided hike through tea plantations and forest trails</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Midday:</strong> eBike adventure exploring hidden countryside paths</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Lunch:</strong> Farm-to-table dining at The Fig & Olive restaurant</span></li><li class='flex gap-2'><span class='text-teal-600'>✅</span> <span><strong>Afternoon/Evening:</strong> Relaxing spa treatment to unwind and rejuvenate</span></li></ul></div><div><h3 class='text-2xl font-serif text-background font-medium mb-3'>Group & Corporate Customization</h3><p class='leading-relaxed'>Private and group tours are perfect for birthdays, team-building events, or special occasions. You can choose from a combination of hiking, eBike rides, nature walks, and farm visits, with optional meals or wellness stops. Our guides and planners ensure every experience is safe, engaging, and uniquely suited to your group’s desires.</p></div></div>",
-      "gallery": [
-        {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/private.jpg",
-          "alt": "Picnic setup"
-        },
-        {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/private2.jpg",
-          "alt": "Group travel"
-        }
-      ],
-      "highlights": [
-        "Flexible schedule",
-        "Private guide",
-        "Custom itinerary",
-        "Exclusive access"
-      ],
-      "itinerary": [
-        {
-          "title": "Consultation",
-          "description": "We discuss your needs and preferences."
-        },
-        {
-          "title": "Execution",
-          "description": "Seamless delivery of your planned event."
-        }
-      ],
-      "inclusions": [
-        "Planning service",
-        "Dedicated coordinator",
-        "Custom setups"
-      ],
-      "exclusions": ["Venue hire (varies)", "Catering (optional add-on)"],
-     "faqs": [
-    {
-      "question": "What are private experiences in Tigoni?",
-      "answer": "Private experiences in Tigoni are customized outdoor activities designed exclusively for individuals, couples, families, corporate groups, or friends looking for a more personalized experience in Tigoni’s tea highlands .<br><br>These experiences can include private tea farm tours, guided hikes, ebike rides, picnics, photography sessions, wellness retreats, and team-building activities."
-    },
-    {
-      "question": "What custom experiences can I book in Tigoni?",
-      "answer": "Visitors can customize experiences such as:<br>• Private tea farm tours <br>• Guided hiking tours <br>• Ebike adventures <br>• Team building events <br>• Corporate retreats <br>• Romantic setups and proposals <br>• Birthday celebrations <br>• Photography and content creation sessions <br>• Nature picnics <br>• Wellness and mindfulness experiences <br><br>Each itinerary can be tailored depending on the group size, timing, and preferences."
-    },
-    {
-      "question": "Are Tigoni private tours suitable for couples?",
-      "answer": "Yes. Tigoni private tours are popular among couples looking for romantic outdoor experiences near Nairobi .<br><br>Many guests book private tea farm walks, sunset ebike rides, picnic setups, or quiet nature experiences surrounded by tea fields and forest landscapes."
-    },
-    {
-      "question": "Can companies organize corporate activities in Tigoni?",
-      "answer": "Yes. Tigoni is becoming a popular destination for corporate activities, executive retreats, and team-building experiences near Nairobi .<br><br>Custom corporate packages may include:<br>• Team-building games <br>• Guided hikes <br>• Ebike challenges <br>• Group tea experiences <br>• Outdoor dining setups <br>• Leadership retreats <br>• Wellness breaks for remote teams <br><br>The peaceful environment helps teams disconnect from city distractions and improve collaboration."
-    },
-    {
-      "question": "How far is Tigoni from Nairobi for a private day trip?",
-      "answer": "Tigoni is approximately 45 minutes to 1 hour from Nairobi depending on traffic and your starting location .<br><br>Its close proximity makes it one of the best destinations for private outdoor experiences and day trips near Nairobi."
-    },
-    {
-      "question": "Do I need to book private guided tours in Tigoni in advance?",
-      "answer": "Yes. Advance booking is highly recommended for private guided tours in Tigoni, especially on weekends and holidays .<br><br>Private experiences require planning, guide allocation, route preparation, and in some cases custom setups or catering."
-    },
-    {
-      "question": "Are custom experiences in antiqued family-friendly?",
-      "answer": "Yes. Most Tigoni custom experiences are suitable for families with children .<br><br>Activities can be adjusted to accommodate different age groups and fitness levels, including relaxed nature walks, farm visits, tea tastings, and outdoor picnics."
-    },
-    {
-      "question": "What should I wear for a private experience in Tigoni?",
-      "answer": "Comfortable outdoor clothing is recommended. Guests are encouraged to wear:<br>• Comfortable walking shoes or sneakers <br>• Light jackets or sweaters (especially mornings/evenings) <br>• Sunglasses and sunscreen <br>• Hats for sunny days <br>• Sportswear for hikes or ebike rides <br><br>Tigoni weather is generally cooler than Nairobi due to its highland climate."
-    },
-    {
-      "question": "Can I combine multiple activities into one Tigoni private tour?",
-      "answer": "Yes. Many guests combine activities such as:<br>• Tea farm tours + ebike rides <br>• Hiking + picnic experiences <br>• Corporate team building + lunch <br>• Photography + sunset experiences <br><br>Custom combination packages are one of the main attractions of Tigoni private experiences."
-    },
-    {
-      "question": "Are Tigoni outdoor activities good for team building?",
-      "answer": "Absolutely. Tigoni outdoor activities are ideal for team building because of the open spaces, fresh air, quiet environment, and nature-based activities .<br><br>Companies often choose Tigoni for:<br>• Employee bonding <br>• Leadership retreats <br>• Wellness-focused team outings <br>• Creative workshops <br>• Adventure challenges."
-    },
-    {
-      "question": "What makes Tigoni different from other outdoor destinations near Nairobi?",
-      "answer": "Tigoni stands out because of its:<br>• Scenic tea plantations <br>• Cooler weather <br>• Quiet countryside atmosphere <br>• Proximity to Nairobi <br>• Private and uncrowded experiences <br>• Combination of adventure and relaxation <br>• Rich tea farming heritage <br><br>It offers a peaceful alternative to busier tourist destinations around Nairobi."
-    },
-    {
-      "question": "Are private guided hiking tours available in Tigoni?",
-      "answer": "Yes. Guided hiking tours in Tigoni are available for individuals and groups .<br><br>Trails often pass through tea plantations, forest sections, rivers, waterfalls, and panoramic viewpoints overlooking Limuru and the surrounding highlands."
-    },
-    {
-      "question": "Can I organize a birthday or proposal experience in Tigoni?",
-      "answer": "Yes. Many visitors book customized birthday setups, surprise proposals, anniversaries, and intimate celebrations in Tigoni .<br><br>Private picnic setups, sunset experiences, floral decor, photography, and dining arrangements can often be included."
-    },
-    {
-      "question": "Is Tigoni good for photography and content creation?",
-      "answer": "Yes. Tigoni is one of the best photography destinations near Nairobi because of its rolling tea fields, misty mornings, golden sunsets, forest trails, and scenic landscapes .<br><br>It is popular for:<br>• Engagement shoots <br>• Fashion photography <br>• Travel content <br>• Brand shoots <br>• Drone videography <br>• Lifestyle content creation."
-    },
-    {
-      "question": "How much do private experiences in Tigoni cost?",
-      "answer": "Pricing depends on:<br>• Group size <br>• Activities selected <br>• Duration <br>• Special setups <br>• Catering requirements <br>• Transportation arrangements <br><br>Simple guided experiences are generally affordable, while premium private experiences and corporate events cost more due to customization."
-    }
-  ]
+      "keyDetails": {},
+      "location": "Nairobi",
+      "name": "Nairobi city walking tour",
+      "price": 0,
+      "pricing": {},
+      "seo": "Nairobi city walking tour",
+      "shortDescription": "A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.",
+      "slug": "nairobi-city-walking-tour"
     }
   ]
 }

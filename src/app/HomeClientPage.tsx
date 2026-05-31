@@ -80,13 +80,13 @@ export default function HomeClientPage({
           data={otherDestinationsData}
         /> */}
 
-        <FavoriteDestinationsSection page="eat" data={eatData} />
-        <FavoriteDestinationsSection page="stay" data={stayData} />
-        <FavoriteDestinationsSection page="hotel" data={hotelData} />
-        <FavoriteDestinationsSection page="shop" data={shopData} />
-        <FavoriteDestinationsSection page="golf" data={golfData} />
-        <FavoriteDestinationsSection page="padel" data={padelData} />
-        <FavoriteDestinationsSection page="party" data={partyData} />
+        <FavoriteDestinationsSection page="restaurants-in-nairobi" data={eatData} />
+        <FavoriteDestinationsSection page="accommodation-in-nairobi" data={stayData} />
+        <FavoriteDestinationsSection page="hotels-in-nairobi" data={hotelData} />
+        <FavoriteDestinationsSection page="shops-in-nairobi" data={shopData} />
+        <FavoriteDestinationsSection page="golf-clubs-in-nairobi" data={golfData} />
+        <FavoriteDestinationsSection page="padel-courts-in-nairobi" data={padelData} />
+        <FavoriteDestinationsSection page="clubs-in-nairobi" data={partyData} />
 
         <div className="h-8"></div>
 
