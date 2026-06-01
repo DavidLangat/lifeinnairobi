@@ -48,7 +48,7 @@ export default function ActivitiesPage() {
         title: item.name,
         subtitle: item.shortDescription || 'Experience Nairobi',
         image: item.image,
-        href: `/things-to-do/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')}`
+        href: `/local-things-to-do-in-nairobi/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')}`
     }));
 
     return (
