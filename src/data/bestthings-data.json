@@ -1,6 +1,8 @@
 {
   "heading": "Best Things to Do in Nairobi",
   "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
+    "viewMoreLink": "/activities",
+
   "items": [
     {
       "name": "Tea Farm Tours",
@@ -126,11 +128,11 @@
       "featured": false,
       "gallery": [
         {
-          "alt": "coffee farm tour Nairobi",
+          "alt": "Coffee Farm Tour",
           "src": "/image/destination-img-3.jpg"
         },
         {
-          "alt": "coffee farm tour Nairobi",
+          "alt": "Coffee Farm Tour",
           "src": "/image/destination-img-12.jpg"
         }
       ],
@@ -140,12 +142,12 @@
       "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "coffee farm tour Nairobi",
+      "name": "Coffee Farm Tour",
       "price": 0,
       "pricing": {},
-      "seo": "coffee farm tour Nairobi",
+      "seo": "Coffee Farm Tour",
       "shortDescription": "Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi",
-      "slug": "coffee-farm-tour-nairobi"
+      "slug": "coffee-farm-tour"
     },
     {
       "name": "E-bike Tours",
@@ -257,76 +259,51 @@
         }
       ]
     },
-
     {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The walking tour typically begins in Nairobi’s central business district, where participants meet their guide for a short orientation. From there, the route follows key streets, landmarks, and public spaces that reveal Nairobi’s development from a railway town into one of East Africa’s most important cities.</span></p><p><span>The experience is relaxed and guided throughout, with opportunities to ask questions, take photographs, and observe daily city life.</span></p><p id=\"h.8o7u2olna8d9\"><span><b>What to Expect</b></span></p><p><span>Participants may explore:</span></p><p><span>Each stop adds context to Nairobi’s history, culture, and identity.</span></p><p id=\"h.3if7838p5h6v\"><span><b>Duration and Difficulty</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.</span></p><p><span>The tour is ideal for visitors who want to understand Nairobi beyond the usual sightseeing routes. It combines historical context, local interaction, architecture, culture, and street-level storytelling in one accessible city experience.</span></p></div>",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
       "exclusions": [],
-      "faqs": [],
+      "faqs": [
+        {
+          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
+          "question": "What can you do at the Giraffe Centre in Nairobi?"
+        },
+        {
+          "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
+          "question": "How much does it cost to visit the Giraffe Centre?"
+        },
+        {
+          "answer": "Most visits take between 1 to 2 hours.",
+          "question": "How long should I spend at the Giraffe Centre?"
+        },
+        {
+          "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
+          "question": "Is the Giraffe Centre worth visiting?"
+        },
+        {
+          "answer": "Yes. Visitors can safely feed and interact with giraffes under supervision.",
+          "question": "Can you touch giraffes at the Giraffe Centre?"
+        }
+      ],
       "featured": false,
       "gallery": [
         {
-          "alt": "Nairobi city walking tour",
-          "src": "/image/destination-img-6.jpg"
+          "alt": "Giraffe Centre",
+          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-6.jpg",
+      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "inclusions": [],
-      "itinerary": [
-        {
-          "description": "The tour begins at a central meeting point within Nairobi CBD. Guests meet the guide, receive a short briefing, and get an introduction to the city’s history and route.",
-          "title": "1. Meet and Orientation"
-        },
-        {
-          "description": "The walk continues through key city streets such as Kenyatta Avenue and Moi Avenue, where guests learn about Nairobi’s growth from a railway settlement into a modern capital city.",
-          "title": "2. Historic Streets Walk"
-        },
-        {
-          "description": "The route may include stops at important landmarks such as KICC, the Railway Museum, August 7th Memorial Park, or nearby public monuments, depending on the selected route and timing.",
-          "title": "3. Landmark Stops"
-        },
-        {
-          "description": "Guests visit a local market such as City Market or Maasai Market, where they can observe Nairobi’s craft culture, interact with vendors, and explore local art, souvenirs, and street activity.",
-          "title": "4. Market and Culture Experience"
-        },
-        {
-          "description": "The tour may include a stop at Uhuru Park, Jeevanjee Gardens, or another public green space for a short break and a slower view of the city.",
-          "title": "5. Green Space Stop"
-        },
-        {
-          "description": "The experience ends at a convenient central location, where guests can continue exploring, visit a nearby café, or arrange transport to their next destination.",
-          "title": "6. End of Tour"
-        },
-        {
-          "description": "Is a Nairobi city walking tour safe?",
-          "title": "FAQs – Nairobi City Walking Tour"
-        },
-        {
-          "description": "How long does a Nairobi city walking tour take?",
-          "title": "Yes. Nairobi city walking tours are generally safe when done during the day with a knowledgeable local guide and within recommended routes."
-        },
-        {
-          "description": "What places do you visit on a Nairobi walking tour?",
-          "title": "Most Nairobi city walking tours take between 2 and 4 hours, depending on the route, number of stops, and walking pace."
-        },
-        {
-          "description": "What should I wear for a Nairobi walking tour?",
-          "title": "Common stops include Nairobi CBD, Kenyatta Avenue, Moi Avenue, KICC, City Market, Maasai Market, Uhuru Park, and other cultural or historical landmarks."
-        },
-        {
-          "description": "Can solo travelers join a Nairobi walking tour?",
-          "title": "Wear comfortable walking shoes and light clothing. It is also advisable to carry water, sunscreen, and a hat for sunny days."
-        }
-      ],
+      "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "Nairobi city walking tour",
+      "name": "Giraffe Centre",
       "price": 0,
       "pricing": {},
-      "seo": "Nairobi city walking tour",
-      "shortDescription": "A Nairobi city walking tour offers an immersive way to experience the culture, history, and everyday rhythm of Kenya’s capital. Instead of viewing the city from a vehicle, this guided walking experience allows visitors to explore Nairobi’s streets, landmarks, markets, and green spaces at a slower and more meaningful pace.",
-      "slug": "nairobi-city-walking-tour"
+      "seo": "Giraffe Centre",
+      "shortDescription": "A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.",
+      "slug": "giraffe-centre"
     }
   ]
 }

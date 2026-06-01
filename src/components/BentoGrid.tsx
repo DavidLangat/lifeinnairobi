@@ -60,8 +60,8 @@ export default function BentoGrid({ items }: BentoGridProps) {
 
               {/* Text Content */}
               <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
-                <h3 className="text-white font-serif text-2xl mb-1 tracking-wide">{item.title}</h3>
-                <span className="text-white/70 text-sm font-medium">{item.subtitle}</span>
+                <h3 className="text-white font-serif text-2xl mb-1 tracking-wide capitalize">{item.title}</h3>
+                {/* <span className="text-white/70 text-sm font-medium">{item.subtitle}</span> */}
                 {item.price && (
                   <div className="mt-2 text-white/90 text-sm font-semibold">
                     Starting from ${item.price}

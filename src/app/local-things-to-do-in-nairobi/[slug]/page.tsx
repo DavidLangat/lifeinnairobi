@@ -32,12 +32,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
     keywords: [activity.name, 'Nairobi Activities', 'Things to do in Nairobi', 'Kenya Travel', 'Nairobi Day Trip'],
     alternates: {
-      canonical: `https://nairobi.life/things-to-do/${slug}`,
+      canonical: `https://nairobi.life/local-things-to-do-in-nairobi/${slug}`,
     },
     openGraph: {
       title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
       description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
-      url: `https://nairobi.life/things-to-do/${slug}`,
+      url: `https://nairobi.life/local-things-to-do-in-nairobi/${slug}`,
       images: [
         {
           url: activity.image,
@@ -91,7 +91,7 @@ export default async function ActivityPage({ params }: { params: Promise<{ slug:
     .map(item => ({
       title: item.name,
       image: item.image,
-      href: `/things-to-do/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
+      href: `/local-things-to-do-in-nairobi/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
     }));
 
 

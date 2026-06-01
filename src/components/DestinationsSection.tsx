@@ -88,7 +88,7 @@ export default function DestinationsSection() {
                   className="relative shrink-0 w-full md:w-1/2 lg:w-1/4 snap-start px-4"
                 >
                   <Link
-                    href={`/things-to-do/${slug}`}
+                    href={`/local-things-to-do-in-nairobi/${slug}`}
                     className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
                   >
                     {/* Background Image */}
@@ -103,7 +103,7 @@ export default function DestinationsSection() {
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-100 transition-opacity duration-300" />
 
                     {/* Content Container */}
-                    <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 line-clamp-2">
+                    <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 line-clamp-2 capitalize">
                       {item.name}
                     </h3>
                     <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">

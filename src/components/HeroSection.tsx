@@ -57,7 +57,7 @@ export default function HeroSection() {
         }}
       >
         {/* Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/75" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/80" />
       </div>
 
       <div className="container mx-auto px-6 lg:px-6 h-full relative z-10 flex flex-col justify-end pb-26 lg:pb-20 max-w-7xl">
@@ -110,7 +110,7 @@ export default function HeroSection() {
                 <Link
                   key={index}
                   href={social.href}
-                  className="w-10 h-10 flex items-center justify-center rounded-full border border-primary/30 bg-primary/5 hover:bg-background text-primary hover:border-background transition-all duration-300"
+                  className="w-10 h-10 flex items-center justify-center rounded-full border border-primary/30 bg-accent hover:bg-background text-primary hover:border-background transition-all duration-300"
                   aria-label={social.platform}
                 >
                   <Icon className="w-4 h-4 " />
