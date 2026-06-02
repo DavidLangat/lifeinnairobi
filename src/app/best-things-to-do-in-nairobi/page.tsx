@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import React from 'react';
-import destinationsData from '@/data/destinations-data.json';
+import destinationsData from '@/data/bestthings-data.json';
 import ActivitiesClientPage from './ActivitiesClientPage';
 
 export const metadata: Metadata = {
@@ -8,12 +8,12 @@ export const metadata: Metadata = {
     description: 'Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences. Plan your perfect Nairobi escape.',
     keywords: ['Activities in Nairobi', 'Nairobi Experiences', 'Hiking in Nairobi', 'Tea Farm Tours', 'E-bike Tours Kenya', 'Day Trips from Nairobi'],
     alternates: {
-        canonical: 'https://nairobi.life/activities',
+        canonical: 'https://nairobi.life/best-things-to-do-in-nairobi',
     },
     openGraph: {
         title: 'Activities in Nairobi | Things to do in Nairobi',
         description: 'Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences.',
-        url: 'https://nairobi.life/activities',
+        url: 'https://nairobi.life/best-things-to-do-in-nairobi',
         type: 'website',
         images: [
             {
@@ -48,7 +48,7 @@ export default function ActivitiesPage() {
         title: item.name,
         subtitle: item.shortDescription || 'Experience Nairobi',
         image: item.image,
-        href: `/local-things-to-do-in-nairobi/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')}`
+        href: `/best-things-to-do-in-nairobi/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')}`
     }));
 
     return (
