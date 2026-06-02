@@ -49,26 +49,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
   };
 
   // Helper to map simple list objects containing slugs (like pages in about-data.json)
-  const getAboutSlugs = (data: any) => {
+  const getAboutSlugs = (data: any): string[] => {
     return (data.pages || []).filter((page: any) => page && page.slug).map((page: any) => page.slug);
   };
 
   // Dynamic routes
-  const independentBlogRoutes = getBlogSlugs(independentBlogData).map((slug) => ({
+  const independentBlogRoutes = getBlogSlugs(independentBlogData).map((slug: string) => ({
     url: `${BASE_URL}/${slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
 
-  const aboutRoutes = getAboutSlugs(aboutData).map((slug) => ({
+  const aboutRoutes = getAboutSlugs(aboutData).map((slug: string) => ({
     url: `${BASE_URL}/about/${slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }));
 
-  const aboutNairobiRoutes = getAboutSlugs(aboutData).map((slug) => ({
+  const aboutNairobiRoutes = getAboutSlugs(aboutData).map((slug: string) => ({
     url: `${BASE_URL}/about-nairobi/${slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
