@@ -2,7 +2,6 @@
   "heading": "Best Things to Do in Nairobi",
   "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
   "viewMoreLink": "/best-things-to-do-in-nairobi",
-
   "items": [
     {
       "name": "Tea Farm Tours",
@@ -21,7 +20,7 @@
         "Places to visit in Nairobi"
       ],
       "seo": "Tea farm tours in Nairobi",
-      "location": "Nairobi, Kenya",
+      "location": "Nairobi",
       "price": 4500,
       "pricing": {
         "citizen": 4500,
@@ -30,7 +29,11 @@
       },
       "keyDetails": {
         "duration": "120 minutes",
-        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
+        "startTime": [
+          "9:00 AM",
+          "12:00 PM",
+          "3:00 PM"
+        ],
         "location": "Ravenswood Escapes, Tigoni",
         "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
       },
@@ -70,8 +73,15 @@
           "description": "Sample different grades of tea with light snacks."
         }
       ],
-      "inclusions": ["Professional Guide", "Tea tasting", "Farm entry fees"],
-      "exclusions": ["Transport", "Lunch (unless arranged)"],
+      "inclusions": [
+        "Professional Guide",
+        "Tea tasting",
+        "Farm entry fees"
+      ],
+      "exclusions": [
+        "Transport",
+        "Lunch (unless arranged)"
+      ],
       "faqs": [
         {
           "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
@@ -97,10 +107,10 @@
           "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
           "question": "Is this suitable for groups?"
         }
-      ]
-    }
-    ,
-     {
+      ],
+      "currency": "KES"
+    },
+    {
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
       "exclusions": [],
@@ -140,13 +150,13 @@
       "keyDetails": {},
       "location": "Nairobi",
       "name": "Nairobi National Park",
-      "price": 0,
+      "price": 100,
       "pricing": {},
       "seo": "Nairobi National Park",
       "shortDescription": "Visit Nairobi National Park for an unforgettable safari near the city. Spot lions, rhinos, giraffes, and wildlife with Nairobi skyline views.",
-      "slug": "nairobi-national-park"
-    }
-   ,
+      "slug": "nairobi-national-park",
+      "currency": "USD"
+    },
     {
       "name": "Tigoni E-bike Tours",
       "name2": "Tigoni E-bike Tours",
@@ -162,13 +172,17 @@
         "Things to do in Nairobi",
         "Places to visit in Nairobi"
       ],
-      "location": "Nairobi, Kenya",
+      "location": "Nairobi",
       "price": 3500,
       "featured": true,
       "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20E-bike%20Tours.jpeg",
       "keyDetails": {
         "duration": "120 minutes",
-        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
+        "startTime": [
+          "9:00 AM",
+          "12:00 PM",
+          "3:00 PM"
+        ],
         "location": "Ravenswood Escapes, Tigoni",
         "mapUrl": "https://maps.app.goo.gl/NmntafaDgkzh1ng86"
       },
@@ -241,7 +255,10 @@
         "Quality Electric Bikes",
         "Helmet"
       ],
-      "exclusions": ["Transport to venue", "Meals"],
+      "exclusions": [
+        "Transport to venue",
+        "Meals"
+      ],
       "practicalInfo": [
         {
           "title": "Where to meet?",
@@ -255,13 +272,10 @@
           "title": "Cancellation Policy",
           "content": "• Refunds only for unavoidable circumstances (Acts of God).\n• Late arrivals are not eligible for refund.\n• Cancellations > 78 hours: 50% refund.\n• Cancellations < 78 hours: Non-refundable but reschedule available.\n• No-Shows: Forfeit full amount."
         }
-      ]
-    }
-    ,
-
- 
-   
-     {
+      ],
+      "currency": "KES"
+    },
+    {
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
       "exclusions": [],
@@ -301,11 +315,12 @@
       "keyDetails": {},
       "location": "Nairobi",
       "name": "Giraffe Centre",
-      "price": 0,
+      "price": 20,
       "pricing": {},
       "seo": "Giraffe Centre",
       "shortDescription": "Visit the Giraffe Centre in Nairobi to feed and interact with endangered Rothschild giraffes. A unique wildlife experience for all ages in Kenya.",
-      "slug": "giraffe-centre"
+      "slug": "giraffe-centre",
+      "currency": "USD"
     }
   ]
 }

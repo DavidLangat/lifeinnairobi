@@ -14,7 +14,7 @@ const ActivityBookingCard: React.FC<ActivityBookingCardProps & { children?: Reac
             <div className="mb-6 pb-6 border-b border-gray-100">
                 <span className="text-sm font-bold text-gray-400 uppercase tracking-widest block mb-1">Starting from</span>
                 <div className="flex items-baseline gap-1">
-                    <span className="text-3xl font-bold text-background">Ksh {activity.price?.toLocaleString()}</span>
+                <span className="text-3xl font-bold text-background">{activity.currency === 'USD' ? '$' : 'KSh'} {activity.price?.toLocaleString()}</span>
                     <span className="text-gray-500 font-medium">/ person</span>
                 </div>
                     {activity.name != "Hiking Tours" && activity.name != "Custom Experience" && (

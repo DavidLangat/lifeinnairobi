@@ -142,7 +142,7 @@ export default function DestinationsSection() {
                             Start from
                           </span>
                           <span className="font-serif text-3xl font-normal">
-                            Ksh.{(item as any).price}
+                            {(item as any).currency === 'USD' ? '$' : 'Ksh.'}{(item as any).price}
                           </span>
                         </div>
                       </div>

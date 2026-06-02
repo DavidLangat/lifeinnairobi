@@ -71,7 +71,7 @@ export default function DestinationsSection() {
                   {/* Right: Price */}
                   <div className="text-right text-primary transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 delay-75">
                     <span className="text-[10px] uppercase tracking-wider block opacity-70 mb-1">Start from</span>
-                    <span className="font-serif text-3xl font-normal">Ksh.{item.price}</span>
+                     <span className="font-serif text-3xl font-normal">{(item as any).currency === 'USD' ? '$' : 'Ksh.'}{item.price}</span>
                   </div>
 
                 </div>
