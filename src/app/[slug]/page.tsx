@@ -21,7 +21,7 @@ export async function generateStaticParams() {
     blogData.featuredPost,
     ...blogData.recentPosts,
     ...blogData.gridPosts
-  ];
+  ].filter(post => post && typeof post === 'object' && 'slug' in post && typeof post.slug === 'string');
 
   return allPosts.map((post) => ({
     slug: post.slug,
@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     blogData.featuredPost,
     ...blogData.recentPosts,
     ...blogData.gridPosts
-  ];
+  ].filter(post => post && typeof post === 'object' && 'slug' in post && typeof post.slug === 'string');
   const post = allPosts.find(p => p.slug === slug) as {
     title: string;
     slug: string;
@@ -94,12 +94,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const { slug } = await params;
 
 
-  // Flatten all posts to search for the requested slug
   const allPosts = [
     blogData.featuredPost,
     ...blogData.recentPosts,
     ...blogData.gridPosts
-  ];
+  ].filter(post => post && typeof post === 'object' && 'slug' in post && typeof post.slug === 'string');
 
   // Logic to handle potential duplicates in data if any (though in real app they'd be unique ID based)
   const post = allPosts.find(p => p.slug === slug) as {
