@@ -8,11 +8,13 @@ interface ActivityHeroProps {
   title: string;
   image: string;
   price: number;
+  currency?: string;
   location: string;
   shortDescription?: string;
 }
 
-export default function ActivityHero({ title, image, price, location, shortDescription }: ActivityHeroProps) {
+export default function ActivityHero({ title, image, price, currency = 'KES', location, shortDescription }: ActivityHeroProps) {
+  const currencySymbol = currency === 'USD' ? '$' : 'KSh';
   return (
     <div className="relative w-full h-[60vh] min-h-[500px] flex items-end">
       {/* Background Image */}
@@ -54,7 +56,7 @@ export default function ActivityHero({ title, image, price, location, shortDescr
               </div>
               <div>
                 <p className="text-xs text-white/60 uppercase tracking-widest">Starting From</p>
-                <p className="text-xl font-bold">KSh {price.toLocaleString()}</p>
+                <p className="text-xl font-bold">{currencySymbol} {price.toLocaleString()}</p>
               </div>
             </div>
           </div>

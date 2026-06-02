@@ -5,9 +5,11 @@ import { Calendar, User, Mail, Phone, ChevronRight } from 'lucide-react';
 
 interface BookingFormProps {
   price: number;
+  currency?: string;
 }
 
-export default function BookingForm({ price }: BookingFormProps) {
+export default function BookingForm({ price, currency = 'KES' }: BookingFormProps) {
+  const currencySymbol = currency === 'USD' ? '$' : 'KSh';
   const [people, setPeople] = useState(1);
   const [date, setDate] = useState('');
 
@@ -31,7 +33,7 @@ export default function BookingForm({ price }: BookingFormProps) {
           
           {/* Price Summary */}
           <div className="flex items-end gap-2 pb-6 border-b border-gray-100">
-              <span className="text-3xl font-bold text-gray-900">KSh {price.toLocaleString()}</span>
+              <span className="text-3xl font-bold text-gray-900">{currencySymbol} {price.toLocaleString()}</span>
               <span className="text-gray-500 mb-1">/ person</span>
           </div>
 
@@ -85,7 +87,7 @@ export default function BookingForm({ price }: BookingFormProps) {
           <div className="pt-4 border-t border-gray-100">
               <div className="flex justify-between items-center mb-6">
                   <span className="font-medium text-gray-600">Total Amount</span>
-                  <span className="text-2xl font-bold text-gray-900">KSh {total.toLocaleString()}</span>
+                  <span className="text-2xl font-bold text-gray-900">{currencySymbol} {total.toLocaleString()}</span>
               </div>
               
               <button 
