@@ -91,7 +91,7 @@ export default function Navbar() {
                                 
                                 <Link
                                   href={subItem.href}
-                                  className="block px-4 py-3 hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors"
+                                  className={`block px-4 py-3 ${subItem.name === 'View All' ? 'bg-accent text-primary' : ''} hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors`}
                                 >
                                   {subItem.name}
                                 </Link>

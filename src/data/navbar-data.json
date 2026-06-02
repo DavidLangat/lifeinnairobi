@@ -11,100 +11,30 @@
       
       {
         "name": "Tea Farm Tour",
-        "href": "/things-to-do-in-nairobi/tea-farm-tour"
+        "href": "/best-things-to-do-in-nairobi/tea-farm-tours-in-nairobi"
       },
+      {
+   "name": "Giraffe Centre",
+   "href": "/best-things-to-do-in-nairobi/giraffe-centre"
+ },
       {
         "name": "E-bike tours",
-        "href": "/things-to-do-in-nairobi/e-bike-tours"
+        "href": "/best-things-to-do-in-nairobi/tigoni-ebike-tours"
       },
       {
-        "name": "Hikes",
-        "href": "/things-to-do-in-nairobi/hikes"
+        "name": "Nairobi National Park",
+        "href": "/best-things-to-do-in-nairobi/nairobi-national-park"
       },
-      {
-        "name": "Ngong hills",
-        "href": "/things-to-do-in-nairobi/ngong-hills"
-      },
+
       {
         "name": "Kibera slum tour",
         "href": "/things-to-do-in-nairobi/kibera-slum-tour"
       },
       {
-        "name": "Brown's cheese factory",
-        "href": "/things-to-do-in-nairobi/browns-cheese-factory"
-      },
-      {
-        "name": "City walking tour",
-        "href": "/things-to-do-in-nairobi/city-walking-tour"
-      },
-      {
-        "name": "Local Food Tour",
-        "href": "/things-to-do-in-nairobi/local-food-tour"
-      },
-      {
-        "name": "Coffee farm tour",
-        "href": "/things-to-do-in-nairobi/coffee-farm-tour"
-      },
-      {
-        "name": "Nairobi National Park",
-        "href": "/things-to-do-in-nairobi/nairobi-national-park"
-      },
-      {
-        "name": "Cook a Kenyan meal",
-        "href": "/things-to-do-in-nairobi/cook-a-kenyan-meal"
-      },
-      {
-        "name": "Rent a Friend",
-        "href": "/things-to-do-in-nairobi/rent-a-friend"
-      },
-      {
-        "name": "Naivasha",
-        "href": "/things-to-do-in-nairobi/naivasha"
-      },
-      {
-        "name": "Giraffe Centre",
-        "href": "/things-to-do-in-nairobi/giraffe-centre"
-      },
-      {
-        "name": "Bomas of Kenya",
-        "href": "/things-to-do-in-nairobi/bomas-of-kenya"
-      },
-      {
-        "name": "David Sheldrick Wildlife Trust",
-        "href": "/things-to-do-in-nairobi/david-sheldrick-wildlife-trust"
-      },
-      {
-        "name": "Karen Blixen Museum",
-        "href": "/things-to-do-in-nairobi/karen-blixen-museum"
-      },
-      {
-        "name": "Nairobi Museums",
-        "href": "/things-to-do-in-nairobi/nairobi-museums"
-      },
-      {
-        "name": "Pottery class",
-        "href": "/things-to-do-in-nairobi/pottery-class"
-      },
-      {
-        "name": "Art gallery Tours",
-        "href": "/things-to-do-in-nairobi/art-gallery-tours"
-      },
-      {
-        "name": "Karura Forest",
-        "href": "/things-to-do-in-nairobi/karura-forest"
-      },
-      {
-        "name": "Twin rivers tigoni",
-        "href": "/things-to-do-in-nairobi/twin-rivers-tigoni"
-      },
-      {
-        "name": "Wine Tasting",
-        "href": "/things-to-do-in-nairobi/wine-tasting"
-      },
-      {
-        "name": "Museum of Illusions",
-        "href": "/things-to-do-in-nairobi/museum-of-illusions"
+        "name": "View All",
+        "href": "/things-to-do-in-nairobi"
       }
+      
     ]
   },
   {
@@ -147,10 +77,7 @@
         "name": "Nairobi",
         "href": "/about-nairobi"
       },
-      {
-        "name": "things-to-do-in-nairobi",
-        "href": "/things-to-do-in-nairobi"
-      },
+
       {
         "name": "Getting to Nairobi",
         "href": "/about/how-to-get-to-nairobi"

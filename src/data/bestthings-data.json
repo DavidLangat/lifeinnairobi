@@ -100,57 +100,58 @@
       ]
     }
     ,
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
+     {
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
       "exclusions": [],
       "faqs": [
         {
-          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
-          "question": "What can you do at the Giraffe Centre in Nairobi?"
+          "answer": "Yes. Nairobi National Park is a fully open ecosystem where animals such as lions, rhinos, giraffes, and zebras roam freely.",
+          "question": "Can you see wild animals in Nairobi National Park?"
         },
         {
-          "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
-          "question": "How much does it cost to visit the Giraffe Centre?"
+          "answer": "Entry fees range from approximately KES 430 for citizens to $43 for non-residents, depending on residency status.",
+          "question": "How much does it cost to visit Nairobi National Park?"
         },
         {
-          "answer": "Most visits take between 1 to 2 hours.",
-          "question": "How long should I spend at the Giraffe Centre?"
+          "answer": "Yes. It offers a complete safari experience within close proximity to the city, making it one of the most accessible wildlife destinations in Kenya.",
+          "question": "Is Nairobi National Park worth visiting?"
         },
         {
-          "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
-          "question": "Is the Giraffe Centre worth visiting?"
+          "answer": "The best time to visit is early morning or late afternoon when wildlife is most active and temperatures are cooler.",
+          "question": "What is the best time to visit Nairobi National Park?"
         },
         {
-          "answer": "Yes. Visitors can safely feed and interact with giraffes under supervision.",
-          "question": "Can you touch giraffes at the Giraffe Centre?"
+          "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi.",
+          "question": "Can I visit Nairobi National Park in one day?"
         }
       ],
       "featured": false,
       "gallery": [
         {
-          "alt": "Giraffe Centre",
-          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
+          "alt": "Nairobi National Park",
+          "src": "/image/Nairobi-National-Park-entry-fee.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "Giraffe Centre",
+      "name": "Nairobi National Park",
       "price": 0,
       "pricing": {},
-      "seo": "Giraffe Centre",
-      "shortDescription": "A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.",
-      "slug": "giraffe-centre"
-    },
+      "seo": "Nairobi National Park",
+      "shortDescription": "Visit Nairobi National Park for an unforgettable safari near the city. Spot lions, rhinos, giraffes, and wildlife with Nairobi skyline views.",
+      "slug": "nairobi-national-park"
+    }
+   ,
     {
       "name": "Tigoni E-bike Tours",
       "name2": "Tigoni E-bike Tours",
       "seo": "Tigoni E-bike Tours",
-      "slug": "tigoni-ebike-tours",
+      "slug": "Tigoni-ebike-tours",
       "keywords": [
         "Ebike tours",
         "Nairobi ebike tours",
@@ -258,52 +259,53 @@
     }
     ,
 
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
+ 
+   
+     {
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
       "exclusions": [],
       "faqs": [
         {
-          "answer": "Yes. Nairobi National Park is a fully open ecosystem where animals such as lions, rhinos, giraffes, and zebras roam freely.",
-          "question": "Can you see wild animals in Nairobi National Park?"
+          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
+          "question": "What can you do at the Giraffe Centre in Nairobi?"
         },
         {
-          "answer": "Entry fees range from approximately KES 430 for citizens to $43 for non-residents, depending on residency status.",
-          "question": "How much does it cost to visit Nairobi National Park?"
+          "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
+          "question": "How much does it cost to visit the Giraffe Centre?"
         },
         {
-          "answer": "Yes. It offers a complete safari experience within close proximity to the city, making it one of the most accessible wildlife destinations in Kenya.",
-          "question": "Is Nairobi National Park worth visiting?"
+          "answer": "Most visits take between 1 to 2 hours.",
+          "question": "How long should I spend at the Giraffe Centre?"
         },
         {
-          "answer": "The best time to visit is early morning or late afternoon when wildlife is most active and temperatures are cooler.",
-          "question": "What is the best time to visit Nairobi National Park?"
+          "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
+          "question": "Is the Giraffe Centre worth visiting?"
         },
         {
-          "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi.",
-          "question": "Can I visit Nairobi National Park in one day?"
+          "answer": "Yes. Visitors can safely feed and interact with giraffes under supervision.",
+          "question": "Can you touch giraffes at the Giraffe Centre?"
         }
       ],
       "featured": false,
       "gallery": [
         {
-          "alt": "Nairobi National Park",
-          "src": "/image/Nairobi-National-Park-entry-fee.jpg"
+          "alt": "Giraffe Centre",
+          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
+      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "Nairobi National Park",
+      "name": "Giraffe Centre",
       "price": 0,
       "pricing": {},
-      "seo": "Nairobi National Park",
-      "shortDescription": "A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.",
-      "slug": "nairobi-national-park"
+      "seo": "Giraffe Centre",
+      "shortDescription": "Visit the Giraffe Centre in Nairobi to feed and interact with endangered Rothschild giraffes. A unique wildlife experience for all ages in Kenya.",
+      "slug": "giraffe-centre"
     }
-   
   ]
 }

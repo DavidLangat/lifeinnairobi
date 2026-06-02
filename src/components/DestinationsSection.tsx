@@ -59,7 +59,7 @@ export default function DestinationsSection() {
   }, []);
 
   return (
-    <section className="py-10 lg:py-12 text-gray-900 overflow-hidden">
+    <section className="pt-5  text-gray-900 overflow-hidden">
       <div className="container mx-auto px-6 lg:px-12 max-w-7xl">
         {/* Header - Left Aligned */}
         <div className="mb-6 space-y-2">
@@ -113,8 +113,19 @@ export default function DestinationsSection() {
                       <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-100 transition-opacity duration-300" />
 
                       {/* Content Container */}
-                      <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 line-clamp-2 capitalize">
-                        {item.name}
+                      <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 capitalize leading-tight">
+                        {(() => {
+                          const words = (item.name2 as string)?.split(" ") ?? [];
+                          if (words.length >= 3) {
+                            return (
+                              <>
+                                <span className="block">{words[0]}</span>
+                                <span className="block">{words.slice(1).join(" ")}</span>
+                              </>
+                            );
+                          }
+                          return item.name2;
+                        })()}
                       </h3>
                       <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">
                         {/* Left: Title & Location */}
