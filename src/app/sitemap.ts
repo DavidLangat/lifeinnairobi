@@ -21,7 +21,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/accommodation',
     '/activities',
     '/restaurants',
-    '/blog',
     '/calendar',
     '/other-destinations',
     '/cancel-policy',
@@ -38,16 +37,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       data.featuredPost,
       ...(data.recentPosts || []),
       ...(data.gridPosts || []),
-    ].filter(Boolean).map(post => post.slug);
+    ].filter(post => post && typeof post === 'object' && 'slug' in post && typeof post.slug === 'string').map(post => post.slug);
   };
 
   // Dynamic routes
-  const blogRoutes = getBlogSlugs(blogData).map((slug) => ({
-    url: `${BASE_URL}/blog/${slug}/`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }));
+  // const blogRoutes = getBlogSlugs(blogData).map((slug) => ({
+  //   url: `${BASE_URL}/blog/${slug}/`,
+  //   lastModified: new Date(),
+  //   changeFrequency: 'monthly' as const,
+  //   priority: 0.7,
+  // }));
 
   const independentBlogRoutes = getBlogSlugs(independentBlogData).map((slug) => ({
     url: `${BASE_URL}/${slug}/`,
@@ -100,7 +99,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     ...staticRoutes,
-    ...blogRoutes,
+    // ...blogRoutes,
     ...independentBlogRoutes,
     ...aboutRoutes,
     ...activityRoutes,
