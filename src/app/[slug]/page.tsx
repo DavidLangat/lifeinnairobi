@@ -254,7 +254,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               {Array.isArray(content.paragraphs) && (
                 <div className="mb-8 space-y-4">
                   {content.paragraphs.map((paragraph: any, index: number) => (
-                    <p
+                    <div
                       key={index}
                       className="leading-relaxed text-gray-700"
                       dangerouslySetInnerHTML={{ __html: paragraph }}
@@ -313,7 +313,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               {Array.isArray(content.closing) && (
                 <div className="mb-8 space-y-4">
                   {content.closing.map((close: any, index: number) => (
-                    <p
+                    <div
                       key={index}
                       className="leading-relaxed text-gray-700"
                       dangerouslySetInnerHTML={{ __html: close }}
