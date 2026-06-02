@@ -1,43 +1,56 @@
-import React from 'react';
-import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
-import destinationsData from '@/data/bestthings-data.json';
-import ActivityClientPage from './ActivityClientPage';
+import React from "react";
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
+import destinationsData from "@/data/destinations-data.json";
+import ActivityClientPage from "./ActivityClientPage";
 
 // Force static generation for all known slugs
 export async function generateStaticParams() {
   return destinationsData.items.map((item) => ({
-    slug: (item as any).slug || item.name.toLowerCase().replace(/ /g, '-'),
+    slug: (item as any).slug || item.name.toLowerCase().replace(/ /g, "-"),
   }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
   const { slug } = await params;
 
   // Find the activity item
   const activity = destinationsData.items.find((item) => {
-    const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+    const itemSlug =
+      (item as any).slug || item.name.toLowerCase().replace(/ /g, "-");
     return itemSlug === slug;
   });
 
   if (!activity) {
     return {
-      title: 'Activity Not Found | Nairobi',
-      description: 'The requested activity could not be found.',
+      title: "Activity Not Found | Nairobi",
+      description: "The requested activity could not be found.",
     };
   }
 
   return {
     title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
-    description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
-    keywords: [activity.name, 'Nairobi Activities', 'Things to do in Nairobi', 'Kenya Travel', 'Nairobi Day Trip'],
+    description:
+      activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
+    keywords: [
+      activity.name,
+      "Nairobi Activities",
+      "Things to do in Nairobi",
+      "Kenya Travel",
+      "Nairobi Day Trip",
+    ],
     alternates: {
-      canonical: `https://nairobi.life/activities/${slug}`,
+      canonical: `https://nairobi.life/things-to-do-in-nairobi/${slug}`,
     },
     openGraph: {
       title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
-      description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
-      url: `https://nairobi.life/activities/${slug}`,
+      description:
+        activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
+      url: `https://nairobi.life/things-to-do-in-nairobi/${slug}`,
       images: [
         {
           url: activity.image,
@@ -46,21 +59,21 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           alt: activity.name,
         },
       ],
-      type: 'website',
+      type: "website",
     },
     robots: {
+      index: true,
+      follow: true,
+      googleBot: {
         index: true,
         follow: true,
-        googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-        },
+        "max-video-preview": -1,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
     },
     twitter: {
-      card: 'summary_large_image',
+      card: "summary_large_image",
       title: activity.name,
       description: activity.shortDescription,
       images: [activity.image],
@@ -68,12 +81,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-export default async function ActivityPage({ params }: { params: Promise<{ slug: string }> }) {
+export default async function ActivityPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
   const { slug } = await params;
 
   // Find the activity item
   const activity = destinationsData.items.find((item) => {
-    const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+    const itemSlug =
+      (item as any).slug || item.name.toLowerCase().replace(/ /g, "-");
     return itemSlug === slug;
   });
 
@@ -86,18 +104,26 @@ export default async function ActivityPage({ params }: { params: Promise<{ slug:
 
   // Prepare related activities
   const relatedActivities = destinationsData.items
-    .filter(item => (item as any).slug !== slug && (item as any).slug !== activity.name.toLowerCase().replace(/ /g, '-'))
+    .filter(
+      (item) =>
+        (item as any).slug !== slug &&
+        (item as any).slug !== activity.name.toLowerCase().replace(/ /g, "-"),
+    )
     .slice(0, 4)
-    .map(item => ({
+    .map((item) => ({
       title: item.name,
       image: item.image,
-      href: `/activities/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
+      href: `/things-to-do-in-nairobi/${(item as any).slug || item.name.toLowerCase().replace(/ /g, "-")}`,
     }));
 
-
-  return <ActivityClientPage activity={activity as any} details={details} relatedActivities={relatedActivities} />;
+  return (
+    <ActivityClientPage
+      activity={activity as any}
+      details={details}
+      relatedActivities={relatedActivities}
+    />
+  );
 }
-
 
 //  {/* Practical Info Accordions (Keep these as they are useful at bottom) */}
 //             //  {details.practicalInfo && (

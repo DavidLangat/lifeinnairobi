@@ -1,7 +1,7 @@
 {
   "heading": "Best Things to Do in Nairobi",
   "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
-    "viewMoreLink": "/activities",
+  "viewMoreLink": "/best-things-to-do-in-nairobi",
 
   "items": [
     {
@@ -35,7 +35,7 @@
         "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
       },
       "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg",
-      "shortDescription": "Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.",
+      "shortDescription": "Explore scenic tea farm tours near Nairobi. Walk through lush plantations, learn tea processing, and enjoy authentic local farm experiences in Kenya.",
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span>The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span>The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p></div><div><h3 class='text-2xl font-semibold mb-3'>The Walking Experience</h3><p><span>The route follows a scenic trail through:</span></p><p><span>Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p id=\"h.ktryy2rafga6\"><span><b>Natural Features and Landscape</b></span></p><p><span>The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><p><span>These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p id=\"h.yfz0864vpa44\"><span><b>Heritage and Tea Culture</b></span></p><p><span>A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span>During the tour, participants learn about:</span></p><p><span>This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p id=\"h.cmb926idhz78\"><span><b>Tea Tasting Experience</b></span></p><p><span>The tour concludes with a guided tea tasting session.</span></p><p><span>Participants are invited to:</span></p><p><span>This final stage provides a quiet and reflective end to the experience.</span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.</span></p><p><span>Set within a working tea estate, the tour is designed for visitors who enjoy walking, learning, and unhurried exploration of nature.</span></p><p><span></span></p></div>",
       "gallery": [
@@ -98,62 +98,59 @@
           "question": "Is this suitable for groups?"
         }
       ]
-    },
+    }
+    ,
     {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical coffee farm tour includes a guided walk through the plantation, followed by a structured introduction to coffee processing and a tasting session.</span></p><p><span>Participants are guided through each stage of production, gaining an understanding of both traditional and modern methods used in Kenyan coffee farming.</span></p><p><span>The experience is paced to allow for learning, interaction, and appreciation of the environment.</span></p><p id=\"h.tlvicroepxmx\"><span><b>What to Expect</b></span></p><p id=\"h.ewragnje4fbx\"><span><b>Walk Through Coffee Plantations</b></span></p><p><span>The experience begins with a walk through the coffee farm, where participants learn about:</span></p><p><span>The environment is typically calm and scenic, offering a relaxed introduction to the experience.</span></p><p id=\"h.ht3sgw4t4sys\"><span><b>Coffee Processing Experience</b></span></p><p><span>Participants are introduced to the steps involved in transforming coffee cherries into beans, including:</span></p><p><span>This stage provides insight into the craftsmanship and precision required to produce high-quality coffee.</span></p><p id=\"h.lss05qhxrs51\"><span><b>Roasting and Brewing Demonstration</b></span></p><p><span>Some experiences include demonstrations covering:</span></p><p><span>This connects the farm process to everyday coffee consumption.</span></p><p id=\"h.k6e8x7km9pqs\"><span><b>Coffee Tasting (Cupping Session)</b></span></p><p><span>The experience concludes with a guided tasting session where participants:</span></p><p><span>This stage provides a complete “farm-to-cup” understanding.</span></p><p id=\"h.4ate2d9qvyl5\"><span><b>Popular Coffee Farm Experiences Near Nairobi</b></span></p><p><span>Well-known coffee farm experiences are located within 20 to 60 minutes from Nairobi and typically include:</span></p><p><span>As highlighted in your source material, these tours are structured to provide a full journey through coffee production while maintaining a relaxed and educational pace .</span></p><p id=\"h.ipxzl66xj3qu\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p id=\"h.bkgmvzsvgs1o\"><span><b>Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi</b></span></p><p><span>Coffee farm tours near Nairobi offer an immersive way to explore one of Kenya’s most important agricultural exports. Located in regions such as Kiambu County and Limuru, these experiences combine scenic farm walks, educational insights, and coffee tasting to create a well-rounded day activity.</span></p><p><span>The tours are designed to take visitors through the full journey of coffee production, from cultivation to the final cup.</span></p><p><span></span></p></div>",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
       "exclusions": [],
       "faqs": [
         {
-          "answer": "Yes. Several coffee farms are located within 20 to 60 minutes from Nairobi, making them easily accessible for day trips.",
-          "question": "Can I visit a coffee farm near Nairobi?"
+          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
+          "question": "What can you do at the Giraffe Centre in Nairobi?"
         },
         {
-          "answer": "The experience includes a guided walk through the plantation, learning about coffee processing, and a coffee tasting session.",
-          "question": "What happens during a coffee farm tour?"
+          "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
+          "question": "How much does it cost to visit the Giraffe Centre?"
         },
         {
-          "answer": "Most tours last between 2 to 4 hours, depending on the itinerary and included activities.",
-          "question": "How long does a coffee farm tour take?"
+          "answer": "Most visits take between 1 to 2 hours.",
+          "question": "How long should I spend at the Giraffe Centre?"
         },
         {
-          "answer": "Coffee farm tours typically cost between KES 2,000 and KES 5,000 per person, depending on the experience.",
-          "question": "How much does a coffee farm tour cost in Nairobi?"
+          "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
+          "question": "Is the Giraffe Centre worth visiting?"
         },
         {
-          "answer": "Yes. The tours are designed to be educational and accessible, requiring no prior knowledge.",
-          "question": "Are coffee farm tours suitable for beginners?"
+          "answer": "Yes. Visitors can safely feed and interact with giraffes under supervision.",
+          "question": "Can you touch giraffes at the Giraffe Centre?"
         }
       ],
       "featured": false,
       "gallery": [
         {
-          "alt": "Coffee Farm Tour",
-          "src": "/image/destination-img-3.jpg"
-        },
-        {
-          "alt": "Coffee Farm Tour",
-          "src": "/image/destination-img-12.jpg"
+          "alt": "Giraffe Centre",
+          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/destination-img-3.jpg",
+      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "Coffee Farm Tour",
+      "name": "Giraffe Centre",
       "price": 0,
       "pricing": {},
-      "seo": "Coffee Farm Tour",
-      "shortDescription": "Coffee Farm Tours in Nairobi - Guided Coffee Farm Experience Near Nairobi",
-      "slug": "coffee-farm-tour"
+      "seo": "Giraffe Centre",
+      "shortDescription": "A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.",
+      "slug": "giraffe-centre"
     },
     {
-      "name": "E-bike Tours",
-      "name2": "E-bike Tours in Nairobi",
-      "seo": "Nairobi E-bike Tours",
-      "slug": "ebike-tours-nairobi",
+      "name": "Tigoni E-bike Tours",
+      "name2": "Tigoni E-bike Tours",
+      "seo": "Tigoni E-bike Tours",
+      "slug": "tigoni-ebike-tours",
       "keywords": [
         "Ebike tours",
         "Nairobi ebike tours",
@@ -179,7 +176,7 @@
         "resident": 4500,
         "nonResident": 5500
       },
-      "shortDescription": "Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.",
+      "shortDescription": "Explore Tigoni on guided e-bike tours through tea farms, scenic hills, and local villages. Experience nature, culture, and adventure near Nairobi.",
       "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span>The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span>The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p id=\"h.wlhpym90jtzf\"><span><b>The Ride Through Tigoni</b></span></p><p><span>The route takes you through:</span></p><p><span>As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p id=\"h.aa4dumb3w4sp\"><span><b>Midway Stop at The Fig & Olive</b></span></p><p><span>At the halfway point, the tour includes a stop at The Fig & Olive, a farm-style restaurant set within the tea fields.</span></p><p><span>This break allows participants to:</span></p><p><span>The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p id=\"h.dnbtfp16zado\"><span><b>Return Journey</b></span></p><p><span>After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span>By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p></div></div>",
       "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
       "faqs": [
@@ -258,52 +255,55 @@
           "content": "• Refunds only for unavoidable circumstances (Acts of God).\n• Late arrivals are not eligible for refund.\n• Cancellations > 78 hours: 50% refund.\n• Cancellations < 78 hours: Non-refundable but reschedule available.\n• No-Shows: Forfeit full amount."
         }
       ]
-    },
+    }
+    ,
+
     {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
+      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
+      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
       "exclusions": [],
       "faqs": [
         {
-          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
-          "question": "What can you do at the Giraffe Centre in Nairobi?"
+          "answer": "Yes. Nairobi National Park is a fully open ecosystem where animals such as lions, rhinos, giraffes, and zebras roam freely.",
+          "question": "Can you see wild animals in Nairobi National Park?"
         },
         {
-          "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
-          "question": "How much does it cost to visit the Giraffe Centre?"
+          "answer": "Entry fees range from approximately KES 430 for citizens to $43 for non-residents, depending on residency status.",
+          "question": "How much does it cost to visit Nairobi National Park?"
         },
         {
-          "answer": "Most visits take between 1 to 2 hours.",
-          "question": "How long should I spend at the Giraffe Centre?"
+          "answer": "Yes. It offers a complete safari experience within close proximity to the city, making it one of the most accessible wildlife destinations in Kenya.",
+          "question": "Is Nairobi National Park worth visiting?"
         },
         {
-          "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
-          "question": "Is the Giraffe Centre worth visiting?"
+          "answer": "The best time to visit is early morning or late afternoon when wildlife is most active and temperatures are cooler.",
+          "question": "What is the best time to visit Nairobi National Park?"
         },
         {
-          "answer": "Yes. Visitors can safely feed and interact with giraffes under supervision.",
-          "question": "Can you touch giraffes at the Giraffe Centre?"
+          "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi.",
+          "question": "Can I visit Nairobi National Park in one day?"
         }
       ],
       "featured": false,
       "gallery": [
         {
-          "alt": "Giraffe Centre",
-          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
+          "alt": "Nairobi National Park",
+          "src": "/image/Nairobi-National-Park-entry-fee.jpg"
         }
       ],
       "highlights": [],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
       "inclusions": [],
       "itinerary": [],
       "keyDetails": {},
       "location": "Nairobi",
-      "name": "Giraffe Centre",
+      "name": "Nairobi National Park",
       "price": 0,
       "pricing": {},
-      "seo": "Giraffe Centre",
-      "shortDescription": "A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.",
-      "slug": "giraffe-centre"
+      "seo": "Nairobi National Park",
+      "shortDescription": "A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.",
+      "slug": "nairobi-national-park"
     }
+   
   ]
 }

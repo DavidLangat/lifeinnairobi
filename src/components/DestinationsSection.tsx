@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import React, { useEffect, useRef } from 'react';
-import Image from 'next/image';
-import { MapPin } from 'lucide-react';
-import destinationsData from '@/data/destinations-data.json';
-import Link from 'next/link';
+import React, { useEffect, useRef } from "react";
+import Image from "next/image";
+import { MapPin } from "lucide-react";
+import destinationsData from "@/data/destinations-data.json";
+import Link from "next/link";
 
 export default function DestinationsSection() {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
@@ -18,7 +18,8 @@ export default function DestinationsSection() {
     const scrollToNext = () => {
       if (!scrollContainer || isHoveredRef.current) return;
 
-      const itemWidth = scrollContainer.children[0]?.clientWidth || scrollContainer.clientWidth;
+      const itemWidth =
+        scrollContainer.children[0]?.clientWidth || scrollContainer.clientWidth;
       const scrollLeft = scrollContainer.scrollLeft;
       const totalItems = destinationsData.items.length;
 
@@ -30,13 +31,13 @@ export default function DestinationsSection() {
       // We want to scroll to the first item of the SECOND set (which is at index totalItems)
       // Then silently snap back to 0
       if (nextIndex > totalItems) {
-        scrollContainer.scrollTo({ left: 0, behavior: 'instant' });
+        scrollContainer.scrollTo({ left: 0, behavior: "instant" });
         nextIndex = 1;
       }
 
       scrollContainer.scrollTo({
         left: nextIndex * itemWidth,
-        behavior: 'smooth'
+        behavior: "smooth",
       });
 
       // Special handling for the loop reset
@@ -46,7 +47,7 @@ export default function DestinationsSection() {
       if (nextIndex === totalItems) {
         setTimeout(() => {
           if (scrollContainer) {
-            scrollContainer.scrollTo({ left: 0, behavior: 'instant' });
+            scrollContainer.scrollTo({ left: 0, behavior: "instant" });
           }
         }, 600); // 600ms to allow smooth scroll to complete
       }
@@ -60,7 +61,6 @@ export default function DestinationsSection() {
   return (
     <section className="py-10 lg:py-12 text-gray-900 overflow-hidden">
       <div className="container mx-auto px-6 lg:px-12 max-w-7xl">
-
         {/* Header - Left Aligned */}
         <div className="mb-6 space-y-2">
           <h2 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background">
@@ -76,57 +76,70 @@ export default function DestinationsSection() {
           <div
             ref={scrollContainerRef}
             className="flex overflow-x-auto pb-8 snap-x snap-mandatory scrollbar-hide -mx-4"
-            onMouseEnter={() => { isHoveredRef.current = true; }}
-            onMouseLeave={() => { isHoveredRef.current = false; }}
+            onMouseEnter={() => {
+              isHoveredRef.current = true;
+            }}
+            onMouseLeave={() => {
+              isHoveredRef.current = false;
+            }}
           >
             {/* Render items twice for infinite loop effect */}
-            {[...destinationsData.items, ...destinationsData.items].map((item, index) => {
-              const slug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '');
-              return (
-                <div
-                  key={`${item.name}-${index}`}
-                  className="relative shrink-0 w-full md:w-1/2 lg:w-1/4 snap-start px-4"
-                >
-                  <Link
-                    href={`/local-things-to-do-in-nairobi/${slug}`}
-                    className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
+            {[...destinationsData.items, ...destinationsData.items].map(
+              (item, index) => {
+                const slug =
+                  (item as any).slug ||
+                  item.name
+                    .toLowerCase()
+                    .replace(/ /g, "-")
+                    .replace(/[^\w-]+/g, "");
+                return (
+                  <div
+                    key={`${item.name}-${index}`}
+                    className="relative shrink-0 w-full md:w-1/2 lg:w-1/4 snap-start px-4"
                   >
-                    {/* Background Image */}
-                    <Image
-                      src={item.image}
-                      alt={item.name}
-                      fill
-                      className="object-cover transition-transform duration-700 group-hover:scale-110"
-                    />
+                    <Link
+                      href={`/things-to-do-in-nairobi/${slug}`}
+                      className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
+                    >
+                      {/* Background Image */}
+                      <Image
+                        src={item.image}
+                        alt={item.name}
+                        fill
+                        className="object-cover transition-transform duration-700 group-hover:scale-110"
+                      />
 
-                    {/* Overlay - Stronger at bottom */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-100 transition-opacity duration-300" />
+                      {/* Overlay - Stronger at bottom */}
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-100 transition-opacity duration-300" />
 
-                    {/* Content Container */}
-                    <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 line-clamp-2 capitalize">
-                      {item.name}
-                    </h3>
-                    <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">
+                      {/* Content Container */}
+                      <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 line-clamp-2 capitalize">
+                        {item.name}
+                      </h3>
+                      <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">
+                        {/* Left: Title & Location */}
+                        <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 pb-2">
+                          <div className="flex items-center gap-2 text-primary/70 text-xs font-medium uppercase tracking-widest">
+                            <MapPin className="w-3 h-3" />
+                            <span>{(item as any).location}</span>
+                          </div>
+                        </div>
 
-                      {/* Left: Title & Location */}
-                      <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 pb-2">
-                        <div className="flex items-center gap-2 text-primary/70 text-xs font-medium uppercase tracking-widest">
-                          <MapPin className="w-3 h-3" />
-                          <span>{(item as any).location}</span>
+                        {/* Right: Price */}
+                        <div className="text-right text-primary transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 delay-75">
+                          <span className="text-[10px] uppercase tracking-wider block opacity-70 mb-1">
+                            Start from
+                          </span>
+                          <span className="font-serif text-3xl font-normal">
+                            Ksh.{(item as any).price}
+                          </span>
                         </div>
                       </div>
-
-                      {/* Right: Price */}
-                      <div className="text-right text-primary transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 delay-75">
-                        <span className="text-[10px] uppercase tracking-wider block opacity-70 mb-1">Start from</span>
-                        <span className="font-serif text-3xl font-normal">Ksh.{(item as any).price}</span>
-                      </div>
-
-                    </div>
-                  </Link>
-                </div>
-              );
-            })}
+                    </Link>
+                  </div>
+                );
+              },
+            )}
           </div>
         </div>
 
@@ -141,9 +154,7 @@ export default function DestinationsSection() {
             </Link>
           </div>
         )}
-
       </div>
     </section>
   );
 }
-

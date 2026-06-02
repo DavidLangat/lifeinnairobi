@@ -23,12 +23,12 @@ export default function DestinationsSection() {
         </div>
 
         {/* Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 ">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pb-8 ">
           {destinationsData.items.map((item, index) => {
             const slug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
             return (
               <Link
-                href={`/activities/${slug}`}
+                href={`/best-things-to-do-in-nairobi/${slug}`}
                 key={index}
                 className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
               >
@@ -67,7 +67,17 @@ export default function DestinationsSection() {
             );
           })}
         </div>
-
+ {/* View More Link */}
+        {(destinationsData as any).viewMoreLink && (
+          <div className="flex justify-start mt-0 pb-4">
+            <Link
+              href={(destinationsData as any).viewMoreLink}
+              className="inline-flex items-center gap-2 border-b text-background border-background hover:border-accent hover:text-accent pb-1 text-sm font-semibold uppercase tracking-widest hover:opacity-70 transition-opacity"
+            >
+              View More
+            </Link>
+          </div>
+        )}
       </div>
     </section>
   );
