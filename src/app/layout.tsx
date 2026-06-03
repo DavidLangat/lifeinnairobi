@@ -29,6 +29,7 @@ const openSans = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://nairobi.life"),
   title: {
     default: "Discover Things to do in Nairobi",
     template: "%s",

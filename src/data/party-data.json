@@ -9,31 +9,20 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/k1clubhouse.jpeg",
       "isActive": false,
       "name": "K1 Klub House",
       "seo": "",
       "slug": "k1-klub-house"
     },
-    {
-      "category": "Nightclub",
-      "contentHtml": "<p><span>Skylux Lounge, formerly known as Sting Club Lounge, is a long-standing nightlife venue located in the Westlands area of Nairobi. Once regarded as one of the city’s elite clubs, it gained popularity in the early 2010s as a high-end entertainment destination known for its VIP experience, themed parties, and frequent celebrity appearances. Its central location in Westlands positioned it as a key player in Nairobi’s evolving nightlife scene.</span></p><p><span>During its peak years, Skylux Lounge was not only a nightclub but also a daytime social and networking space. It hosted corporate meetups, product launches, and lifestyle events, attracting professionals and socialites looking for a vibrant yet upscale environment. The venue built a reputation for its large capacity, modern lighting systems, and energetic party atmosphere, often drawing sizeable crowds during weekends and special events.</span></p><p><span>Today, Skylux Lounge continues to operate as a nightclub and entertainment venue, with marketing positioning it as a high-capacity space accommodating over 800 guests. It features a modern sound system, dynamic color-changing lighting, and a lively dancefloor environment that appeals to partygoers seeking a high-energy night out in Nairobi. The venue still hosts themed nights and DJ-driven events, maintaining its presence within the city’s nightlife circuit.</span></p><p><span>However, its reputation has evolved over time, and recent public feedback presents a more mixed perception of the experience. While some visitors appreciate the music, ambiance, and spacious layout, others have raised concerns regarding service quality, crowd management, and overall safety. As with many large nightlife venues, experiences can vary significantly depending on the event and timing, and visitors are generally advised to exercise awareness and take standard precautions when attending.</span></p><p><span>It is also important to distinguish Skylux Lounge from other similarly named venues in Nairobi, particularly newer rooftop lounges that focus on a more refined, upscale experience. Skylux remains more aligned with the traditional nightclub format, centered on music, dancing, and large social gatherings rather than a quiet or luxury lounge setting.</span></p><p><span>For those searching for nightlife in Westlands Nairobi, large nightclub venues in Nairobi, or high-energy party spots with DJ entertainment, Skylux Lounge represents a long-standing option with a history rooted in Nairobi’s entertainment scene.</span></p><p><span></span></p>",
-      "gallery": [
-        "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
-      ],
-      "image": "/image/destination-img-0.jpg",
-      "isActive": false,
-      "name": "Skylux Lounge",
-      "seo": "",
-      "slug": "skylux-lounge"
-    },
+ 
     {
       "category": "Rooftop Restaurant & Nightlife Lounge",
       "contentHtml": "<p><span>40Forty Lounge is an upscale rooftop restaurant and nightlife destination located at Stellato Mall in Westlands, Nairobi. Positioned on the top floor, it offers sweeping 360-degree views of the city skyline, making it one of the most visually striking venues in Nairobi for both daytime relaxation and nighttime entertainment.</span></p><p><span>The lounge is known for its stylish “urban retro” ambiance, combining contemporary design with a vibrant social atmosphere that appeals to a mature, outgoing crowd. During the early evening, the space functions as a relaxed rooftop restaurant ideal for sundowners and casual meetings, while later in the night it transforms into a high-energy lounge with music, dancing, and a lively party scene.</span></p><p><span>A major highlight of 40Forty Lounge is its panoramic rooftop setting, which provides uninterrupted views of Westlands and the greater Nairobi skyline. As the sun sets, the venue becomes especially popular for its scenic backdrop, creating an ideal environment for dates, group outings, and social gatherings centered around the city’s night views.</span></p><p><span>Entertainment plays a central role in the experience, with regular DJ performances, themed nights, and occasional live acts that keep the energy high throughout the week. Weekends are particularly busy, attracting a fashionable crowd of young professionals, expats, and nightlife enthusiasts looking for a premium rooftop party atmosphere.</span></p><p><span>The dining offering focuses on international cuisine and shareable finger foods, making it suitable for both light meals and social dining. The menu is complemented by a well-stocked bar featuring a wide range of spirits, fine wines, and signature cocktails. Daily happy hour promotions make it a popular spot for after-work drinks, especially among professionals in the Westlands area.</span></p><p><span>The crowd and overall experience are centered around a “see and be seen” culture, with guests typically dressing in smart-casual to upscale attire to match the venue’s stylish environment. The energy builds steadily into the night, with peak hours occurring late in the evening when the music and dancefloor take over.</span></p><p><span>Located in Westlands, the lounge is easily accessible and surrounded by other entertainment venues, hotels, and restaurants. Visitors are advised to use ride-hailing services such as Uber or Bolt during peak hours for convenience, as parking in the area can be limited.</span></p><p><span>For those searching for rooftop lounges in Nairobi, nightlife spots in Westlands with city views, or upscale bars with music and ambiance, 40Forty Lounge offers a dynamic experience that blends dining, entertainment, and panoramic scenery in one elevated setting.</span></p><p><span></span></p>",
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "/image/40club.jpeg",
       "isActive": false,
       "name": "40Forty Lounge",
       "seo": "",
@@ -45,7 +34,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "/image/milan.jpeg",
       "isActive": false,
       "name": "Milan",
       "seo": "",
@@ -57,7 +46,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "/image/alchemist.jpeg",
       "isActive": false,
       "name": "The Alchemist",
       "seo": "",
@@ -69,7 +58,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "/image/BlackSamurai.jpeg",
       "isActive": false,
       "name": "Black Samurai Lounge",
       "seo": "",
