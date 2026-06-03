@@ -17,11 +17,11 @@ const ActivityBookingCard: React.FC<ActivityBookingCardProps & { children?: Reac
                 <span className="text-3xl font-bold text-background">{activity.currency === 'USD' ? '$' : 'KSh'} {activity.price?.toLocaleString()}</span>
                     <span className="text-gray-500 font-medium">/ person</span>
                 </div>
-                    {activity.name != "Hiking Tours" && activity.name != "Custom Experience" && (
+                    {/* {activity.name != "Hiking Tours" && activity.name != "Custom Experience" && (
                     <div>
                         {children ? <span>{children}</span> : null}
                     </div>
-                    )}
+                    )} */}
                     
             </div>
 
@@ -46,7 +46,7 @@ const ActivityBookingCard: React.FC<ActivityBookingCardProps & { children?: Reac
                     target="_blank"
                     className="w-full bg-accent hover:bg-background text-primary text-center py-4 rounded-full font-bold text-lg transition-all shadow-lg hover:shadow-xl mb-6 flex items-center justify-center gap-2"
                 >
-                    <span>WhatsApp</span> 
+                    <span>Check Availability</span> 
                 </a>}
        
             {/* Key Details List */}

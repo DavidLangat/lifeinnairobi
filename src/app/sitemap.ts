@@ -3,6 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 import activitiesData from '@/data/destinations-data.json';
+import bestActivitiesData from '@/data/bestthings-data.json';
 import accommodationData from '@/data/favorite-destinations.json';
 import restaurantData from '@/data/restaurant-data.json';
 import calendarData from '@/data/calendar-data.json';
@@ -25,13 +26,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Static routes
   const staticRoutes = [
     '',
-    '/about',
-    '/accommodation',
-    '/activities',
-    '/restaurants',
-    '/calendar',
-    '/other-destinations',
-    '/cancel-policy',
+    // '/about',
+    // '/accommodation',
+    // '/activities',
+    // '/restaurants',
+    // '/calendar',
+    // '/other-destinations',
+    // '/cancel-policy',
   ].map((route) => ({
     url: `${BASE_URL}${route}/`, // trailingSlash: true
     lastModified: new Date(),
@@ -89,7 +90,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  const bestThingsToDoRoutes = activitiesData.items.map((item) => ({
+  const bestThingsToDoRoutes = bestActivitiesData.items.map((item) => ({
     url: `${BASE_URL}/best-things-to-do-in-nairobi/${item.slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -176,18 +177,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     ...staticRoutes,
     ...independentBlogRoutes,
-    ...aboutRoutes,
+    // ...aboutRoutes,
     ...aboutNairobiRoutes,
-    ...activityRoutes,
+    // ...activityRoutes,
     ...thingsToDoRoutes,
     ...bestThingsToDoRoutes,
-    ...accommodationRoutes,
+    // ...accommodationRoutes,
     ...accommodationNairobiRoutes,
     ...hotelsNairobiRoutes,
-    ...restaurantRoutes,
+    // ...restaurantRoutes,
     ...restaurantsNairobiRoutes,
-    ...eventRoutes,
-    ...otherDestinationRoutes,
+    // ...eventRoutes,
+    // ...otherDestinationRoutes,
     ...golfRoutes,
     ...padelRoutes,
     ...shopRoutes,
