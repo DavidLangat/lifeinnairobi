@@ -16,6 +16,8 @@ import Image from 'next/image';
 
 
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const allPosts = [
     blogData.featuredPost,
