@@ -115,7 +115,7 @@ export default function Footer() {
             </form>
 
             {/* TripAdvisor Widget */}
-            <div className="mt-6 inline-block bg-secondary px-3 py-1.5 rounded-xl border border-primary/10 hover:border-primary/30 transition-colors shadow-xs">
+            {/* <div className="mt-6 inline-block bg-secondary px-3 py-1.5 rounded-xl border border-primary/10 hover:border-primary/30 transition-colors shadow-xs">
               <div id="TA_cdswritereviewnew126" className="TA_cdswritereviewnew">
                 <ul id="UUwn2hA" className="TA_links hlJFXzLs5K">
                   <li id="p2zvPOI4" className="4wz9at5ZSK">
@@ -134,7 +134,7 @@ export default function Footer() {
                   if (typeof window !== 'undefined') window.loadtrk = true;
                 }}
               />
-            </div>
+            </div> */}
           </div>
 
 
