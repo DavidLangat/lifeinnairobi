@@ -1,11 +1,23 @@
 {
-  "heading": "Best Things to Do in Nairobi",
-  "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
-  "viewMoreLink": "/best-things-to-do-in-nairobi",
   "items": [
     {
+      "shortDescription": "Explore scenic tea farm tours near Nairobi. Walk through lush plantations, learn tea processing, and enjoy authentic local farm experiences in Kenya.",
+      "inclusions": [
+        "Professional Guide",
+        "Tea tasting",
+        "Farm entry fees"
+      ],
       "name": "Tea Farm Tours",
-      "slug": "tea-farm-tours-in-nairobi",
+      "location": "Nairobi",
+      "highlights": [
+        "Guided Plantation Walk",
+        "Hands-On Tea Picking",
+        "Processing Demonstrations",
+        "Tea Tasting Experience",
+        "Farm-to-Table Refreshments",
+        "Educational Insights"
+      ],
+      "currency": "KES",
       "keywords": [
         "Tea farm tour",
         "Nairobi tea farm",
@@ -19,28 +31,7 @@
         "Things to do in Nairobi",
         "Places to visit in Nairobi"
       ],
-      "seo": "Tea farm tours in Nairobi",
-      "location": "Nairobi",
-      "price": 4500,
-      "pricing": {
-        "citizen": 4500,
-        "resident": 4500,
-        "nonResident": 4500
-      },
-      "keyDetails": {
-        "duration": "120 minutes",
-        "startTime": [
-          "9:00 AM",
-          "12:00 PM",
-          "3:00 PM"
-        ],
-        "location": "Ravenswood Escapes, Tigoni",
-        "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
-      },
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg",
-      "shortDescription": "Explore scenic tea farm tours near Nairobi. Walk through lush plantations, learn tea processing, and enjoy authentic local farm experiences in Kenya.",
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span>The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span>The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p></div><div><h3 class='text-2xl font-semibold mb-3'>The Walking Experience</h3><p><span>The route follows a scenic trail through:</span></p><p><span>Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p id=\"h.ktryy2rafga6\"><span><b>Natural Features and Landscape</b></span></p><p><span>The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><p><span>These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p id=\"h.yfz0864vpa44\"><span><b>Heritage and Tea Culture</b></span></p><p><span>A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span>During the tour, participants learn about:</span></p><p><span>This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p id=\"h.cmb926idhz78\"><span><b>Tea Tasting Experience</b></span></p><p><span>The tour concludes with a guided tea tasting session.</span></p><p><span>Participants are invited to:</span></p><p><span>This final stage provides a quiet and reflective end to the experience.</span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.</span></p><p><span>Set within a working tea estate, the tour is designed for visitors who enjoy walking, learning, and unhurried exploration of nature.</span></p><p><span></span></p></div>",
+      "slug": "tea-farm-tours-in-nairobi",
       "gallery": [
         {
           "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm.jpg",
@@ -51,73 +42,78 @@
           "alt": "Tea picking"
         }
       ],
-      "highlights": [
-        "Guided Plantation Walk",
-        "Hands-On Tea Picking",
-        "Processing Demonstrations",
-        "Tea Tasting Experience",
-        "Farm-to-Table Refreshments",
-        "Educational Insights"
+      "keyDetails": {
+        "location": "Ravenswood Escapes, Tigoni",
+        "duration": "120 minutes",
+        "startTime": [
+          "9:00 AM",
+          "12:00 PM",
+          "3:00 PM"
+        ],
+        "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
+      },
+      "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span >The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span >The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>The Walking Experience</p></span></h2><p><span >The route follows a scenic trail through:</span></p><ul><li ><p>Expansive tea plantations</p></li><li ><p>Forest edges and natural pathways</p></li><li ><p>Gentle terrain suitable for most fitness levels</p></li></ul><p><span >Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Natural Features and Landscape</p></span></h2><p><span >The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><ul><li ><p>Rolling green hills</p></li><li ><p>River-fed valleys</p></li><li ><p>Quiet forest sections</p></li></ul><p><span >These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Heritage and Tea Culture</p></span></h2><p><span >A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span >During the tour, participants learn about:</span></p><ul><li ><p>The origins of tea farming in the region</p></li><li ><p>Traditional and modern cultivation methods</p></li><li ><p>The role of tea in Kenya’s economy and identity</p></li></ul><p><span >This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Tea Tasting Experience</p></span></h2><p><span >The tour concludes with a guided tea tasting session.</span></p><p><span >Participants are invited to:</span></p><ul><li ><p>Sample freshly brewed tea from the estate</p></li><li ><p>Learn how to identify flavor notes and aromas</p></li><li ><p>Understand how altitude, soil, and climate influence taste</p></li></ul><p><span >This final stage provides a quiet and reflective end to the experience.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Distance</p></span></h2><ul><li ><p>Duration: 2 to 3 hours</p></li><li ><p>Distance: Approximately 4 to 5 kilometres</p></li><li ><p>Difficulty: Easy (guided walking experience)</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Included</p></span></h2><ul><li ><p>Guided tea farm walk</p></li><li ><p>Tea tasting experience</p></li><li ><p>Informational and cultural insights</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Not Included</p></span></h2><ul><li ><p>Transport to and from Tigoni</p></li><li ><p>Additional meals or refreshments</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >This experience is suitable for:</span></p><ul><li ><p>Individuals and couples</p></li><li ><p>Families and small groups</p></li><li ><p>Visitors looking for a calm outdoor activity</p></li><li ><p>Anyone seeking a day trip from Nairobi</p></li></ul><p><span >No prior experience is required.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Location</p></span></h2><p><span >All tours take place in Tigoni, approximately 30 to 60 minutes from Nairobi.</span></p><br>",
+      "seo": "Tea farm tours in Nairobi",
+      "exclusions": [
+        "Transport",
+        "Lunch (unless arranged)"
       ],
+      "practicalInfo": [],
+      "pricing": {
+        "nonResident": 4500,
+        "resident": 4500,
+        "citizen": 4500
+      },
       "itinerary": [
         {
           "title": "Welcome & Briefing",
           "description": "Meet at the center, brief history of Tigoni tea farming."
         },
         {
-          "title": "Field Walk",
-          "description": "Guided walk through the tea bushes, interaction with farmers."
+          "description": "Guided walk through the tea bushes, interaction with farmers.",
+          "title": "Field Walk"
         },
         {
           "title": "Tasting Session",
           "description": "Sample different grades of tea with light snacks."
         }
       ],
-      "inclusions": [
-        "Professional Guide",
-        "Tea tasting",
-        "Farm entry fees"
-      ],
-      "exclusions": [
-        "Transport",
-        "Lunch (unless arranged)"
-      ],
+      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Nairobi tea farm tours offer a peaceful and immersive way to explore Kenya’s iconic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines scenic walking, cultural insight, and tea tasting to create one of the most rewarding day activities near Nairobi.</span></p><p><span>Set within a working tea estate, the tour is designed for visitors who enjoy walking, learning, and unhurried exploration of nature.</span></p><p><span></span></p></div>",
+      "price": 4500,
       "faqs": [
         {
-          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
-          "question": "Can I do an e-bike tour near Nairobi?"
+          "question": "Can I do an e-bike tour near Nairobi?",
+          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi."
         },
         {
-          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
-          "question": "Do I need cycling experience to join?"
+          "question": "Do I need cycling experience to join?",
+          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels."
         },
         {
-          "answer": "The experience typically lasts between two to three hours, including stops and a midway break.",
-          "question": "How long does the tour take?"
+          "question": "How long does the tour take?",
+          "answer": "The experience typically lasts between two to three hours, including stops and a midway break."
         },
         {
-          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
-          "question": "Is food included in the tour?"
+          "question": "Is food included in the tour?",
+          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive."
         },
         {
-          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni.",
-          "question": "What should I wear?"
+          "question": "What should I wear?",
+          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni."
         },
         {
-          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
-          "question": "Is this suitable for groups?"
+          "question": "Is this suitable for groups?",
+          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities."
         }
       ],
-      "currency": "KES"
+      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg"
     },
     {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span>The experience is flexible and can be tailored as:</span></p><p><span>Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p id=\"h.lbuwgm9og51y\"><span><b>What to Expect</b></span></p><p id=\"h.91ils5c5mi9n\"><span><b>Game Drives Through the Park</b></span></p><p><span>The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span>During the drive, visitors may encounter:</span></p><p><span>The open environment allows for wide visibility and natural wildlife movement.</span></p><p id=\"h.pkykfcy6y3yk\"><span><b>Rhino Sanctuary</b></span></p><p><span>Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span>Visitors have a strong chance of seeing:</span></p><p><span>This makes the park significant not only for tourism but also for conservation.</span></p><p id=\"h.eclgx49ggssb\"><span><b>Scenic Landscape and Views</b></span></p><p><span>The park features:</span></p><p><span>One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p id=\"h.iepealw3km6x\"><span><b>Best Time to Visit</b></span></p><p><span>The most suitable times for a visit are:</span></p><p><span>These periods offer cooler temperatures and increased wildlife activity.</span></p><p id=\"h.ipboyuw6s4xt\"><span><b>Optional Nearby Experiences</b></span></p><p><span>A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><p><span>This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p id=\"h.7wxxnq6jxux0\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
-      "exclusions": [],
+      "price": 100,
       "faqs": [
         {
-          "answer": "Yes. Nairobi National Park is a fully open ecosystem where animals such as lions, rhinos, giraffes, and zebras roam freely.",
-          "question": "Can you see wild animals in Nairobi National Park?"
+          "question": "Can you see wild animals in Nairobi National Park?",
+          "answer": "Yes. Nairobi National Park is a fully open ecosystem where animals such as lions, rhinos, giraffes, and zebras roam freely."
         },
         {
           "answer": "Entry fees range from approximately KES 430 for citizens to $43 for non-residents, depending on residency status.",
@@ -128,40 +124,62 @@
           "question": "Is Nairobi National Park worth visiting?"
         },
         {
-          "answer": "The best time to visit is early morning or late afternoon when wildlife is most active and temperatures are cooler.",
-          "question": "What is the best time to visit Nairobi National Park?"
+          "question": "What is the best time to visit Nairobi National Park?",
+          "answer": "The best time to visit is early morning or late afternoon when wildlife is most active and temperatures are cooler."
         },
         {
-          "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi.",
-          "question": "Can I visit Nairobi National Park in one day?"
+          "question": "Can I visit Nairobi National Park in one day?",
+          "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi."
         }
       ],
-      "featured": false,
+      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
+      "practicalInfo": [],
+      "pricing": {
+        "nonResident": 0,
+        "resident": 0,
+        "citizen": 0
+      },
+      "itinerary": [],
+      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>A visit to Nairobi National Park offers one of the most unique wildlife experiences in the world. Located just a short distance from Nairobi city center, the park provides a full safari experience within an open, natural ecosystem.</span></p><p><span>The park is home to a wide range of wildlife, allowing visitors to experience Kenya’s natural environment without traveling far from the city.</span></p><p><span>As reflected in your source material, this experience combines accessibility with authentic wildlife viewing, making it one of the most popular day activities in Nairobi .</span></p><p><span></span></p></div>",
       "gallery": [
         {
           "alt": "Nairobi National Park",
           "src": "/image/Nairobi-National-Park-entry-fee.jpg"
         }
       ],
-      "highlights": [],
-      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
-      "inclusions": [],
-      "itinerary": [],
-      "keyDetails": {},
-      "location": "Nairobi",
-      "name": "Nairobi National Park",
-      "price": 100,
-      "pricing": {},
+      "keyDetails": {
+        "location": "",
+        "duration": "",
+        "startTime": []
+      },
+      "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >A typical visit to Nairobi National Park includes a guided or self-driven game drive through open savannah, riverine forest, and acacia woodland.</span></p><p><span >The experience is flexible and can be tailored as:</span></p><ul><li ><p>A half-day safari</p></li><li ><p>A full-day wildlife experience</p></li></ul><p><span >Each visit is unique, as wildlife sightings vary depending on time and conditions.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What to Expect</p></span></h2><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Game Drives Through the Park</p></span></h3><p><span >The main activity is a game drive across the park’s diverse landscapes.</span></p><p><span >During the drive, visitors may encounter:</span></p><ul><li ><p>Lions</p></li><li ><p>Rhinos (black and white)</p></li><li ><p>Buffalo</p></li><li ><p>Zebras</p></li><li ><p>Giraffes</p></li><li ><p>Various antelope species</p></li></ul><p><span >The open environment allows for wide visibility and natural wildlife movement.</span></p><p></p><p></p><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Rhino Sanctuary</p></span></h3><p><span >Nairobi National Park is one of Kenya’s most important protected areas for rhinos.</span></p><p><span >Visitors have a p chance of seeing:</span></p><ul><li ><p>Black rhinos</p></li><li ><p>White rhinos</p></li></ul><p><span >This makes the park significant not only for tourism but also for conservation.</span></p><p></p><p></p><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Scenic Landscape and Views</p></span></h3><p><span >The park features:</span></p><ul><li ><p>Open grasslands</p></li><li ><p>Scattered acacia trees</p></li><li ><p>River systems</p></li></ul><p><span >One of its defining features is the contrast between wildlife and the Nairobi skyline visible in the background.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Best Time to Visit</p></span></h2><p><span >The most suitable times for a visit are:</span></p><ul><li ><p>Early morning (approximately 6:00 AM to 10:00 AM)</p></li><li ><p>Late afternoon (approximately 4:00 PM to sunset)</p></li></ul><p><span >These periods offer cooler temperatures and increased wildlife activity.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Optional Nearby Experiences</p></span></h2><p><span >A visit to Nairobi National Park can be combined with nearby attractions such as:</span></p><ul><li ><p>David Sheldrick Wildlife Trust</p></li><li ><p>Giraffe Centre</p></li><li ><p>Karen Blixen Museum</p></li></ul><p><span >This allows for a full-day itinerary combining wildlife and cultural experiences.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Accessibility</p></span></h2><ul><li ><p>Half-day safari: 3 to 5 hours</p></li><li ><p>Full-day experience: 6 to 8 hours</p></li><li ><p>Distance from Nairobi CBD: Approximately 20 to 30 minutes</p></li><li ><p>Accessibility: Suitable for guided tours or self-drive</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >This experience is suitable for:</span></p><ul><li ><p>First-time safari visitors</p></li><li ><p>Travelers with limited time in Kenya</p></li><li ><p>Families and small groups</p></li><li ><p>Wildlife enthusiasts and photographers</p></li></ul>",
+      "exclusions": [],
       "seo": "Nairobi National Park",
-      "shortDescription": "Visit Nairobi National Park for an unforgettable safari near the city. Spot lions, rhinos, giraffes, and wildlife with Nairobi skyline views.",
       "slug": "nairobi-national-park",
-      "currency": "USD"
+      "currency": "USD",
+      "location": "Nairobi",
+      "highlights": [],
+      "inclusions": [],
+      "name": "Nairobi National Park",
+      "featured": false,
+      "shortDescription": "Visit Nairobi National Park for an unforgettable safari near the city. Spot lions, rhinos, giraffes, and wildlife with Nairobi skyline views."
     },
     {
+      "featured": true,
+      "shortDescription": "Explore Tigoni on guided e-bike tours through tea farms, scenic hills, and local villages. Experience nature, culture, and adventure near Nairobi.",
+      "inclusions": [
+        "Knowledgeable and friendly guide",
+        "Quality Electric Bikes",
+        "Helmet"
+      ],
       "name": "Tigoni E-bike Tours",
-      "name2": "Tigoni E-bike Tours",
-      "seo": "Tigoni E-bike Tours",
-      "slug": "Tigoni-ebike-tours",
+      "location": "Nairobi",
+      "highlights": [
+        "E-Bike ride through scenic tea farms",
+        "Coffee break at Fig & Olive Restaurant",
+        "Scenic photo stops",
+        "Post-ride refreshment"
+      ],
       "keywords": [
         "Ebike tours",
         "Nairobi ebike tours",
@@ -172,10 +190,19 @@
         "Things to do in Nairobi",
         "Places to visit in Nairobi"
       ],
-      "location": "Nairobi",
-      "price": 3500,
-      "featured": true,
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20E-bike%20Tours.jpeg",
+      "currency": "KES",
+      "slug": "tigoni-ebike-tours",
+      "name2": "Tigoni E-bike Tours",
+      "gallery": [
+        {
+          "alt": "E-bike tour group riding",
+          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5922-2.jpg"
+        },
+        {
+          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5931.jpg?updatedAt=1765891140765",
+          "alt": "Scenic tea farm view"
+        }
+      ],
       "keyDetails": {
         "duration": "120 minutes",
         "startTime": [
@@ -183,63 +210,33 @@
           "12:00 PM",
           "3:00 PM"
         ],
-        "location": "Ravenswood Escapes, Tigoni",
-        "mapUrl": "https://maps.app.goo.gl/NmntafaDgkzh1ng86"
+        "mapUrl": "https://maps.app.goo.gl/NmntafaDgkzh1ng86",
+        "location": "Ravenswood Escapes, Tigoni"
       },
-      "pricing": {
-        "citizen": 3500,
-        "resident": 4500,
-        "nonResident": 5500
-      },
-      "shortDescription": "Explore Tigoni on guided e-bike tours through tea farms, scenic hills, and local villages. Experience nature, culture, and adventure near Nairobi.",
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span>The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span>The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p id=\"h.wlhpym90jtzf\"><span><b>The Ride Through Tigoni</b></span></p><p><span>The route takes you through:</span></p><p><span>As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p id=\"h.aa4dumb3w4sp\"><span><b>Midway Stop at The Fig & Olive</b></span></p><p><span>At the halfway point, the tour includes a stop at The Fig & Olive, a farm-style restaurant set within the tea fields.</span></p><p><span>This break allows participants to:</span></p><p><span>The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p id=\"h.dnbtfp16zado\"><span><b>Return Journey</b></span></p><p><span>After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span>By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
-      "faqs": [
-        {
-          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
-          "question": "Can I do an e-bike tour near Nairobi?"
-        },
-        {
-          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
-          "question": "Do I need cycling experience to join?"
-        },
-        {
-          "answer": "The experience typically lasts between two to three hours, including stops and a midway break.",
-          "question": "How long does the tour take?"
-        },
-        {
-          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
-          "question": "Is food included in the tour?"
-        },
-        {
-          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni.",
-          "question": "What should I wear?"
-        },
-        {
-          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities.",
-          "question": "Is this suitable for groups?"
-        }
+      "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span >The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span >The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>The Ride Through Tigoni</p></span></h2><p><span >The route takes you through:</span></p><ul><li ><p>Expansive tea plantations</p></li><li ><p>Scenic ridgelines overlooking the highlands</p></li><li ><p>Quiet rural roads with minimal traffic</p></li></ul><p><span >As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Midway Stop at The Fig &amp; Olive</p></span></h2><p><span >At the halfway point, the tour includes a stop at The Fig &amp; Olive, a farm-style restaurant set within the tea fields.</span></p><p><span >This break allows participants to:</span></p><ul><li ><p>Rest and recharge</p></li><li ><p>Enjoy brunch or refreshments (optional)</p></li><li ><p>Take in views of the surrounding tea estates</p></li></ul><p><span >The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Return Journey</p></span></h2><p><span >After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span >By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Distance</p></span></h2><ul><li ><p>Duration: 2 to 3 hours</p></li><li ><p>Distance: Approximately 20–25 kilometres</p></li><li ><p>Difficulty: Easy to moderate (e-bike assisted)</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Included</p></span></h2><ul><li ><p>Electric bike</p></li><li ><p>Safety helmet</p></li><li ><p>Guided experience</p></li><li ><p>Orientation and safety briefing</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Not Included</p></span></h2><ul><li ><p>Food and drinks at The Fig &amp; Olive</p></li><li ><p>Transport to and from Tigoni</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >This experience is suitable for:</span></p><ul><li ><p>Individuals and couples</p></li><li ><p>Small groups and families</p></li><li ><p>Corporate and team-building groups</p></li><li ><p>Visitors looking for a day trip from Nairobi</p></li></ul><p><span >No prior cycling experience is required.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Location</p></span></h2><p><span >All tours take place in Tigoni, approximately 30 to 45 minutes from Nairobi.</span></p><br class=\"Apple-interchange-newline\" ><br><br class=\"Apple-interchange-newline\" ><br>",
+      "exclusions": [
+        "Transport to venue",
+        "Meals"
       ],
-      "gallery": [
+      "seo": "Tigoni E-bike Tours",
+      "practicalInfo": [
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5922-2.jpg",
-          "alt": "E-bike tour group riding"
+          "title": "Where to meet?",
+          "content": "We will meet up at Ravenswood Escape. The guide will be at the meet-up point. Self drive friendly with safe parking."
         },
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5931.jpg?updatedAt=1765891140765",
-          "alt": "Scenic tea farm view"
+          "content": "• Do I need prior biking experience? Yes, prior experience with riding a regular bike is necessary.\n• Do you offer transport: No, but we can organize for private groups at a cost.\n• Public Transport: Board Matatu NO 114 at Khoja heading to St Pauls University, alight at Kabuku shopping centre and get a boda boda to Ravenswood farm.\n• Fitness: No, e-bikes are designed to make riding easier.\n• Wear: Comfortable, weather-appropriate clothing and closed-toe shoes.\n• Age: Suitable for ages 14+.",
+          "title": "Know before you go"
+        },
+        {
+          "content": "• Refunds only for unavoidable circumstances (Acts of God).\n• Late arrivals are not eligible for refund.\n• Cancellations > 78 hours: 50% refund.\n• Cancellations < 78 hours: Non-refundable but reschedule available.\n• No-Shows: Forfeit full amount.",
+          "title": "Cancellation Policy"
         }
-      ],
-      "highlights": [
-        "E-Bike ride through scenic tea farms",
-        "Coffee break at Fig & Olive Restaurant",
-        "Scenic photo stops",
-        "Post-ride refreshment"
       ],
       "itinerary": [
         {
-          "title": "Welcome & Briefing",
-          "description": "Meet, get assigned a bike and helmet, and receive a quick route briefing."
+          "description": "Meet, get assigned a bike and helmet, and receive a quick route briefing.",
+          "title": "Welcome & Briefing"
         },
         {
           "title": "Midway Stop",
@@ -250,47 +247,56 @@
           "description": "Enjoy scenic photo spots along the return ride."
         }
       ],
-      "inclusions": [
-        "Knowledgeable and friendly guide",
-        "Quality Electric Bikes",
-        "Helmet"
-      ],
-      "exclusions": [
-        "Transport to venue",
-        "Meals"
-      ],
-      "practicalInfo": [
-        {
-          "title": "Where to meet?",
-          "content": "We will meet up at Ravenswood Escape. The guide will be at the meet-up point. Self drive friendly with safe parking."
-        },
-        {
-          "title": "Know before you go",
-          "content": "• Do I need prior biking experience? Yes, prior experience with riding a regular bike is necessary.\n• Do you offer transport: No, but we can organize for private groups at a cost.\n• Public Transport: Board Matatu NO 114 at Khoja heading to St Pauls University, alight at Kabuku shopping centre and get a boda boda to Ravenswood farm.\n• Fitness: No, e-bikes are designed to make riding easier.\n• Wear: Comfortable, weather-appropriate clothing and closed-toe shoes.\n• Age: Suitable for ages 14+."
-        },
-        {
-          "title": "Cancellation Policy",
-          "content": "• Refunds only for unavoidable circumstances (Acts of God).\n• Late arrivals are not eligible for refund.\n• Cancellations > 78 hours: 50% refund.\n• Cancellations < 78 hours: Non-refundable but reschedule available.\n• No-Shows: Forfeit full amount."
-        }
-      ],
-      "currency": "KES"
-    },
-    {
-      "contentHtml": "<div class='space-y-6 text-gray-700'><div><h3 class='text-2xl font-semibold mb-3'>Experience Overview</h3><p><span>A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span>The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p id=\"h.nqnuztrn1ufs\"><span><b>What to Expect</b></span></p><p id=\"h.6slznmw1n8bk\"><span><b>Giraffe Feeding Platform</b></span></p><p><span>The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span>During this experience, participants:</span></p><p><span>This creates a unique opportunity for close wildlife interaction.</span></p><p id=\"h.917u5lebfxq8\"><span><b>Conservation and Education</b></span></p><p><span>The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span>Visitors are introduced to:</span></p><p><span>This adds an educational dimension to the visit.</span></p><p id=\"h.9s3beuwmswbu\"><span><b>Nature Trail</b></span></p><p><span>In addition to the main platform, the centre features a short nature trail.</span></p><p><span>The trail offers:</span></p><p><span>This complements the main experience with a more relaxed outdoor activity.</span></p><p id=\"h.dgdvx4hqrtlk\"><span><b>Duration and Accessibility</b></span></p></div></div>",
-      "contentHtmltop": "<div class='mb-4 text-gray-700 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
-      "exclusions": [],
+      "pricing": {
+        "resident": 4500,
+        "citizen": 3500,
+        "nonResident": 5500
+      },
+      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
       "faqs": [
         {
-          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail.",
-          "question": "What can you do at the Giraffe Centre in Nairobi?"
+          "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
+          "question": "Can I do an e-bike tour near Nairobi?"
+        },
+        {
+          "answer": "No. The electric bikes provide pedal assistance, making them easy to use for beginners and suitable for all fitness levels.",
+          "question": "Do I need cycling experience to join?"
+        },
+        {
+          "question": "How long does the tour take?",
+          "answer": "The experience typically lasts between two to three hours, including stops and a midway break."
+        },
+        {
+          "answer": "Food and drinks are not included, but participants can purchase brunch or refreshments during the stop at The Fig & Olive.",
+          "question": "Is food included in the tour?"
+        },
+        {
+          "question": "What should I wear?",
+          "answer": "Comfortable clothing and closed shoes are recommended. A light jacket is advisable due to the cool climate in Tigoni."
+        },
+        {
+          "question": "Is this suitable for groups?",
+          "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities."
+        }
+      ],
+      "price": 3500,
+      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20E-bike%20Tours.jpeg"
+    },
+    {
+      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "price": 20,
+      "faqs": [
+        {
+          "question": "What can you do at the Giraffe Centre in Nairobi?",
+          "answer": "Visitors can feed giraffes from an elevated platform, learn about conservation efforts, and explore a nature trail."
         },
         {
           "answer": "Entry fees typically range from approximately KES 400 for citizens to USD 15 for non-residents.",
           "question": "How much does it cost to visit the Giraffe Centre?"
         },
         {
-          "answer": "Most visits take between 1 to 2 hours.",
-          "question": "How long should I spend at the Giraffe Centre?"
+          "question": "How long should I spend at the Giraffe Centre?",
+          "answer": "Most visits take between 1 to 2 hours."
         },
         {
           "answer": "Yes. It offers a unique opportunity to interact with giraffes while learning about conservation.",
@@ -301,26 +307,39 @@
           "question": "Can you touch giraffes at the Giraffe Centre?"
         }
       ],
-      "featured": false,
+      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>A visit to the Giraffe Centre offers one of the most accessible and interactive wildlife experiences in Nairobi. Located in the Karen suburb, the centre provides visitors with the opportunity to observe and interact with endangered Rothschild giraffes in a controlled, conservation-focused environment.</span></p><p><span>The experience combines wildlife interaction with education, making it suitable for short visits and half-day itineraries.</span></p><p><span>As reflected in your source material, the Giraffe Centre is designed to balance tourism with conservation awareness, offering a meaningful introduction to wildlife protection in Kenya .</span></p><p><span></span></p></div>",
+      "pricing": {
+        "citizen": 0,
+        "resident": 0,
+        "nonResident": 0
+      },
+      "itinerary": [],
+      "practicalInfo": [],
+      "exclusions": [],
+      "seo": "Giraffe Centre",
+      "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >A typical visit to the Giraffe Centre involves a structured but flexible experience that allows participants to interact with giraffes, learn about conservation efforts, and explore a natural environment.</span></p><p><span >The experience is self-paced and can be completed within a short period, making it ideal for visitors with limited time.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What to Expect</p></span></h2><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Giraffe Feeding Platform</p></span></h3><p><span >The main activity takes place on an elevated platform where visitors can feed giraffes under supervision.</span></p><p><span >During this experience, participants:</span></p><ul><li ><p>Interact directly with giraffes at close range</p></li><li ><p>Feed them specially prepared pellets</p></li><li ><p>Observe their behavior and feeding patterns</p></li></ul><p><span >This creates a unique opportunity for close wildlife interaction.</span></p><p></p><p></p><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Conservation and Education</p></span></h3><p><span >The Giraffe Centre focuses on the conservation of the Rothschild giraffe, one of the most endangered giraffe subspecies.</span></p><p><span >Visitors are introduced to:</span></p><ul><li ><p>Conservation programs and breeding efforts</p></li><li ><p>The importance of habitat protection</p></li><li ><p>The role of education in wildlife conservation</p></li></ul><p><span >This adds an educational dimension to the visit.</span></p><p></p><p></p><h3 class='text-xl font-serif text-background font-medium mt-6 mb-3'><span><p>Nature Trail</p></span></h3><p><span >In addition to the main platform, the centre features a short nature trail.</span></p><p><span >The trail offers:</span></p><ul><li ><p>A quiet walking environment</p></li><li ><p>Opportunities for birdwatching</p></li><li ><p>A chance to explore a small forested area</p></li></ul><p><span >This complements the main experience with a more relaxed outdoor activity.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Accessibility</p></span></h2><ul><li ><p>Duration: 1 to 2 hours</p></li><li ><p>Difficulty: Easy (minimal walking)</p></li><li ><p>Location: Karen, Nairobi</p></li><li ><p>Accessibility: Suitable for short visits or half-day trips</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >The Giraffe Centre is suitable for:</span></p><ul><li ><p>First-time visitors to Nairobi</p></li><li ><p>Families and children</p></li><li ><p>Individuals and small groups</p></li><li ><p>Wildlife enthusiasts with limited time</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Entry Fees (Guide)</p></span></h2><p><span >Entry fees vary depending on residency:</span></p><ul><li ><p>Citizens: approximately KES 400</p></li><li ><p>Residents: approximately KES 1,000</p></li><li ><p>Non-residents: approximately USD 15</p></li></ul><p><span >Fees may change and should be confirmed before visiting.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Nearby Attractions</p></span></h2><p><span >The Giraffe Centre can be combined with nearby experiences such as:</span></p><ul><li ><p>David Sheldrick Wildlife Trust</p></li><li ><p>Karen Blixen Museum</p></li></ul><p><span >This allows visitors to create a well-rounded half-day itinerary.</span></p><br class=\"Apple-interchange-newline\" ><br><br class=\"Apple-interchange-newline\" ><br>",
+      "keyDetails": {
+        "location": "",
+        "duration": "",
+        "startTime": []
+      },
       "gallery": [
         {
-          "alt": "Giraffe Centre",
-          "src": "/image/Giraffe-Centre-Visit-scaled.jpg"
+          "src": "/image/Giraffe-Centre-Visit-scaled.jpg",
+          "alt": "Giraffe Centre"
         }
       ],
+      "slug": "giraffe-centre",
+      "currency": "USD",
       "highlights": [],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
-      "inclusions": [],
-      "itinerary": [],
-      "keyDetails": {},
       "location": "Nairobi",
       "name": "Giraffe Centre",
-      "price": 20,
-      "pricing": {},
-      "seo": "Giraffe Centre",
+      "inclusions": [],
       "shortDescription": "Visit the Giraffe Centre in Nairobi to feed and interact with endangered Rothschild giraffes. A unique wildlife experience for all ages in Kenya.",
-      "slug": "giraffe-centre",
-      "currency": "USD"
+      "featured": false
     }
-  ]
+  ],
+  "viewMoreLink": "/best-things-to-do-in-nairobi",
+  "description": "Discover the best things to do in Nairobi, from scenic tea and coffee farm tours to guided e-bike adventures and immersive city walking tours.",
+  "heading": "Best Things to Do in Nairobi"
 }
