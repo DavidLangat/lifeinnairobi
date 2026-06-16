@@ -13,6 +13,7 @@ import ActivityPricingCard from '@/components/ActivityPricingCard';
 import ActivityFAQ from '@/components/ActivityFAQ';
 import { HTMLContentFirstParagraph, HTMLContentRest } from '@/components/HTMLContentSplit';
 import ActivityBookingWidget from '@/components/booking/ActivityBookingWidget';
+import ActivitySeoSchemas from '@/components/seo/ActivitySeoSchemas';
 
 import destinationsData from '@/data/destinations-data.json';
 
@@ -48,6 +49,12 @@ interface ActivityClientPageProps {
 export default function ActivityClientPage({ activity, details, relatedActivities }: ActivityClientPageProps) {
   return (
     <main className="bg-primary min-h-screen font-sans text-gray-900 relative overflow-clip">
+      <ActivitySeoSchemas 
+        activity={activity} 
+        faqs={details.faqs} 
+        categoryName="Things to do in Nairobi"
+        categoryUrl="https://lifeinnairobi.com/things-to-do-in-nairobi"
+      />
         {/* Sticky Background Images with Parallax/Float Effect */}
         <div className="hidden md:block fixed  opacity-30 top-36 left-30 w-[500px] h-[500px] pointer-events-none z-0  transform -translate-x-1/4 -translate-y-1/4">
         <Image

@@ -32,8 +32,13 @@ export async function generateMetadata({
     };
   }
 
+  const isNgongHills = activity.name.toLowerCase() === "ngong hills";
+  const seoTitle = isNgongHills
+    ? "Ngong Hills | Outdoor Things to do in Nairobi"
+    : `${activity.seo} | Things to do in Nairobi`;
+
   return {
-    title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
+    title: seoTitle,
     description:
       activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
     keywords: [
@@ -47,7 +52,7 @@ export async function generateMetadata({
       canonical: `https://nairobi.life/things-to-do-in-nairobi/${slug}`,
     },
     openGraph: {
-      title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? activity.seo : activity.seo} | Things to do in Nairobi`,
+      title: seoTitle,
       description:
         activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
       url: `https://nairobi.life/things-to-do-in-nairobi/${slug}`,

@@ -13,6 +13,7 @@ import ActivityPricingCard from '@/components/ActivityPricingCard';
 import ActivityFAQ from '@/components/ActivityFAQ';
 import { HTMLContentFirstParagraph, HTMLContentRest } from '@/components/HTMLContentSplit';
 import ActivityBookingWidget from '@/components/booking/ActivityBookingWidget';
+import ActivitySeoSchemas from '@/components/seo/ActivitySeoSchemas';
 
 import destinationsData from '@/data/destinations-data.json';
 
@@ -48,6 +49,12 @@ interface ActivityClientPageProps {
 export default function ActivityClientPage({ activity, details, relatedActivities }: ActivityClientPageProps) {
   return (
     <main className="bg-primary min-h-screen font-sans text-gray-900 relative overflow-clip">
+      <ActivitySeoSchemas 
+        activity={activity} 
+        faqs={details.faqs} 
+        categoryName="Best things to do in Nairobi"
+        categoryUrl="https://lifeinnairobi.com/best-things-to-do-in-nairobi"
+      />
         {/* Sticky Background Images with Parallax/Float Effect */}
         <div className="hidden md:block fixed  opacity-30 top-36 left-30 w-[500px] h-[500px] pointer-events-none z-0  transform -translate-x-1/4 -translate-y-1/4">
         <Image
@@ -183,14 +190,14 @@ export default function ActivityClientPage({ activity, details, relatedActivitie
                 >
                   {/* Desktop View: Full List */}
                   <div className="block">
-                    <h3 className="text-2xl font-serif text-background font-medium mb-6">Itinerary</h3>
+                    <h2 className="text-2xl font-serif text-background font-medium mb-6">Itinerary</h2>
                     <div className="space-y-6 relative border-l-2 border-background ml-3 pl-8">
                       {details.itinerary.map((item: any, idx: number) => (
                         <div key={idx} className="relative">
                           <span className="absolute -left-[41px] top-0 bg-background text-primary w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold ring-4 ring-white">
                             {idx + 1}
                           </span>
-                          <h4 className="font-bold text-gray-900 text-lg mb-2">{item.title}</h4>
+                          <h3 className="font-bold text-gray-900 text-lg mb-2">{item.title}</h3>
                           <p className="text-gray-600 whitespace-pre-line ">{item.description}</p>
                         </div>
                       ))}

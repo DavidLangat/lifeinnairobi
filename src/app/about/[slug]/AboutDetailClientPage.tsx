@@ -69,7 +69,7 @@ export default function AboutDetailClientPage({ post }: AboutDetailClientPagePro
                 >
                     <div className="prose prose-lg max-w-none text-gray-600">
                         {post.content.subheading && (
-                             <h2 className="font-serif text-3xl text-background mb-6">{post.content.subheading}</h2>
+                             <h1 className="font-serif text-3xl text-background mb-6">{post.content.subheading}</h1>
                         )}
                        
                         {post.content.intro && (

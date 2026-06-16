@@ -12,6 +12,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "INTI - A Nikkei Experience",
+      "seodesc":"",
       "seo": "",
       "slug": "inti-a-nikkei-experience"
     },
@@ -24,6 +25,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Carnivore Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "the-carnivore-restaurant"
     },
@@ -36,6 +38,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Crave Kenya Kilimani",
+      "seodesc":"",
       "seo": "",
       "slug": "crave-kenya-kilimani"
     },
@@ -50,6 +53,7 @@
 
       "isActive": false,
       "name": "Jiko",
+      "seodesc":"",
       "seo": "",
       "slug": "jiko"
     },
@@ -62,6 +66,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Cultiva Farm Kenya",
+      "seodesc":"",
       "seo": "",
       "slug": "cultiva-farm-kenya"
     },
@@ -74,6 +79,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Trunk & Tandoor",
+      "seodesc":"",
       "seo": "",
       "slug": "trunk-tandoor"
     },
@@ -86,6 +92,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Slate - Kitchen & Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "slate-kitchen-bar"
     },
@@ -98,6 +105,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Ando Kitchens",
+      "seodesc":"",
       "seo": "",
       "slug": "ando-kitchens"
     },
@@ -110,6 +118,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "BangBang Thai Kitchen",
+      "seodesc":"",
       "seo": "",
       "slug": "bangbang-thai-kitchen"
     },
@@ -122,6 +131,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Barista & co",
+      "seodesc":"",
       "seo": "",
       "slug": "barista-co"
     },
@@ -134,6 +144,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Royal 58 Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "royal-58-restaurant"
     },
@@ -146,6 +157,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "TATU RESTAURANT",
+      "seodesc":"",
       "seo": "",
       "slug": "tatu-restaurant"
     },
@@ -158,6 +170,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Sayari - All Day Dining",
+      "seodesc":"",
       "seo": "",
       "slug": "sayari-all-day-dining"
     },
@@ -170,6 +183,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "The Talisman Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "the-talisman-restaurant"
     },
@@ -182,6 +196,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Harvest Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "harvest-restaurant"
     },
@@ -194,6 +209,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Meso - Modern Asian Izakaya",
+      "seodesc":"",
       "seo": "",
       "slug": "meso-modern-asian-izakaya"
     },
@@ -206,6 +222,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Troy Mediterranean Mezze & Roof Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "troy-mediterranean-mezze-roof-bar"
     },
@@ -218,6 +235,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Myna Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "myna-restaurant"
     },
@@ -230,6 +248,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Mawimbi Seafood Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "mawimbi-seafood-restaurant"
     },
@@ -242,6 +261,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Hero Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "hero-restaurant"
     },
@@ -254,6 +274,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Tamarind Brasserie",
+      "seodesc":"",
       "seo": "",
       "slug": "tamarind-brasserie"
     },
@@ -266,6 +287,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Mughal, Indian Cuisine Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "mughal-indian-cuisine-restaurant"
     },
@@ -278,6 +300,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mythos Taverna Nairobi",
+      "seodesc":"",
       "seo": "",
       "slug": "mythos-taverna-nairobi"
     },
@@ -290,6 +313,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Hide Steakhouse",
+      "seodesc":"",
       "seo": "",
       "slug": "the-hide-steakhouse"
     },
@@ -302,6 +326,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Hudson Tavern Bar & Grill",
+      "seodesc":"",
       "seo": "",
       "slug": "hudson-tavern-bar-grill"
     },
@@ -314,6 +339,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Upepo",
+      "seodesc":"",
       "seo": "",
       "slug": "upepo"
     },
@@ -326,6 +352,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Bambino x Meso Kitchen & Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "bambino-x-meso-kitchen-bar"
     },
@@ -338,6 +365,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Inca Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "inca-restaurant"
     },
@@ -350,6 +378,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Cjs - Imaara",
+      "seodesc":"",
       "seo": "",
       "slug": "cjs-imaara"
     },
@@ -362,6 +391,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Hellena's Kitchen",
+      "seodesc":"",
       "seo": "",
       "slug": "hellena-s-kitchen"
     },
@@ -374,6 +404,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "CJ's Koinange",
+      "seodesc":"",
       "seo": "",
       "slug": "cj-s-koinange"
     },
@@ -386,6 +417,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "CJ's - Village Market",
+      "seodesc":"",
       "seo": "",
       "slug": "cj-s-village-market"
     },
@@ -398,6 +430,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "beit é selam",
+      "seodesc":"",
       "seo": "",
       "slug": "beit-selam"
     },
@@ -410,6 +443,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The Aviary",
+      "seodesc":"",
       "seo": "",
       "slug": "the-aviary"
     },
@@ -422,6 +456,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Barbeque Nation",
+      "seodesc":"",
       "seo": "",
       "slug": "barbeque-nation"
     },
@@ -434,6 +469,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "K'Osewe Ranalo Foods",
+      "seodesc":"",
       "seo": "",
       "slug": "k-osewe-ranalo-foods"
     },
@@ -446,6 +482,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Café Maghreb",
+      "seodesc":"",
       "seo": "",
       "slug": "caf-maghreb"
     },
@@ -458,6 +495,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "The Lord Erroll",
+      "seodesc":"",
       "seo": "",
       "slug": "the-lord-erroll"
     },
@@ -470,6 +508,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "The Dispatch Grill Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "the-dispatch-grill-restaurant"
     },
@@ -482,6 +521,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Meko",
+      "seodesc":"",
       "seo": "",
       "slug": "meko"
     },
@@ -494,6 +534,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Ribs & Rhythm Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "ribs-rhythm-restaurant"
     },
@@ -506,6 +547,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Matteo's Italian Restaurant & Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "matteo-s-italian-restaurant-bar"
     },
@@ -518,6 +560,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Pride Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "pride-lounge"
     },
@@ -530,6 +573,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Copper The Urban Grill",
+      "seodesc":"",
       "seo": "",
       "slug": "copper-the-urban-grill"
     },
@@ -542,6 +586,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "270° Rooftop",
+      "seodesc":"",
       "seo": "",
       "slug": "270-rooftop"
     },
@@ -554,6 +599,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "The View",
+      "seodesc":"",
       "seo": "",
       "slug": "the-view"
     },
@@ -566,6 +612,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Chekafe Japanese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "chekafe-japanese-restaurant"
     },
@@ -578,6 +625,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Glow Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "glow-restaurant"
     },
@@ -590,6 +638,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Kahani",
+      "seodesc":"",
       "seo": "",
       "slug": "kahani"
     },
@@ -602,6 +651,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "About Thyme",
+      "seodesc":"",
       "seo": "",
       "slug": "about-thyme"
     },
@@ -614,6 +664,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Fifteen Rooftop",
+      "seodesc":"",
       "seo": "",
       "slug": "fifteen-rooftop"
     },
@@ -626,6 +677,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Humidor Bar & Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "humidor-bar-lounge"
     },
@@ -638,6 +690,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "SkateCity Nairobi",
+      "seodesc":"",
       "seo": "",
       "slug": "skatecity-nairobi"
     },
@@ -650,6 +703,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Mr. Pang Sky Bar And Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "mr-pang-sky-bar-and-lounge"
     },
@@ -662,6 +716,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Coficaf",
+      "seodesc":"",
       "seo": "",
       "slug": "coficaf"
     },
@@ -674,6 +729,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Enchanté Bistro",
+      "seodesc":"",
       "seo": "",
       "slug": "enchant-bistro"
     },
@@ -686,6 +742,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Habesha",
+      "seodesc":"",
       "seo": "",
       "slug": "habesha"
     },
@@ -698,6 +755,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Tamarind Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "tamarind-restaurant"
     },
@@ -710,6 +768,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Thai Chi By Sarova - Lavington",
+      "seodesc":"",
       "seo": "",
       "slug": "thai-chi-by-sarova-lavington"
     },
@@ -722,6 +781,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Cave À Manger",
+      "seodesc":"",
       "seo": "",
       "slug": "cave-manger"
     },
@@ -734,6 +794,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Zen Garden",
+      "seodesc":"",
       "seo": "",
       "slug": "zen-garden"
     },
@@ -746,6 +807,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "The Other Room Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "the-other-room-restaurant"
     },
@@ -758,6 +820,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "CJ's Waterfront",
+      "seodesc":"",
       "seo": "",
       "slug": "cj-s-waterfront"
     },
@@ -770,6 +833,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Ankole Grill Kilimani",
+      "seodesc":"",
       "seo": "",
       "slug": "ankole-grill-kilimani"
     },
@@ -782,6 +846,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Brew Bistro & Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "brew-bistro-lounge"
     },
@@ -794,6 +859,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "The Peacock Restaurant & Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "the-peacock-restaurant-bar"
     },
@@ -806,6 +872,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Asiatic",
+      "seodesc":"",
       "seo": "",
       "slug": "asiatic"
     },
@@ -818,6 +885,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Urban Eatery",
+      "seodesc":"",
       "seo": "",
       "slug": "urban-eatery"
     },
@@ -830,6 +898,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Fogo Gaucho Kilimani",
+      "seodesc":"",
       "seo": "",
       "slug": "fogo-gaucho-kilimani"
     },
@@ -842,6 +911,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "For You Chinese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "for-you-chinese-restaurant"
     },
@@ -854,6 +924,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Rift Valley Spur",
+      "seodesc":"",
       "seo": "",
       "slug": "rift-valley-spur"
     },
@@ -866,6 +937,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "CJs Kilimani",
+      "seodesc":"",
       "seo": "",
       "slug": "cjs-kilimani"
     },
@@ -878,6 +950,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Unseen Nairobi",
+      "seodesc":"",
       "seo": "",
       "slug": "unseen-nairobi"
     },
@@ -890,6 +963,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Three Dee Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "three-dee-restaurant"
     },
@@ -902,6 +976,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "La Salumeria",
+      "seodesc":"",
       "seo": "",
       "slug": "la-salumeria"
     },
@@ -914,6 +989,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Roots",
+      "seodesc":"",
       "seo": "",
       "slug": "roots"
     },
@@ -926,6 +1002,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Caviar",
+      "seodesc":"",
       "seo": "",
       "slug": "caviar"
     },
@@ -938,6 +1015,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Nairobi Street Kitchen",
+      "seodesc":"",
       "seo": "",
       "slug": "nairobi-street-kitchen"
     },
@@ -950,6 +1028,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Graze",
+      "seodesc":"",
       "seo": "",
       "slug": "graze"
     },
@@ -962,6 +1041,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Matbronze Cafe",
+      "seodesc":"",
       "seo": "",
       "slug": "matbronze-cafe"
     },
@@ -974,6 +1054,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Aksum Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "aksum-bar"
     },
@@ -986,6 +1067,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Rocomamas Sarit Centre",
+      "seodesc":"",
       "seo": "",
       "slug": "rocomamas-sarit-centre"
     },
@@ -998,6 +1080,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Flame Tree Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "flame-tree-restaurant"
     },
@@ -1010,6 +1093,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Open House Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "open-house-restaurant"
     },
@@ -1022,6 +1106,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Midi Café & Patisserie",
+      "seodesc":"",
       "seo": "",
       "slug": "midi-caf-patisserie"
     },
@@ -1034,6 +1119,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Tin Roof Cafe",
+      "seodesc":"",
       "seo": "",
       "slug": "tin-roof-cafe"
     },
@@ -1046,6 +1132,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "The Larder",
+      "seodesc":"",
       "seo": "",
       "slug": "the-larder"
     },
@@ -1058,6 +1145,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Simba Saloon",
+      "seodesc":"",
       "seo": "",
       "slug": "simba-saloon"
     },
@@ -1070,6 +1158,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Taste of China Restaurant TOC",
+      "seodesc":"",
       "seo": "",
       "slug": "taste-of-china-restaurant-toc"
     },
@@ -1082,6 +1171,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Misono",
+      "seodesc":"",
       "seo": "",
       "slug": "misono"
     },
@@ -1094,6 +1184,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Gemma's Cucina Italiana",
+      "seodesc":"",
       "seo": "",
       "slug": "gemma-s-cucina-italiana"
     },
@@ -1106,6 +1197,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Baladi Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "baladi-restaurant"
     },
@@ -1118,6 +1210,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Thorn Tree Cafe",
+      "seodesc":"",
       "seo": "",
       "slug": "thorn-tree-cafe"
     },
@@ -1130,6 +1223,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Chophouse Nairobi",
+      "seodesc":"",
       "seo": "",
       "slug": "chophouse-nairobi"
     },
@@ -1142,6 +1236,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "The Location Rooftop",
+      "seodesc":"",
       "seo": "",
       "slug": "the-location-rooftop"
     },
@@ -1154,6 +1249,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Ezo Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "ezo-restaurant"
     },
@@ -1166,6 +1262,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "The Grilll Shack Kenya",
+      "seodesc":"",
       "seo": "",
       "slug": "the-grilll-shack-kenya"
     },
@@ -1178,6 +1275,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "La Terrazza Italian Restaurant & Café",
+      "seodesc":"",
       "seo": "",
       "slug": "la-terrazza-italian-restaurant-caf"
     },
@@ -1190,6 +1288,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The Alchemist Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "the-alchemist-bar"
     },
@@ -1202,6 +1301,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Red Ginger",
+      "seodesc":"",
       "seo": "",
       "slug": "red-ginger"
     },
@@ -1214,6 +1314,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Haandi Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "haandi-restaurant"
     },
@@ -1226,6 +1327,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Hemingway's Brasserie Nairobi",
+      "seodesc":"",
       "seo": "",
       "slug": "hemingway-s-brasserie-nairobi"
     },
@@ -1238,6 +1340,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Hob House",
+      "seodesc":"",
       "seo": "",
       "slug": "hob-house"
     },
@@ -1250,6 +1353,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Seven Seafood & Grill",
+      "seodesc":"",
       "seo": "",
       "slug": "seven-seafood-grill"
     },
@@ -1262,6 +1366,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Pallet Cafe",
+      "seodesc":"",
       "seo": "",
       "slug": "pallet-cafe"
     },
@@ -1274,6 +1379,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Kilimanjaro Jamia",
+      "seodesc":"",
       "seo": "",
       "slug": "kilimanjaro-jamia"
     },
@@ -1286,6 +1392,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Mama Rocks Gourmet Burgers - Karen",
+      "seodesc":"",
       "seo": "",
       "slug": "mama-rocks-gourmet-burgers-karen"
     },
@@ -1298,6 +1405,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Gg's Italian Pizzeria",
+      "seodesc":"",
       "seo": "",
       "slug": "gg-s-italian-pizzeria"
     },
@@ -1310,6 +1418,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Furusato Japanese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "furusato-japanese-restaurant"
     },
@@ -1322,6 +1431,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Embark Dining",
+      "seodesc":"",
       "seo": "",
       "slug": "embark-dining"
     },
@@ -1334,6 +1444,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "La Villa Restaurant & Wine Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "la-villa-restaurant-wine-bar"
     },
@@ -1346,6 +1457,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Trattoria Ristorante & Pizzeria",
+      "seodesc":"",
       "seo": "",
       "slug": "trattoria-ristorante-pizzeria"
     },
@@ -1358,6 +1470,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "The Living Room",
+      "seodesc":"",
       "seo": "",
       "slug": "the-living-room"
     },
@@ -1370,6 +1483,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Abyssinia",
+      "seodesc":"",
       "seo": "",
       "slug": "abyssinia"
     },
@@ -1382,6 +1496,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Lord Delamere Terrace",
+      "seodesc":"",
       "seo": "",
       "slug": "lord-delamere-terrace"
     },
@@ -1394,6 +1509,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Lucca",
+      "seodesc":"",
       "seo": "",
       "slug": "lucca"
     },
@@ -1406,6 +1522,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Haru Japanese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "haru-japanese-restaurant"
     },
@@ -1418,6 +1535,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Fonda NBO",
+      "seodesc":"",
       "seo": "",
       "slug": "fonda-nbo"
     },
@@ -1430,6 +1548,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Karel T- Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "karel-t-lounge"
     },
@@ -1442,6 +1561,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Mama Rocks Gourmet Burgers - The Alchemist",
+      "seodesc":"",
       "seo": "",
       "slug": "mama-rocks-gourmet-burgers-the-alchemist"
     },
@@ -1454,6 +1574,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Herbs & Spices Restaurant By Nairobi Serena Hotel",
+      "seodesc":"",
       "seo": "",
       "slug": "herbs-spices-restaurant-by-nairobi-serena-hotel"
     },
@@ -1466,6 +1587,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "The Wine Shop Kenya",
+      "seodesc":"",
       "seo": "",
       "slug": "the-wine-shop-kenya"
     },
@@ -1478,6 +1600,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Dari Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "dari-restaurant"
     },
@@ -1490,6 +1613,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Artcaffe",
+      "seodesc":"",
       "seo": "",
       "slug": "artcaffe"
     },
@@ -1502,6 +1626,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Sakinas Bbq",
+      "seodesc":"",
       "seo": "",
       "slug": "sakinas-bbq"
     },
@@ -1514,6 +1639,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Tambourin",
+      "seodesc":"",
       "seo": "",
       "slug": "tambourin"
     },
@@ -1526,6 +1652,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Paul Caffe",
+      "seodesc":"",
       "seo": "",
       "slug": "paul-caffe"
     },
@@ -1538,6 +1665,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Mayura",
+      "seodesc":"",
       "seo": "",
       "slug": "the-mayura"
     },
@@ -1550,6 +1678,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Asian Gardens",
+      "seodesc":"",
       "seo": "",
       "slug": "asian-gardens"
     },
@@ -1562,6 +1691,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Papparoti",
+      "seodesc":"",
       "seo": "",
       "slug": "papparoti"
     },
@@ -1574,6 +1704,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Tokyo Japanese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "tokyo-japanese-restaurant"
     },
@@ -1586,6 +1717,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Nabo Bistro",
+      "seodesc":"",
       "seo": "",
       "slug": "nabo-bistro"
     },
@@ -1598,6 +1730,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Asmara Restaurant, Westlands",
+      "seodesc":"",
       "seo": "",
       "slug": "asmara-restaurant-westlands"
     },
@@ -1610,6 +1743,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Soaring Eagle Spur",
+      "seodesc":"",
       "seo": "",
       "slug": "soaring-eagle-spur"
     },
@@ -1622,6 +1756,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Roast by Carnivore",
+      "seodesc":"",
       "seo": "",
       "slug": "roast-by-carnivore"
     },
@@ -1634,6 +1769,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "The Mavericks Restaurant Syokimau",
+      "seodesc":"",
       "seo": "",
       "slug": "the-mavericks-restaurant-syokimau"
     },
@@ -1646,6 +1782,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Boho Eatery",
+      "seodesc":"",
       "seo": "",
       "slug": "boho-eatery"
     },
@@ -1658,6 +1795,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Pronto Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "pronto-restaurant"
     },
@@ -1670,6 +1808,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Al-yusra Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "al-yusra-restaurant"
     },
@@ -1682,6 +1821,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mama Oliech's Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "mama-oliech-s-restaurant"
     },
@@ -1694,6 +1834,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Bao Box",
+      "seodesc":"",
       "seo": "",
       "slug": "bao-box"
     },
@@ -1706,6 +1847,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "DAWN",
+      "seodesc":"",
       "seo": "",
       "slug": "dawn"
     },
@@ -1718,6 +1860,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Cotton Tree",
+      "seodesc":"",
       "seo": "",
       "slug": "cotton-tree"
     },
@@ -1730,6 +1873,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Ankole Grill Kitisuru",
+      "seodesc":"",
       "seo": "",
       "slug": "ankole-grill-kitisuru"
     },
@@ -1742,6 +1886,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Cedars",
+      "seodesc":"",
       "seo": "",
       "slug": "cedars"
     },
@@ -1754,6 +1899,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Peppertree",
+      "seodesc":"",
       "seo": "",
       "slug": "peppertree"
     },
@@ -1766,6 +1912,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Geco Cafe",
+      "seodesc":"",
       "seo": "",
       "slug": "geco-cafe"
     },
@@ -1778,6 +1925,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Muthaiga Country Club",
+      "seodesc":"",
       "seo": "",
       "slug": "muthaiga-country-club"
     },
@@ -1790,6 +1938,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Tin Tin Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "tin-tin-restaurant"
     },
@@ -1802,6 +1951,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Alloy Bar & Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "alloy-bar-lounge"
     },
@@ -1814,6 +1964,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The River Cafe - Karura",
+      "seodesc":"",
       "seo": "",
       "slug": "the-river-cafe-karura"
     },
@@ -1826,6 +1977,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Fogo Gaucho Mombasa Road",
+      "seodesc":"",
       "seo": "",
       "slug": "fogo-gaucho-mombasa-road"
     },
@@ -1838,6 +1990,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Sikia Fine Dining Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "sikia-fine-dining-restaurant"
     },
@@ -1850,6 +2003,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Kilele Nyama",
+      "seodesc":"",
       "seo": "",
       "slug": "kilele-nyama"
     },
@@ -1862,6 +2016,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Arbor Place",
+      "seodesc":"",
       "seo": "",
       "slug": "arbor-place"
     },
@@ -1874,6 +2029,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Mama Ashanti - Kenya",
+      "seodesc":"",
       "seo": "",
       "slug": "mama-ashanti-kenya"
     },
@@ -1886,6 +2042,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Havana Bar & Restaurante",
+      "seodesc":"",
       "seo": "",
       "slug": "havana-bar-restaurante"
     },
@@ -1898,6 +2055,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Eagle's The Steak House",
+      "seodesc":"",
       "seo": "",
       "slug": "eagle-s-the-steak-house"
     },
@@ -1910,6 +2068,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Panda Chinese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "panda-chinese-restaurant"
     },
@@ -1922,6 +2081,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Mandhari Fine Dining Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "mandhari-fine-dining-restaurant"
     },
@@ -1934,6 +2094,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Argenti Restaurant and Lounge Riverside",
+      "seodesc":"",
       "seo": "",
       "slug": "argenti-restaurant-and-lounge-riverside"
     },
@@ -1946,6 +2107,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Sky Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "sky-bar"
     },
@@ -1958,6 +2120,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "45 Degrees Kitchen",
+      "seodesc":"",
       "seo": "",
       "slug": "45-degrees-kitchen"
     },
@@ -1970,6 +2133,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Adventure Farm karen",
+      "seodesc":"",
       "seo": "",
       "slug": "adventure-farm-karen"
     },
@@ -1982,6 +2146,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "360 Degrees Pizza - ABC Place",
+      "seodesc":"",
       "seo": "",
       "slug": "360-degrees-pizza-abc-place"
     },
@@ -1994,6 +2159,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Chowpaty",
+      "seodesc":"",
       "seo": "",
       "slug": "chowpaty"
     },
@@ -2006,6 +2172,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Osteria del Chianti",
+      "seodesc":"",
       "seo": "",
       "slug": "osteria-del-chianti"
     },
@@ -2018,6 +2185,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Aero Club of East Africa Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "aero-club-of-east-africa-restaurant"
     },
@@ -2030,6 +2198,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Big Five Restaurant & Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "big-five-restaurant-bar"
     },
@@ -2042,6 +2211,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Mukutan Garden Cafe'",
+      "seodesc":"",
       "seo": "",
       "slug": "mukutan-garden-cafe"
     },
@@ -2054,6 +2224,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Garden Restaurant & Bar at Lotos Inn & Suites",
+      "seodesc":"",
       "seo": "",
       "slug": "the-garden-restaurant-bar-at-lotos-inn-suites"
     },
@@ -2066,6 +2237,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Capital Club",
+      "seodesc":"",
       "seo": "",
       "slug": "capital-club"
     },
@@ -2078,6 +2250,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Amaica The Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "amaica-the-restaurant"
     },
@@ -2090,6 +2263,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Cafe Deli Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "cafe-deli-restaurant"
     },
@@ -2102,6 +2276,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Bush Cayenne Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "bush-cayenne-restaurant"
     },
@@ -2114,6 +2289,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Wasp and Sprout",
+      "seodesc":"",
       "seo": "",
       "slug": "wasp-and-sprout"
     },
@@ -2126,6 +2302,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Zoneteria",
+      "seodesc":"",
       "seo": "",
       "slug": "zoneteria"
     },
@@ -2138,6 +2315,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Suave Kitchen & Social Club",
+      "seodesc":"",
       "seo": "",
       "slug": "suave-kitchen-social-club"
     },
@@ -2150,6 +2328,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "La Cantina - Ristopizza & Wine",
+      "seodesc":"",
       "seo": "",
       "slug": "la-cantina-ristopizza-wine"
     },
@@ -2162,6 +2341,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Marketplace",
+      "seodesc":"",
       "seo": "",
       "slug": "marketplace"
     },
@@ -2174,6 +2354,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Sushi Soo Japanese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "sushi-soo-japanese-restaurant"
     },
@@ -2186,6 +2367,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Anghiti Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "anghiti-restaurant"
     },
@@ -2198,6 +2380,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Pili Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "pili-restaurant"
     },
@@ -2210,6 +2393,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Phoenician",
+      "seodesc":"",
       "seo": "",
       "slug": "the-phoenician"
     },
@@ -2222,6 +2406,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Bamba",
+      "seodesc":"",
       "seo": "",
       "slug": "bamba"
     },
@@ -2234,6 +2419,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Sierra Brasserie",
+      "seodesc":"",
       "seo": "",
       "slug": "sierra-brasserie"
     },
@@ -2246,6 +2432,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Garam Masala By Chef Dayal",
+      "seodesc":"",
       "seo": "",
       "slug": "garam-masala-by-chef-dayal"
     },
@@ -2258,6 +2445,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Under The Radar",
+      "seodesc":"",
       "seo": "",
       "slug": "under-the-radar"
     },
@@ -2270,6 +2458,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "The Aura Restaurant Kilimani",
+      "seodesc":"",
       "seo": "",
       "slug": "the-aura-restaurant-kilimani"
     },
@@ -2282,6 +2471,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Gmc Choma Ranch And Pizzeria",
+      "seodesc":"",
       "seo": "",
       "slug": "gmc-choma-ranch-and-pizzeria"
     },
@@ -2294,6 +2484,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Rolf's Place",
+      "seodesc":"",
       "seo": "",
       "slug": "rolf-s-place"
     },
@@ -2306,6 +2497,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mister Wok Chinese Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "mister-wok-chinese-restaurant"
     },
@@ -2318,6 +2510,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Manor 540",
+      "seodesc":"",
       "seo": "",
       "slug": "the-manor-540"
     },
@@ -2330,6 +2523,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Sarabi Pool and Rooftop Bar",
+      "seodesc":"",
       "seo": "",
       "slug": "sarabi-pool-and-rooftop-bar"
     },
@@ -2342,6 +2536,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Soko Restaurant",
+      "seodesc":"",
       "seo": "",
       "slug": "soko-restaurant"
     },
@@ -2354,6 +2549,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Ocean Basket Kenya",
+      "seodesc":"",
       "seo": "",
       "slug": "ocean-basket-kenya"
     },
@@ -2366,6 +2562,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Romo House Restaurant and Lounge",
+      "seodesc":"",
       "seo": "",
       "slug": "romo-house-restaurant-and-lounge"
     },
@@ -2378,6 +2575,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Tandoori Patio",
+      "seodesc":"",
       "seo": "",
       "slug": "tandoori-patio"
     },
@@ -2390,6 +2588,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Artcaffe Westminster",
+      "seodesc":"",
       "seo": "",
       "slug": "artcaffe-westminster"
     },
@@ -2402,6 +2601,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "La Terrasse Karen",
+      "seodesc":"",
       "seo": "",
       "slug": "la-terrasse-karen"
     },
@@ -2414,6 +2614,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Mediterraneo",
+      "seodesc":"",
       "seo": "",
       "slug": "mediterraneo"
     },
@@ -2426,6 +2627,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Chez Sonia",
+      "seodesc":"",
       "seo": "",
       "slug": "chez-sonia"
     },
@@ -2438,6 +2640,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Kengeles Lavington Green",
+      "seodesc":"",
       "seo": "",
       "slug": "kengeles-lavington-green"
     },
@@ -2450,8 +2653,24 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Mezze on the Deck",
+      "seodesc":"",
       "seo": "",
       "slug": "mezze-on-the-deck"
+    },
+    {
+      "isActive": false,
+      "name": "Connect Coffee Museum Karen",
+      "image": "/image/destination-img-4.jpg",
+      "slug": "connect-coffee-museum-karen",
+      "contentHtml": "<p><span >Nestled in the heart of Karen, Nairobi, the Connect Coffee Museum is a unique destination where coffee, culture, and craftsmanship come together. Often referred to as the premier Karen Coffee Museum, this immersive space offers visitors a fascinating journey through the history of coffee, from bean to cup. Located on Miotoni Road, the Connect Coffee Museum combines an artisanal café, specialty coffee roastery, and interactive museum experience, making it one of the most distinctive attractions in Karen.</span></p><p><span >Visitors to the Coffee Museum Karen can explore antique brewing equipment, engaging coffee history displays, and live demonstrations that showcase the coffee-making process. Surrounded by lush gardens and thoughtfully designed industrial-modern architecture, the museum provides a tranquil setting for coffee lovers, tourists, remote workers, and families seeking an authentic Kenyan coffee experience.</span></p><p><span >The Karen Connect Coffee Museum is renowned for its expertly crafted specialty coffees, featuring premium Kenyan and Ethiopian blends roasted on-site. Guests can enjoy signature drinks such as Café Kilimanjaro, Almond Affogato, Chemex pour-overs, AeroPress brews, and artisan espresso creations. Beyond coffee, the menu includes freshly baked pastries, gourmet sandwiches, healthy salads, specialty teas, and indulgent desserts.</span></p><p><span >Whether you are looking for the best specialty coffee in Karen, a peaceful café with free Wi-Fi, a unique cultural attraction, or an educational coffee experience in Nairobi, Connect Coffee Museum offers an unforgettable destination. Open daily and complete with free parking, beautiful outdoor seating, and exceptional hospitality, it stands as one of the top coffee attractions in Kenya and a must-visit destination for anyone exploring Karen.</span></p><p><span></span></p>",
+      "seodesc":"Visit Connect Coffee Museum, Nairobi. Discover coffee history, artisan pastries, live coffee demonstrations, and a unique bean-to-cup experience. ",
+      "seo": "Connect Coffee Museum Karen | Specialty Coffee, Roastery & Coffee Museum Nairobi",
+      "category": "Restaurant | Museum",
+      "gallery": [
+        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
+      ]
+    
+
     }
   ]
 }

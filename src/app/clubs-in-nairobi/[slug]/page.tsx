@@ -11,7 +11,7 @@ interface ItemType {
     category: string;
     isActive?: boolean;
     contentHtml: string;
-    seo?: string;
+    metadesc?: string;
 }
 
 export async function generateStaticParams() {
@@ -31,18 +31,18 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
 
-    const titleStr = item.seo ? item.seo : item.name;
+    const descStr = item.metadesc ? item.metadesc : `Experience ${item.name} in Nairobi. ${item.category}`;
 
     return {
-        title: `${titleStr} | Places to Visit in Nairobi`,
-        description: `Experience ${item.name} in Nairobi. ${item.category}`,
-        keywords: [item.name, 'Nairobi', item.category, 'Limuru'],
+        title: `${item.name} | Places to Visit in Nairobi`,
+        description: descStr,
+        keywords: [item.name, 'Nairobi', item.category, 'Clubs in Nairobi'],
         alternates: {
             canonical: `https://nairobi.life/clubs-in-nairobi/${slug}`,
         },
         openGraph: {
-            title: `${titleStr} | Places to Visit in Nairobi`,
-            description: `Experience ${item.name} in Nairobi.`,
+            title: `${item.name} | Places to Visit in Nairobi`,
+            description: descStr,
             url: `https://nairobi.life/clubs-in-nairobi/${slug}`,
             type: 'website',
             images: [
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         twitter: {
             card: 'summary_large_image',
             title: item.name,
-            description: `Experience ${item.name} in Nairobi.`,
+            description: descStr,
             images: [item.image],
         },
     };

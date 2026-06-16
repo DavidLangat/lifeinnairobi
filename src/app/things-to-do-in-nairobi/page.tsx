@@ -16,13 +16,13 @@ export const metadata: Metadata = {
     "Day Trips from Nairobi",
   ],
   alternates: {
-    canonical: "https://nairobi.life/activities",
+    canonical: "https://nairobi.life/things-to-do-in-nairobi",
   },
   openGraph: {
     title: "Activities in Nairobi | Things to do in Nairobi",
     description:
       "Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences.",
-    url: "https://nairobi.life/activities",
+    url: "https://nairobi.life/things-to-do-in-nairobi",
     type: "website",
     images: [
       {
@@ -58,7 +58,7 @@ export default function ActivitiesPage() {
     title: item.name,
     subtitle: item.shortDescription || "Experience Nairobi",
     image: item.image,
-    href: `/things-to-do-in-nairobi/${
+    href: (item as any).externalLink || `/things-to-do-in-nairobi/${
       (item as any).slug ||
       item.name
         .toLowerCase()

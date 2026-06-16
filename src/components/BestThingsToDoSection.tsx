@@ -14,9 +14,9 @@ export default function DestinationsSection() {
 
         {/* Header - Left Aligned */}
         <div className="mb-6 space-y-2">
-          <h2 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background">
+          <h1 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background">
             {destinationsData.heading}
-          </h2>
+          </h1>
           <p className="text-gray-500 text-sm md:text-base leading-relaxed max-w-2xl">
             {destinationsData.description}
           </p>
@@ -45,7 +45,7 @@ export default function DestinationsSection() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-100 transition-opacity duration-300" />
 
                 {/* Content Container */}
-    <h3 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 capitalize leading-tight">
+    <h2 className="text-primary font-serif text-3xl mb-2 tracking-wide text-shadow-sm absolute bottom-18 left-8 right-8 capitalize leading-tight">
                         {(() => {
                           const words = (item.name as string)?.split(" ") ?? [];
                           if (words.length >= 3) {
@@ -58,7 +58,7 @@ export default function DestinationsSection() {
                           }
                           return item.name;
                         })()}
-                      </h3>                <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">
+                      </h2>                <div className="absolute inset-x-0 bottom-0 p-8 flex items-end justify-between">
 
                   {/* Left: Title & Location */}
                   <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300 pb-2">

@@ -3,6 +3,8 @@ import Script from "next/script";
 import { El_Messiri, Karla } from "next/font/google";
 import localFont from "next/font/local";
 import "./globals.css";
+import WhatsAppBubble from "@/components/WhatsAppBubble";
+import AutoRefresh from "@/components/AutoRefresh";
 
 const elMessiri = El_Messiri({
   variable: "--font-el-messiri",
@@ -84,6 +86,8 @@ export default function RootLayout({
           `}
         </Script>
         {children}
+        <WhatsAppBubble />
+        <AutoRefresh />
       </body>
     </html>
   );

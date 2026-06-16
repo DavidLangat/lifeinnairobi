@@ -27,12 +27,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: page.excerpt || `Read about ${page.title} in Nairobi.`,
       keywords: [page.title, 'Nairobi', 'Travel', 'Kenya'],
       alternates: {
-          canonical: `https://nairobi.life/about/${slug}`,
+          canonical: `https://nairobi.life/about-nairobi/${slug}`,
       },
       openGraph: {
           title: `${page.title} `,
           description: page.excerpt || `Read about ${page.title} in Nairobi.`,
-          url: `https://nairobi.life/about/${slug}`,
+          url: `https://nairobi.life/about-nairobi/${slug}`,
           type: 'article',
           images: [
               {

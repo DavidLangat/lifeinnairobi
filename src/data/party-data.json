@@ -12,10 +12,9 @@
       "image": "/image/k1clubhouse.jpeg",
       "isActive": false,
       "name": "K1 Klub House",
-      "seo": "",
+      "metadesc": "Experience K1 Klub House in Nairobi with live music, vibrant nightlife, great food, and a lively outdoor atmosphere for unforgettable nights.",
       "slug": "k1-klub-house"
     },
-
     {
       "category": "Rooftop Restaurant & Nightlife Lounge",
       "contentHtml": "<p><span>40Forty Lounge is an upscale rooftop restaurant and nightlife destination located at Stellato Mall in Westlands, Nairobi. Positioned on the top floor, it offers sweeping 360-degree views of the city skyline, making it one of the most visually striking venues in Nairobi for both daytime relaxation and nighttime entertainment.</span></p><p><span>The lounge is known for its stylish “urban retro” ambiance, combining contemporary design with a vibrant social atmosphere that appeals to a mature, outgoing crowd. During the early evening, the space functions as a relaxed rooftop restaurant ideal for sundowners and casual meetings, while later in the night it transforms into a high-energy lounge with music, dancing, and a lively party scene.</span></p><p><span>A major highlight of 40Forty Lounge is its panoramic rooftop setting, which provides uninterrupted views of Westlands and the greater Nairobi skyline. As the sun sets, the venue becomes especially popular for its scenic backdrop, creating an ideal environment for dates, group outings, and social gatherings centered around the city’s night views.</span></p><p><span>Entertainment plays a central role in the experience, with regular DJ performances, themed nights, and occasional live acts that keep the energy high throughout the week. Weekends are particularly busy, attracting a fashionable crowd of young professionals, expats, and nightlife enthusiasts looking for a premium rooftop party atmosphere.</span></p><p><span>The dining offering focuses on international cuisine and shareable finger foods, making it suitable for both light meals and social dining. The menu is complemented by a well-stocked bar featuring a wide range of spirits, fine wines, and signature cocktails. Daily happy hour promotions make it a popular spot for after-work drinks, especially among professionals in the Westlands area.</span></p><p><span>The crowd and overall experience are centered around a “see and be seen” culture, with guests typically dressing in smart-casual to upscale attire to match the venue’s stylish environment. The energy builds steadily into the night, with peak hours occurring late in the evening when the music and dancefloor take over.</span></p><p><span>Located in Westlands, the lounge is easily accessible and surrounded by other entertainment venues, hotels, and restaurants. Visitors are advised to use ride-hailing services such as Uber or Bolt during peak hours for convenience, as parking in the area can be limited.</span></p><p><span>For those searching for rooftop lounges in Nairobi, nightlife spots in Westlands with city views, or upscale bars with music and ambiance, 40Forty Lounge offers a dynamic experience that blends dining, entertainment, and panoramic scenery in one elevated setting.</span></p><p><span></span></p>",
@@ -25,7 +24,7 @@
       "image": "/image/40club.jpeg",
       "isActive": false,
       "name": "40Forty Lounge",
-      "seo": "",
+      "metadesc": "Experience 40Forty Lounge Nairobi with rooftop views, vibrant nightlife, great music, cocktails, and a stylish social atmosphere in the city.",
       "slug": "40forty-lounge"
     },
     {
@@ -37,7 +36,7 @@
       "image": "/image/milan.jpeg",
       "isActive": false,
       "name": "Milan",
-      "seo": "",
+      "metadesc": "Experience Milan Club Nairobi with vibrant nightlife, DJ music, cocktails, and a high-energy atmosphere perfect for unforgettable city nights.",
       "slug": "milan"
     },
     {
@@ -49,7 +48,7 @@
       "image": "/image/alchemist.jpeg",
       "isActive": false,
       "name": "The Alchemist",
-      "seo": "",
+      "metadesc": "Experience The Alchemist Nairobi, a vibrant creative space with live music, food trucks, cocktails, art, and a lively social nightlife scene.",
       "slug": "the-alchemist"
     },
     {
@@ -61,7 +60,7 @@
       "image": "/image/BlackSamurai.jpeg",
       "isActive": false,
       "name": "Black Samurai Lounge",
-      "seo": "",
+      "metadesc": "Experience Black Samurai Lounge Nairobi with stylish nightlife, signature cocktails, DJ music, and a vibrant upscale party atmosphere in the city.",
       "slug": "black-samurai-lounge"
     },
     {
@@ -73,7 +72,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Club Gemini",
-      "seo": "",
+      "metadesc": "",
       "slug": "club-gemini"
     },
     {
@@ -85,7 +84,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "213 Lavington",
-      "seo": "",
+      "metadesc": "",
       "slug": "213-lavington"
     },
     {
@@ -97,7 +96,7 @@
       "image": "/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Club City Space",
-      "seo": "",
+      "metadesc": "",
       "slug": "club-city-space"
     },
     {
@@ -109,7 +108,7 @@
       "image": "/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Quiver lounge Mombasa RD",
-      "seo": "",
+      "metadesc": "",
       "slug": "quiver-lounge-mombasa-rd"
     },
     {
@@ -121,7 +120,7 @@
       "image": "/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Club Signature",
-      "seo": "",
+      "metadesc": "",
       "slug": "club-signature"
     },
     {
@@ -133,7 +132,7 @@
       "image": "/image/ngong-hills.jpg",
       "isActive": false,
       "name": "AL CAPONE LOUNGE",
-      "seo": "",
+      "metadesc": "",
       "slug": "al-capone-lounge"
     },
     {
@@ -145,7 +144,7 @@
       "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Florida Night Club",
-      "seo": "",
+      "metadesc": "",
       "slug": "florida-night-club"
     },
     {
@@ -157,7 +156,7 @@
       "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "XS Millionaires Club",
-      "seo": "",
+      "metadesc": "",
       "slug": "xs-millionaires-club"
     },
     {
@@ -169,7 +168,7 @@
       "image": "/image/destination-img-0.jpg",
       "isActive": false,
       "name": "City Platinum Club",
-      "seo": "",
+      "metadesc": "",
       "slug": "city-platinum-club"
     },
     {
@@ -181,7 +180,7 @@
       "image": "/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Sixtyfour Restaurant & Lounge",
-      "seo": "",
+      "metadesc": "",
       "slug": "sixtyfour-restaurant-lounge"
     },
     {
@@ -193,7 +192,7 @@
       "image": "/image/destination-img-11.jpg",
       "isActive": false,
       "name": "CLUB AMICAH",
-      "seo": "",
+      "metadesc": "",
       "slug": "club-amicah"
     },
     {
@@ -205,7 +204,7 @@
       "image": "/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Bla Bla Nairobi",
-      "seo": "",
+      "metadesc": "",
       "slug": "bla-bla-nairobi"
     },
     {
@@ -217,7 +216,7 @@
       "image": "/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Scratch Bar",
-      "seo": "",
+      "metadesc": "",
       "slug": "scratch-bar"
     },
     {
@@ -229,7 +228,7 @@
       "image": "/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Exchange Bar",
-      "seo": "",
+      "metadesc": "",
       "slug": "exchange-bar"
     },
     {
@@ -241,7 +240,7 @@
       "image": "/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Sky Lounge at Emara Ole Sereni",
-      "seo": "",
+      "metadesc": "",
       "slug": "sky-lounge-at-emara-ole-sereni"
     }
   ]

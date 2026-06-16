@@ -64,9 +64,9 @@ export default function CategoryClientPage({ item, relatedItems, basePath, categ
                 >
                     {/* title */}
                     {item.name && (
-                        <h2 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background mb-4">
+                        <h1 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background mb-4">
                             {item.name}
-                        </h2>
+                        </h1>
                     )}
 
                     <div className="prose prose-lg max-w-none text-gray-600 font-open-sans">
