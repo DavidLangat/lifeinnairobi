@@ -24,13 +24,17 @@ jobs:
       - name: Build Project
         run: npm run build
 
-      - name: Deploy to cPanel via SCP
-        uses: appleboy/scp-action@master
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
         with:
-          host: ${{ secrets.CPANEL_HOST }}
-          username: ${{ secrets.CPANEL_USERNAME }}
-          port: ${{ secrets.CPANEL_PORT }}
-          key: ${{ secrets.CPANEL_SSH_KEY }}
-          source: "out/"
-          target: "public_html/test"
-          strip_components: 1
+          ssh-private-key: ${{ secrets.CPANEL_SSH_KEY }}
+
+      - name: Deploy to cPanel via SFTP
+        run: |
+          sudo apt-get update && sudo apt-get install lftp -y
+          lftp -c "
+          set sftp:auto-confirm yes
+          set sftp:connect-program 'ssh -a -x -p ${{ secrets.CPANEL_PORT }} -o StrictHostKeyChecking=no -o PubkeyAcceptedKeyTypes=+ssh-rsa'
+          open sftp://${{ secrets.CPANEL_USERNAME }}@${{ secrets.CPANEL_HOST }}
+          mirror -R --delete --parallel=10 out/ public_html/test
+          "
