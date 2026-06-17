@@ -24,16 +24,13 @@ jobs:
       - name: Build Project
         run: npm run build
 
-      - name: Setup SSH
-        uses: webfactory/ssh-agent@v0.9.0
+      - name: Deploy to cPanel via SCP
+        uses: appleboy/scp-action@master
         with:
-          ssh-private-key: ${{ secrets.CPANEL_SSH_KEY }}
-
-      - name: Add cPanel to known_hosts
-        run: |
-          mkdir -p ~/.ssh
-          ssh-keyscan -p ${{ secrets.CPANEL_PORT }} -H ${{ secrets.CPANEL_HOST }} >> ~/.ssh/known_hosts
-
-      - name: Deploy via Rsync
-        run: |
-          rsync -avz --delete -e "ssh -p ${{ secrets.CPANEL_PORT }} -o StrictHostKeyChecking=no -o PubkeyAcceptedKeyTypes=+ssh-rsa" out/ ${{ secrets.CPANEL_USERNAME }}@${{ secrets.CPANEL_HOST }}:public_html/test
+          host: ${{ secrets.CPANEL_HOST }}
+          username: ${{ secrets.CPANEL_USERNAME }}
+          port: ${{ secrets.CPANEL_PORT }}
+          key: ${{ secrets.CPANEL_SSH_KEY }}
+          source: "out/"
+          target: "public_html/test"
+          strip_components: 1
