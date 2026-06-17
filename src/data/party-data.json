@@ -9,7 +9,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/k1clubhouse.jpeg",
+      "image": "https://nairobi.life/image/k1clubhouse.jpeg",
       "isActive": false,
       "name": "K1 Klub House",
       "metadesc": "Experience K1 Klub House in Nairobi with live music, vibrant nightlife, great food, and a lively outdoor atmosphere for unforgettable nights.",
@@ -21,7 +21,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/40club.jpeg",
+      "image": "https://nairobi.life/image/40club.jpeg",
       "isActive": false,
       "name": "40Forty Lounge",
       "metadesc": "Experience 40Forty Lounge Nairobi with rooftop views, vibrant nightlife, great music, cocktails, and a stylish social atmosphere in the city.",
@@ -33,7 +33,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/milan.jpeg",
+      "image": "https://nairobi.life/image/milan.jpeg",
       "isActive": false,
       "name": "Milan",
       "metadesc": "Experience Milan Club Nairobi with vibrant nightlife, DJ music, cocktails, and a high-energy atmosphere perfect for unforgettable city nights.",
@@ -45,7 +45,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/alchemist.jpeg",
+      "image": "https://nairobi.life/image/alchemist.jpeg",
       "isActive": false,
       "name": "The Alchemist",
       "metadesc": "Experience The Alchemist Nairobi, a vibrant creative space with live music, food trucks, cocktails, art, and a lively social nightlife scene.",
@@ -57,7 +57,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/BlackSamurai.jpeg",
+      "image": "https://nairobi.life/image/BlackSamurai.jpeg",
       "isActive": false,
       "name": "Black Samurai Lounge",
       "metadesc": "Experience Black Samurai Lounge Nairobi with stylish nightlife, signature cocktails, DJ music, and a vibrant upscale party atmosphere in the city.",
@@ -69,7 +69,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Club Gemini",
       "metadesc": "",
@@ -81,7 +81,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "213 Lavington",
       "metadesc": "",
@@ -93,7 +93,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Club City Space",
       "metadesc": "",
@@ -105,7 +105,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Quiver lounge Mombasa RD",
       "metadesc": "",
@@ -117,7 +117,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Club Signature",
       "metadesc": "",
@@ -129,7 +129,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "AL CAPONE LOUNGE",
       "metadesc": "",
@@ -141,7 +141,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Florida Night Club",
       "metadesc": "",
@@ -153,7 +153,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "XS Millionaires Club",
       "metadesc": "",
@@ -165,7 +165,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "City Platinum Club",
       "metadesc": "",
@@ -177,7 +177,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Sixtyfour Restaurant & Lounge",
       "metadesc": "",
@@ -189,7 +189,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "CLUB AMICAH",
       "metadesc": "",
@@ -201,7 +201,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Bla Bla Nairobi",
       "metadesc": "",
@@ -213,7 +213,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Scratch Bar",
       "metadesc": "",
@@ -225,7 +225,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Exchange Bar",
       "metadesc": "",
@@ -237,7 +237,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Sky Lounge at Emara Ole Sereni",
       "metadesc": "",

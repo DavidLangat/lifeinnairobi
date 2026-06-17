@@ -9,10 +9,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "INTI - A Nikkei Experience",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "inti-a-nikkei-experience"
     },
@@ -22,10 +22,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Carnivore Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-carnivore-restaurant"
     },
@@ -35,25 +35,25 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Crave Kenya Kilimani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "crave-kenya-kilimani"
     },
- 
+
     {
       "category": "Restaurant / Fine Dining",
       "contentHtml": "<p>Jiko Restaurant Nairobi is an upscale dining destination located within the Tribe Hotel at the Village Market in the Gigiri area. Known for its refined ambiance and culinary creativity, the restaurant offers an “Africa-forward” menu that celebrates local ingredients and traditional cooking techniques with a modern twist.</p><p>The restaurant’s atmosphere is <strong>contemporary, elegant, and family-friendly</strong>, designed to provide a relaxed yet sophisticated dining experience. Guests are encouraged to follow a <strong>smart, modest dress code</strong>, reflecting the upscale nature of the venue while maintaining a welcoming environment.</p><p>Jiko Restaurant Nairobi’s menu focuses on <strong>grilled dishes and fresh, locally inspired cuisine</strong>, highlighting African flavors in a modern presentation. Signature offerings include a variety of expertly prepared meats and seafood, particularly <strong>prawns and other coastal selections</strong>, alongside creative side dishes such as crispy sweet potato fries.</p><p>One of the most popular experiences at Jiko Restaurant Nairobi is its <strong>Sunday brunch</strong>, which is widely regarded as one of the best in the city. The brunch combines a diverse food selection with <strong>live music and bottomless cocktails</strong>, creating a vibrant yet relaxed social setting that attracts both locals and visitors.</p><p>The restaurant benefits from its prime location in Gigiri, a district known for its diplomatic presence and secure environment. Being within the Village Market complex provides guests with access to a wide range of shopping, entertainment, and leisure options before or after dining.</p><p>Service at Jiko Restaurant Nairobi is consistently described as <strong>professional and attentive</strong>, contributing to a polished and enjoyable dining experience. The combination of high-quality food, ambiance, and service positions it as a strong choice for both casual upscale dining and special occasions.</p><p>The overall atmosphere at Jiko Restaurant Nairobi is refined, culturally inspired, and inviting, offering a modern interpretation of African cuisine in a premium setting.</p><p>For those searching for <strong>fine dining restaurants in Gigiri Nairobi, Sunday brunch spots near Village Market, or African-inspired cuisine in Nairobi</strong>, Jiko Restaurant Nairobi stands out as a distinctive and well-regarded option.</p>",
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-            "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
 
       "isActive": false,
       "name": "Jiko",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "jiko"
     },
@@ -63,10 +63,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Cultiva Farm Kenya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cultiva-farm-kenya"
     },
@@ -76,10 +76,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Trunk & Tandoor",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "trunk-tandoor"
     },
@@ -89,10 +89,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Slate - Kitchen & Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "slate-kitchen-bar"
     },
@@ -102,10 +102,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Ando Kitchens",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ando-kitchens"
     },
@@ -115,10 +115,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "BangBang Thai Kitchen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "bangbang-thai-kitchen"
     },
@@ -128,10 +128,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Barista & co",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "barista-co"
     },
@@ -141,10 +141,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Royal 58 Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "royal-58-restaurant"
     },
@@ -154,10 +154,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "TATU RESTAURANT",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tatu-restaurant"
     },
@@ -167,10 +167,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Sayari - All Day Dining",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sayari-all-day-dining"
     },
@@ -180,10 +180,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "The Talisman Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-talisman-restaurant"
     },
@@ -193,10 +193,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Harvest Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "harvest-restaurant"
     },
@@ -206,10 +206,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Meso - Modern Asian Izakaya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "meso-modern-asian-izakaya"
     },
@@ -219,10 +219,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Troy Mediterranean Mezze & Roof Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "troy-mediterranean-mezze-roof-bar"
     },
@@ -232,10 +232,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Myna Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "myna-restaurant"
     },
@@ -245,10 +245,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Mawimbi Seafood Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mawimbi-seafood-restaurant"
     },
@@ -258,10 +258,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Hero Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "hero-restaurant"
     },
@@ -271,10 +271,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Tamarind Brasserie",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tamarind-brasserie"
     },
@@ -284,10 +284,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Mughal, Indian Cuisine Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mughal-indian-cuisine-restaurant"
     },
@@ -297,10 +297,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mythos Taverna Nairobi",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mythos-taverna-nairobi"
     },
@@ -310,10 +310,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Hide Steakhouse",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-hide-steakhouse"
     },
@@ -323,10 +323,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Hudson Tavern Bar & Grill",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "hudson-tavern-bar-grill"
     },
@@ -336,10 +336,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Upepo",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "upepo"
     },
@@ -349,10 +349,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Bambino x Meso Kitchen & Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "bambino-x-meso-kitchen-bar"
     },
@@ -362,10 +362,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Inca Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "inca-restaurant"
     },
@@ -375,10 +375,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Cjs - Imaara",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cjs-imaara"
     },
@@ -388,10 +388,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Hellena's Kitchen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "hellena-s-kitchen"
     },
@@ -401,10 +401,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "CJ's Koinange",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cj-s-koinange"
     },
@@ -414,10 +414,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "CJ's - Village Market",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cj-s-village-market"
     },
@@ -427,10 +427,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "beit é selam",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "beit-selam"
     },
@@ -440,10 +440,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The Aviary",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-aviary"
     },
@@ -453,10 +453,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Barbeque Nation",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "barbeque-nation"
     },
@@ -466,10 +466,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "K'Osewe Ranalo Foods",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "k-osewe-ranalo-foods"
     },
@@ -479,10 +479,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Café Maghreb",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "caf-maghreb"
     },
@@ -492,10 +492,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "The Lord Erroll",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-lord-erroll"
     },
@@ -505,10 +505,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "The Dispatch Grill Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-dispatch-grill-restaurant"
     },
@@ -518,10 +518,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Meko",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "meko"
     },
@@ -531,10 +531,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Ribs & Rhythm Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ribs-rhythm-restaurant"
     },
@@ -544,10 +544,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Matteo's Italian Restaurant & Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "matteo-s-italian-restaurant-bar"
     },
@@ -557,10 +557,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Pride Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "pride-lounge"
     },
@@ -570,10 +570,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Copper The Urban Grill",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "copper-the-urban-grill"
     },
@@ -583,10 +583,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "270° Rooftop",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "270-rooftop"
     },
@@ -596,10 +596,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "The View",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-view"
     },
@@ -609,10 +609,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Chekafe Japanese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "chekafe-japanese-restaurant"
     },
@@ -622,10 +622,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Glow Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "glow-restaurant"
     },
@@ -635,10 +635,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Kahani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "kahani"
     },
@@ -648,10 +648,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "About Thyme",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "about-thyme"
     },
@@ -661,10 +661,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Fifteen Rooftop",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "fifteen-rooftop"
     },
@@ -674,10 +674,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Humidor Bar & Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "humidor-bar-lounge"
     },
@@ -687,10 +687,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "SkateCity Nairobi",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "skatecity-nairobi"
     },
@@ -700,10 +700,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Mr. Pang Sky Bar And Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mr-pang-sky-bar-and-lounge"
     },
@@ -713,10 +713,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Coficaf",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "coficaf"
     },
@@ -726,10 +726,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Enchanté Bistro",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "enchant-bistro"
     },
@@ -739,10 +739,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Habesha",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "habesha"
     },
@@ -752,10 +752,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Tamarind Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tamarind-restaurant"
     },
@@ -765,10 +765,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Thai Chi By Sarova - Lavington",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "thai-chi-by-sarova-lavington"
     },
@@ -778,10 +778,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Cave À Manger",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cave-manger"
     },
@@ -791,10 +791,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Zen Garden",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "zen-garden"
     },
@@ -804,10 +804,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "The Other Room Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-other-room-restaurant"
     },
@@ -817,10 +817,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "CJ's Waterfront",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cj-s-waterfront"
     },
@@ -830,10 +830,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Ankole Grill Kilimani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ankole-grill-kilimani"
     },
@@ -843,10 +843,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Brew Bistro & Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "brew-bistro-lounge"
     },
@@ -856,10 +856,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "The Peacock Restaurant & Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-peacock-restaurant-bar"
     },
@@ -869,10 +869,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Asiatic",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "asiatic"
     },
@@ -882,10 +882,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Urban Eatery",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "urban-eatery"
     },
@@ -895,10 +895,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Fogo Gaucho Kilimani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "fogo-gaucho-kilimani"
     },
@@ -908,10 +908,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "For You Chinese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "for-you-chinese-restaurant"
     },
@@ -921,10 +921,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Rift Valley Spur",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "rift-valley-spur"
     },
@@ -934,10 +934,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "CJs Kilimani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cjs-kilimani"
     },
@@ -947,10 +947,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Unseen Nairobi",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "unseen-nairobi"
     },
@@ -960,10 +960,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Three Dee Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "three-dee-restaurant"
     },
@@ -973,10 +973,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "La Salumeria",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "la-salumeria"
     },
@@ -986,10 +986,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Roots",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "roots"
     },
@@ -999,10 +999,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Caviar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "caviar"
     },
@@ -1012,10 +1012,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Nairobi Street Kitchen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "nairobi-street-kitchen"
     },
@@ -1025,10 +1025,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Graze",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "graze"
     },
@@ -1038,10 +1038,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Matbronze Cafe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "matbronze-cafe"
     },
@@ -1051,10 +1051,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Aksum Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "aksum-bar"
     },
@@ -1064,10 +1064,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Rocomamas Sarit Centre",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "rocomamas-sarit-centre"
     },
@@ -1077,10 +1077,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Flame Tree Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "flame-tree-restaurant"
     },
@@ -1090,10 +1090,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Open House Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "open-house-restaurant"
     },
@@ -1103,10 +1103,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Midi Café & Patisserie",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "midi-caf-patisserie"
     },
@@ -1116,10 +1116,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Tin Roof Cafe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tin-roof-cafe"
     },
@@ -1129,10 +1129,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "The Larder",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-larder"
     },
@@ -1142,10 +1142,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Simba Saloon",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "simba-saloon"
     },
@@ -1155,10 +1155,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Taste of China Restaurant TOC",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "taste-of-china-restaurant-toc"
     },
@@ -1168,10 +1168,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Misono",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "misono"
     },
@@ -1181,10 +1181,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Gemma's Cucina Italiana",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "gemma-s-cucina-italiana"
     },
@@ -1194,10 +1194,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Baladi Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "baladi-restaurant"
     },
@@ -1207,10 +1207,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Thorn Tree Cafe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "thorn-tree-cafe"
     },
@@ -1220,10 +1220,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Chophouse Nairobi",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "chophouse-nairobi"
     },
@@ -1233,10 +1233,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "The Location Rooftop",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-location-rooftop"
     },
@@ -1246,10 +1246,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Ezo Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ezo-restaurant"
     },
@@ -1259,10 +1259,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "The Grilll Shack Kenya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-grilll-shack-kenya"
     },
@@ -1272,10 +1272,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "La Terrazza Italian Restaurant & Café",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "la-terrazza-italian-restaurant-caf"
     },
@@ -1285,10 +1285,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The Alchemist Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-alchemist-bar"
     },
@@ -1298,10 +1298,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Red Ginger",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "red-ginger"
     },
@@ -1311,10 +1311,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Haandi Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "haandi-restaurant"
     },
@@ -1324,10 +1324,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Hemingway's Brasserie Nairobi",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "hemingway-s-brasserie-nairobi"
     },
@@ -1337,10 +1337,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Hob House",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "hob-house"
     },
@@ -1350,10 +1350,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Seven Seafood & Grill",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "seven-seafood-grill"
     },
@@ -1363,10 +1363,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Pallet Cafe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "pallet-cafe"
     },
@@ -1376,10 +1376,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Kilimanjaro Jamia",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "kilimanjaro-jamia"
     },
@@ -1389,10 +1389,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Mama Rocks Gourmet Burgers - Karen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mama-rocks-gourmet-burgers-karen"
     },
@@ -1402,10 +1402,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Gg's Italian Pizzeria",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "gg-s-italian-pizzeria"
     },
@@ -1415,10 +1415,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Furusato Japanese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "furusato-japanese-restaurant"
     },
@@ -1428,10 +1428,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Embark Dining",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "embark-dining"
     },
@@ -1441,10 +1441,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "La Villa Restaurant & Wine Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "la-villa-restaurant-wine-bar"
     },
@@ -1454,10 +1454,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Trattoria Ristorante & Pizzeria",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "trattoria-ristorante-pizzeria"
     },
@@ -1467,10 +1467,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "The Living Room",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-living-room"
     },
@@ -1480,10 +1480,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Abyssinia",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "abyssinia"
     },
@@ -1493,10 +1493,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Lord Delamere Terrace",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "lord-delamere-terrace"
     },
@@ -1506,10 +1506,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Lucca",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "lucca"
     },
@@ -1519,10 +1519,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Haru Japanese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "haru-japanese-restaurant"
     },
@@ -1532,10 +1532,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Fonda NBO",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "fonda-nbo"
     },
@@ -1545,10 +1545,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Karel T- Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "karel-t-lounge"
     },
@@ -1558,10 +1558,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Mama Rocks Gourmet Burgers - The Alchemist",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mama-rocks-gourmet-burgers-the-alchemist"
     },
@@ -1571,10 +1571,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Herbs & Spices Restaurant By Nairobi Serena Hotel",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "herbs-spices-restaurant-by-nairobi-serena-hotel"
     },
@@ -1584,10 +1584,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "The Wine Shop Kenya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-wine-shop-kenya"
     },
@@ -1597,10 +1597,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Dari Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "dari-restaurant"
     },
@@ -1610,10 +1610,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Artcaffe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "artcaffe"
     },
@@ -1623,10 +1623,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Sakinas Bbq",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sakinas-bbq"
     },
@@ -1636,10 +1636,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Tambourin",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tambourin"
     },
@@ -1649,10 +1649,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Paul Caffe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "paul-caffe"
     },
@@ -1662,10 +1662,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Mayura",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-mayura"
     },
@@ -1675,10 +1675,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Asian Gardens",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "asian-gardens"
     },
@@ -1688,10 +1688,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Papparoti",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "papparoti"
     },
@@ -1701,10 +1701,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Tokyo Japanese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tokyo-japanese-restaurant"
     },
@@ -1714,10 +1714,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Nabo Bistro",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "nabo-bistro"
     },
@@ -1727,10 +1727,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Asmara Restaurant, Westlands",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "asmara-restaurant-westlands"
     },
@@ -1740,10 +1740,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Soaring Eagle Spur",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "soaring-eagle-spur"
     },
@@ -1753,10 +1753,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Roast by Carnivore",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "roast-by-carnivore"
     },
@@ -1766,10 +1766,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "The Mavericks Restaurant Syokimau",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-mavericks-restaurant-syokimau"
     },
@@ -1779,10 +1779,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Boho Eatery",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "boho-eatery"
     },
@@ -1792,10 +1792,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Pronto Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "pronto-restaurant"
     },
@@ -1805,10 +1805,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Al-yusra Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "al-yusra-restaurant"
     },
@@ -1818,10 +1818,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mama Oliech's Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mama-oliech-s-restaurant"
     },
@@ -1831,10 +1831,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Bao Box",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "bao-box"
     },
@@ -1844,10 +1844,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "DAWN",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "dawn"
     },
@@ -1857,10 +1857,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Cotton Tree",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cotton-tree"
     },
@@ -1870,10 +1870,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Ankole Grill Kitisuru",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ankole-grill-kitisuru"
     },
@@ -1883,10 +1883,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Cedars",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cedars"
     },
@@ -1896,10 +1896,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Peppertree",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "peppertree"
     },
@@ -1909,10 +1909,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Geco Cafe",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "geco-cafe"
     },
@@ -1922,10 +1922,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Muthaiga Country Club",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "muthaiga-country-club"
     },
@@ -1935,10 +1935,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Tin Tin Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tin-tin-restaurant"
     },
@@ -1948,10 +1948,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Alloy Bar & Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "alloy-bar-lounge"
     },
@@ -1961,10 +1961,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "The River Cafe - Karura",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-river-cafe-karura"
     },
@@ -1974,10 +1974,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Fogo Gaucho Mombasa Road",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "fogo-gaucho-mombasa-road"
     },
@@ -1987,10 +1987,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Sikia Fine Dining Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sikia-fine-dining-restaurant"
     },
@@ -2000,10 +2000,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Kilele Nyama",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "kilele-nyama"
     },
@@ -2013,10 +2013,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Arbor Place",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "arbor-place"
     },
@@ -2026,10 +2026,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Mama Ashanti - Kenya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mama-ashanti-kenya"
     },
@@ -2039,10 +2039,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Havana Bar & Restaurante",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "havana-bar-restaurante"
     },
@@ -2052,10 +2052,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Eagle's The Steak House",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "eagle-s-the-steak-house"
     },
@@ -2065,10 +2065,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Panda Chinese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "panda-chinese-restaurant"
     },
@@ -2078,10 +2078,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Mandhari Fine Dining Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mandhari-fine-dining-restaurant"
     },
@@ -2091,10 +2091,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Argenti Restaurant and Lounge Riverside",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "argenti-restaurant-and-lounge-riverside"
     },
@@ -2104,10 +2104,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Sky Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sky-bar"
     },
@@ -2117,10 +2117,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "45 Degrees Kitchen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "45-degrees-kitchen"
     },
@@ -2130,10 +2130,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Adventure Farm karen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "adventure-farm-karen"
     },
@@ -2143,10 +2143,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "360 Degrees Pizza - ABC Place",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "360-degrees-pizza-abc-place"
     },
@@ -2156,10 +2156,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Chowpaty",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "chowpaty"
     },
@@ -2169,10 +2169,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Osteria del Chianti",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "osteria-del-chianti"
     },
@@ -2182,10 +2182,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Aero Club of East Africa Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "aero-club-of-east-africa-restaurant"
     },
@@ -2195,10 +2195,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Big Five Restaurant & Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "big-five-restaurant-bar"
     },
@@ -2208,10 +2208,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Mukutan Garden Cafe'",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mukutan-garden-cafe"
     },
@@ -2221,10 +2221,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Garden Restaurant & Bar at Lotos Inn & Suites",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-garden-restaurant-bar-at-lotos-inn-suites"
     },
@@ -2234,10 +2234,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Capital Club",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "capital-club"
     },
@@ -2247,10 +2247,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Amaica The Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "amaica-the-restaurant"
     },
@@ -2260,10 +2260,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Cafe Deli Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "cafe-deli-restaurant"
     },
@@ -2273,10 +2273,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Bush Cayenne Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "bush-cayenne-restaurant"
     },
@@ -2286,10 +2286,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Wasp and Sprout",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "wasp-and-sprout"
     },
@@ -2299,10 +2299,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Zoneteria",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "zoneteria"
     },
@@ -2312,10 +2312,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Suave Kitchen & Social Club",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "suave-kitchen-social-club"
     },
@@ -2325,10 +2325,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "La Cantina - Ristopizza & Wine",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "la-cantina-ristopizza-wine"
     },
@@ -2338,10 +2338,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "Marketplace",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "marketplace"
     },
@@ -2351,10 +2351,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Sushi Soo Japanese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sushi-soo-japanese-restaurant"
     },
@@ -2364,10 +2364,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Anghiti Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "anghiti-restaurant"
     },
@@ -2377,10 +2377,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Pili Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "pili-restaurant"
     },
@@ -2390,10 +2390,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "The Phoenician",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-phoenician"
     },
@@ -2403,10 +2403,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Bamba",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "bamba"
     },
@@ -2416,10 +2416,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Sierra Brasserie",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sierra-brasserie"
     },
@@ -2429,10 +2429,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Garam Masala By Chef Dayal",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "garam-masala-by-chef-dayal"
     },
@@ -2442,10 +2442,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Under The Radar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "under-the-radar"
     },
@@ -2455,10 +2455,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "The Aura Restaurant Kilimani",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-aura-restaurant-kilimani"
     },
@@ -2468,10 +2468,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Gmc Choma Ranch And Pizzeria",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "gmc-choma-ranch-and-pizzeria"
     },
@@ -2481,10 +2481,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Rolf's Place",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "rolf-s-place"
     },
@@ -2494,10 +2494,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-6.jpg",
+      "image": "https://nairobi.life/image/destination-img-6.jpg",
       "isActive": false,
       "name": "Mister Wok Chinese Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mister-wok-chinese-restaurant"
     },
@@ -2507,10 +2507,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-8.jpg",
+      "image": "https://nairobi.life/image/destination-img-8.jpg",
       "isActive": false,
       "name": "The Manor 540",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "the-manor-540"
     },
@@ -2520,10 +2520,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "isActive": false,
       "name": "Sarabi Pool and Rooftop Bar",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "sarabi-pool-and-rooftop-bar"
     },
@@ -2533,10 +2533,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
       "isActive": false,
       "name": "Soko Restaurant",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "soko-restaurant"
     },
@@ -2546,10 +2546,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Ocean Basket Kenya",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "ocean-basket-kenya"
     },
@@ -2559,10 +2559,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-0.jpg",
+      "image": "https://nairobi.life/image/destination-img-0.jpg",
       "isActive": false,
       "name": "Romo House Restaurant and Lounge",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "romo-house-restaurant-and-lounge"
     },
@@ -2572,10 +2572,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Tandoori Patio",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "tandoori-patio"
     },
@@ -2585,10 +2585,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Artcaffe Westminster",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "artcaffe-westminster"
     },
@@ -2598,10 +2598,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "La Terrasse Karen",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "la-terrasse-karen"
     },
@@ -2611,10 +2611,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Mediterraneo",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mediterraneo"
     },
@@ -2624,10 +2624,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Chez Sonia",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "chez-sonia"
     },
@@ -2637,10 +2637,10 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "isActive": false,
       "name": "Kengeles Lavington Green",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "kengeles-lavington-green"
     },
@@ -2650,27 +2650,25 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "isActive": false,
       "name": "Mezze on the Deck",
-      "seodesc":"",
+      "seodesc": "",
       "seo": "",
       "slug": "mezze-on-the-deck"
     },
     {
       "isActive": false,
       "name": "Connect Coffee Museum Karen",
-      "image": "/image/destination-img-4.jpg",
+      "image": "https://nairobi.life/image/destination-img-4.jpg",
       "slug": "connect-coffee-museum-karen",
       "contentHtml": "<p><span >Nestled in the heart of Karen, Nairobi, the Connect Coffee Museum is a unique destination where coffee, culture, and craftsmanship come together. Often referred to as the premier Karen Coffee Museum, this immersive space offers visitors a fascinating journey through the history of coffee, from bean to cup. Located on Miotoni Road, the Connect Coffee Museum combines an artisanal café, specialty coffee roastery, and interactive museum experience, making it one of the most distinctive attractions in Karen.</span></p><p><span >Visitors to the Coffee Museum Karen can explore antique brewing equipment, engaging coffee history displays, and live demonstrations that showcase the coffee-making process. Surrounded by lush gardens and thoughtfully designed industrial-modern architecture, the museum provides a tranquil setting for coffee lovers, tourists, remote workers, and families seeking an authentic Kenyan coffee experience.</span></p><p><span >The Karen Connect Coffee Museum is renowned for its expertly crafted specialty coffees, featuring premium Kenyan and Ethiopian blends roasted on-site. Guests can enjoy signature drinks such as Café Kilimanjaro, Almond Affogato, Chemex pour-overs, AeroPress brews, and artisan espresso creations. Beyond coffee, the menu includes freshly baked pastries, gourmet sandwiches, healthy salads, specialty teas, and indulgent desserts.</span></p><p><span >Whether you are looking for the best specialty coffee in Karen, a peaceful café with free Wi-Fi, a unique cultural attraction, or an educational coffee experience in Nairobi, Connect Coffee Museum offers an unforgettable destination. Open daily and complete with free parking, beautiful outdoor seating, and exceptional hospitality, it stands as one of the top coffee attractions in Kenya and a must-visit destination for anyone exploring Karen.</span></p><p><span></span></p>",
-      "seodesc":"Visit Connect Coffee Museum, Nairobi. Discover coffee history, artisan pastries, live coffee demonstrations, and a unique bean-to-cup experience. ",
+      "seodesc": "Visit Connect Coffee Museum, Nairobi. Discover coffee history, artisan pastries, live coffee demonstrations, and a unique bean-to-cup experience. ",
       "seo": "Connect Coffee Museum Karen | Specialty Coffee, Roastery & Coffee Museum Nairobi",
       "category": "Restaurant | Museum",
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ]
-    
-
     }
   ]
 }

@@ -14,9 +14,9 @@ export default function DestinationsSection() {
 
         {/* Header - Left Aligned */}
         <div className="mb-6 space-y-2">
-          <h1 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background">
+          <h2 className="font-serif text-2xl md:text-3xl lg:text-4xl leading-tight text-background">
             {destinationsData.heading}
-          </h1>
+          </h2>
           <p className="text-gray-500 text-sm md:text-base leading-relaxed max-w-2xl">
             {destinationsData.description}
           </p>

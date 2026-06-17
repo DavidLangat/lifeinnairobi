@@ -9,7 +9,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Muthaigagolf.jpeg",
+      "image": "https://nairobi.life/image/Muthaigagolf.jpeg",
       "isActive": false,
       "name": "Muthaiga Golf Club",
       "slug": "muthaiga-golf-club",
@@ -21,7 +21,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Karencountryclub.jpeg",
+      "image": "https://nairobi.life/image/Karencountryclub.jpeg",
       "isActive": false,
       "name": "Karen Country Club",
       "slug": "karen-country-club",
@@ -33,7 +33,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/vetlabgolf.jpeg",
+      "image": "https://nairobi.life/image/vetlabgolf.jpeg",
       "isActive": false,
       "name": "Vetlab Sports Club",
       "slug": "vetlab-sports-club",
@@ -45,7 +45,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/royalgolf.jpeg",
+      "image": "https://nairobi.life/image/royalgolf.jpeg",
       "isActive": false,
       "name": "Royal Nairobi Golf Club",
       "slug": "royal-nairobi-golf-club",
@@ -57,7 +57,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/sigonaclub.jpeg",
+      "image": "https://nairobi.life/image/sigonaclub.jpeg",
       "isActive": false,
       "name": "Sigona Golf Club",
       "slug": "sigona-golf-club",
@@ -69,7 +69,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/windsor-golf-hotel-and.jpeg",
+      "image": "https://nairobi.life/image/windsor-golf-hotel-and.jpeg",
       "isActive": false,
       "name": "Windsor Golf Hotel & Country Club",
       "slug": "windsor-golf-hotel-country-club",
@@ -81,7 +81,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Limuru Country Club",
       "slug": "limuru-country-club",
@@ -93,7 +93,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/nairobiclub.jpeg",
+      "image": "https://nairobi.life/image/nairobiclub.jpeg",
       "isActive": false,
       "name": "Golf Park",
       "slug": "golf-park",
@@ -105,7 +105,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/kenyarailwaygolf.jpeg",
+      "image": "https://nairobi.life/image/kenyarailwaygolf.jpeg",
       "isActive": false,
       "name": "KENYA RAILWAY GOLF COURSE",
       "slug": "kenya-railway-golf-course",
@@ -117,7 +117,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/kiambugolfcourse.jpeg",
+      "image": "https://nairobi.life/image/kiambugolfcourse.jpeg",
       "isActive": false,
       "name": "KIAMBU Golf Course",
       "slug": "kiambu-golf-course",
@@ -129,7 +129,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Impalaclub.jpeg",
+      "image": "https://nairobi.life/image/Impalaclub.jpeg",
       "isActive": false,
       "name": "Impala Club",
       "slug": "impala-club",
@@ -141,7 +141,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Upperkabetegolf.jpeg",
+      "image": "https://nairobi.life/image/Upperkabetegolf.jpeg",
       "isActive": false,
       "name": "Upper Kabete Golf Course",
       "slug": "upper-kabete-golf-course",
@@ -153,7 +153,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/muthaigacountry.jpeg",
+      "image": "https://nairobi.life/image/muthaigacountry.jpeg",
       "isActive": false,
       "name": "Muthaiga Country Club",
       "slug": "muthaiga-country-club",
@@ -165,7 +165,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "isActive": false,
       "name": "Ruiru Sports Club",
       "slug": "ruiru-sports-club",
@@ -177,7 +177,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/migaagolf.jpeg",
+      "image": "https://nairobi.life/image/migaagolf.jpeg",
       "isActive": false,
       "name": "Migaa Golf Club",
       "slug": "migaa-golf-club",
@@ -189,7 +189,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "Nairobi Club",
       "slug": "nairobi-club",
@@ -201,7 +201,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "isActive": false,
       "name": "Parklands Sports Club",
       "slug": "parklands-sports-club",
@@ -213,7 +213,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/publicservice.jpeg",
+      "image": "https://nairobi.life/image/publicservice.jpeg",
       "isActive": false,
       "name": "Public Service Club",
       "slug": "public-service-club",
@@ -225,7 +225,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-2.jpg",
+      "image": "https://nairobi.life/image/destination-img-2.jpg",
       "isActive": false,
       "name": "Eastlands Country Club ECCO",
       "slug": "eastlands-country-club-ecco",
@@ -237,7 +237,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Ngong Race Course and Golf Park",
       "slug": "ngong-race-course-and-golf-park",

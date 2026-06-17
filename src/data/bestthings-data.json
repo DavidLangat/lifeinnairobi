@@ -121,7 +121,7 @@
           "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi."
         }
       ],
-      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
+      "image": "https://nairobi.life/image/Nairobi-National-Park-entry-fee.jpg",
       "practicalInfo": [],
       "pricing": {
         "nonResident": 0,
@@ -133,7 +133,7 @@
       "gallery": [
         {
           "alt": "Nairobi National Park",
-          "src": "/image/Nairobi-National-Park-entry-fee.jpg"
+          "src": "https://nairobi.life/image/Nairobi-National-Park-entry-fee.jpg"
         }
       ],
       "keyDetails": {
@@ -265,7 +265,7 @@
       "image": "https://davidlangat.github.io/tigoniimages/v2/activities/Tigoni%20E-bike%20Tours.jpeg"
     },
     {
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "price": 20,
       "faqs": [
         {
@@ -307,7 +307,7 @@
       },
       "gallery": [
         {
-          "src": "/image/Giraffe-Centre-Visit-scaled.jpg",
+          "src": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
           "alt": "Giraffe Centre"
         }
       ],

@@ -39,7 +39,7 @@
       "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
       "slug": "how-to-get-to-Nairobi",
       "excerpt": "Planning a trip to Nairobi? Here’s a simple guide on routes, public transport, and travel tips.",
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "imageAlt": "Winding road through tea fields",
       "imageAttribution": "",
       "href": "/blog/how-to-get-to-nairobi",
@@ -50,24 +50,24 @@
         "subheading": "Getting to Nairobi",
         "intro": "Nairobi is one of Africa’s most accessible cities, served by a major international airport, well-connected highways, and a wide range of public and private transport options. Depending on where you are coming from, getting into the city is generally straightforward and efficient.",
         "paragraphs": [
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
         ],
         "gallery": [
-           {
-             "src": "/image/destination-img-12.jpg",
-             "alt": "Car driving on a scenic road",
-             "attribution": "Photo by Road Tripper"
-           },
-           {
-             "src": "/image/destination-img-0.jpg",
-             "alt": "Public transport bus",
-             "attribution": "Photo by Commuter"
-           }
+          {
+            "src": "https://nairobi.life/image/destination-img-12.jpg",
+            "alt": "Car driving on a scenic road",
+            "attribution": "Photo by Road Tripper"
+          },
+          {
+            "src": "https://nairobi.life/image/destination-img-0.jpg",
+            "alt": "Public transport bus",
+            "attribution": "Photo by Commuter"
+          }
         ],
         "closing": "Safe travels! A beautiful escape awaits you just around the corner."
       }
@@ -87,20 +87,20 @@
         "subheading": "Unwind and Explore",
         "intro": "Nairobi is an outdoor lover's paradise, offering everything from adrenaline-pumping bike trails to serene tea farm tours.",
         "paragraphs": [
-           "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
-           "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
+          "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
+          "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
-             "alt": "Tea picking experience",
-             "attribution": "Photo by Farmer Joe"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Cheese tasting platter",
-             "attribution": "Photo by Foodie One"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
+            "alt": "Tea picking experience",
+            "attribution": "Photo by Farmer Joe"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Cheese tasting platter",
+            "attribution": "Photo by Foodie One"
+          }
         ],
         "closing": "Pack your walking shoes and a camera – you'll need both!"
       }
@@ -116,24 +116,24 @@
       "author": "Weather Watch",
       "date": "November 05, 2024",
       "category": "Tips",
-       "content": {
+      "content": {
         "subheading": "Chasing the Perfect Weather",
         "intro": "Nairobi enjoys a cool, temperate climate year-round, but some months are simply magical.",
         "paragraphs": [
-           "Jan to March is generally dry and sunny, perfect for outdoor picnics. The cooler months of June and July offer that distinct misty highland atmosphere, ideal for cozying up by a fireplace.",
-           "Avoid the heavy rains in April and November if you plan on doing a lot of hiking."
+          "Jan to March is generally dry and sunny, perfect for outdoor picnics. The cooler months of June and July offer that distinct misty highland atmosphere, ideal for cozying up by a fireplace.",
+          "Avoid the heavy rains in April and November if you plan on doing a lot of hiking."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Sunny picnic day",
-             "attribution": "Photo by Picnic Lover"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=2666&auto=format&fit=crop",
-             "alt": "Cozy fireplace",
-             "attribution": "Photo by Cozy Vibes"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Sunny picnic day",
+            "attribution": "Photo by Picnic Lover"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=2666&auto=format&fit=crop",
+            "alt": "Cozy fireplace",
+            "attribution": "Photo by Cozy Vibes"
+          }
         ],
         "closing": "Whenever you choose to visit, Nairobi's charm is perennial."
       }
@@ -186,18 +186,18 @@
         "subheading": "Navigating Your Way",
         "intro": "Located just 30 kilometers from Nairobi, getting to Nairobi is a breeze whether you're driving or taking public means.",
         "paragraphs": [
-           "The most scenic route is via Limuru Road, which winds through lush coffee and tea plantations. If you're using public transport, matatus from Koja Mosque in Nairobi CBD will drop you right at the Limuru town center.",
-           "We recommend starting your journey early in the morning to catch the misty sunrise that the region is famous for."
+          "The most scenic route is via Limuru Road, which winds through lush coffee and tea plantations. If you're using public transport, matatus from Koja Mosque in Nairobi CBD will drop you right at the Limuru town center.",
+          "We recommend starting your journey early in the morning to catch the misty sunrise that the region is famous for."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop",
-             "alt": "Driving route view"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Local transport"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop",
+            "alt": "Driving route view"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Local transport"
+          }
         ],
         "closing": "Safe travels! A beautiful escape awaits you just around the corner."
       }
@@ -215,18 +215,18 @@
         "subheading": "Unwind and Explore",
         "intro": "Nairobi is an outdoor lover's paradise, offering everything from adrenaline-pumping bike trails to serene tea farm tours.",
         "paragraphs": [
-           "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
-            "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
+          "Top of the list is visiting the Kiambethu Tea Farm for a history lesson and delicious lunch. For the active souls, the Brackenhurst forest trails offer miles of canopy walks and biking paths.",
+          "Don't miss out on the local cheese tasting tours which are rapidly becoming a weekend favorite for Nairobians."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
-             "alt": "Farm tour"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Food tasting"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop",
+            "alt": "Farm tour"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1504150558240-0b4fd8946624?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Food tasting"
+          }
         ],
         "closing": "Pack your walking shoes and a camera – you'll need both!"
       }
@@ -244,18 +244,18 @@
         "subheading": "Culinary Delights in the Mist",
         "intro": "There is nothing quite like a hot cup of coffee overlooking a mist-covered tea farm. Nairobi's culinary scene is growing fast.",
         "paragraphs": [
-           "From the rustic charm of The Fig & Olive to the sophisticated menu at The Pot at Panda, there are plenty of options. Most ingredients are locally sourced, ensuring the freshest farm-to-table experience.",
-           "Be sure to try the local Nairobi tea – it's world-renowned for a reason."
+          "From the rustic charm of The Fig & Olive to the sophisticated menu at The Pot at Panda, there are plenty of options. Most ingredients are locally sourced, ensuring the freshest farm-to-table experience.",
+          "Be sure to try the local Nairobi tea – it's world-renowned for a reason."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2694&auto=format&fit=crop",
-             "alt": "Coffee cup with view"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Cafe interior"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2694&auto=format&fit=crop",
+            "alt": "Coffee cup with view"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Cafe interior"
+          }
         ],
         "closing": "Bon appétit!"
       }
@@ -273,18 +273,18 @@
         "subheading": "Trails for Every Pace",
         "intro": "With its undulating hills and cool air, Nairobi is the perfect playground for cyclists and hikers.",
         "paragraphs": [
-           "The loops around the tea farms offer varying levels of difficulty. The 'Tea Route' is a popular 20km loop that takes you through the most scenic parts of the estate.",
-           "Always respect private property signs and stick to the designated public paths."
+          "The loops around the tea farms offer varying levels of difficulty. The 'Tea Route' is a popular 20km loop that takes you through the most scenic parts of the estate.",
+          "Always respect private property signs and stick to the designated public paths."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Cycling trail"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2670&auto=format&fit=crop",
-             "alt": "Hiking path"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Cycling trail"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2670&auto=format&fit=crop",
+            "alt": "Hiking path"
+          }
         ],
         "closing": "Ride safe and enjoy the view."
       }
@@ -302,18 +302,18 @@
         "subheading": "48 Hours in Paradise",
         "intro": "Need a break from the city noise? Here is how to spend a perfect 48 hours in Nairobi.",
         "paragraphs": [
-           "Day 1: Arrive early and check into one of the boutique cottages. Spend the afternoon on a tea farm tour. Dinner at a local farm-to-table restaurant is a must.",
-           "Day 2: Start with a sunrise hike or bike ride. Brunch at a garden café, followed by a visit to the local waterfalls before heading back to the city."
+          "Day 1: Arrive early and check into one of the boutique cottages. Spend the afternoon on a tea farm tour. Dinner at a local farm-to-table restaurant is a must.",
+          "Day 2: Start with a sunrise hike or bike ride. Brunch at a garden café, followed by a visit to the local waterfalls before heading back to the city."
         ],
         "gallery": [
-           {
-             "src": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=2649&auto=format&fit=crop",
-             "alt": "Boutique cottage"
-           },
-           {
-             "src": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2674&auto=format&fit=crop",
-             "alt": "Garden cafe"
-           }
+          {
+            "src": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=2649&auto=format&fit=crop",
+            "alt": "Boutique cottage"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2674&auto=format&fit=crop",
+            "alt": "Garden cafe"
+          }
         ],
         "closing": "You'll return to the city refreshed and ready for the week ahead."
       }

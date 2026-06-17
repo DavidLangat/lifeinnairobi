@@ -60,7 +60,7 @@ export default function CategoryListClientPage({
             title={heading}
             breadcrumb={breadcrumb}
             description={description}
-            backgroundImage="/image/bg2.jpg"
+            backgroundImage="https://nairobi.life/image/bg2.jpg"
           />
         </div>
 

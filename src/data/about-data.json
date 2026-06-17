@@ -3,7 +3,7 @@
     "title": "Nairobi",
     "breadcrumb": "About",
     "description": "",
-    "backgroundImage": "/image/bg.jpg"
+    "backgroundImage": "https://nairobi.life/image/bg.jpg"
   },
   "section": {
     "introduction": {
@@ -128,9 +128,7 @@
     },
     "ourRole": {
       "heading": "Our Role in Nairobi",
-      "text": [
-        "Visit Nairobi exists to:"
-      ],
+      "text": ["Visit Nairobi exists to:"],
       "list": [
         "Curate meaningful and well-structured experiences",
         "Provide clear, reliable information",
@@ -140,11 +138,11 @@
       "closingText": "We focus on presenting Nairobi as it is — a complex, evolving city shaped by history, geography, and the people who move through it."
     },
     "images": {
-      "image1": "/image/Giraffe-Centre-Visit-scaled.jpg",
-      "image2": "/image/destination-img-1.jpg",
-      "image3": "/image/bg2.jpg",
-      "image4": "/image/destination-img-2.jpg",
-      "image5": "/image/photo-1706083642707-63a4ed57d068.jpg"
+      "image1": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image2": "https://nairobi.life/image/destination-img-1.jpg",
+      "image3": "https://nairobi.life/image/bg2.jpg",
+      "image4": "https://nairobi.life/image/destination-img-2.jpg",
+      "image5": "https://nairobi.life/image/photo-1706083642707-63a4ed57d068.jpg"
     }
   },
   "pages": [
@@ -152,7 +150,7 @@
       "title": "History of Nairobi",
       "slug": "history-of-Nairobi",
       "excerpt": "A journey through time, exploring the colonial roots and agricultural heritage of Nairobi.",
-      "image": "/image/ngong-hills.jpg",
+      "image": "https://nairobi.life/image/ngong-hills.jpg",
       "imageAlt": "Colonial farmhouse in Nairobi",
       "imageAttribution": "Photo by History Archive",
       "href": "/about/history-of-Nairobi",
@@ -165,12 +163,12 @@
         ],
         "gallery": [
           {
-            "src": "/image/destination-img-3.jpg",
+            "src": "https://nairobi.life/image/destination-img-3.jpg",
             "alt": "Tea fields",
             "attribution": "Photo by Tea Estate"
           },
           {
-            "src": "/image/destination-img-4.jpg",
+            "src": "https://nairobi.life/image/destination-img-4.jpg",
             "alt": "Historic building",
             "attribution": "Photo by Heritage Trust"
           }
@@ -182,7 +180,7 @@
       "title": "Our Team",
       "slug": "our-team",
       "excerpt": "Meet the passionate individuals dedicated to showcasing the best of Nairobi.",
-      "image": "/image/destination-img-5.jpg",
+      "image": "https://nairobi.life/image/destination-img-5.jpg",
       "imageAlt": "Team meeting",
       "imageAttribution": "Photo by Business Team",
       "href": "/about/our-team",
@@ -195,12 +193,12 @@
         ],
         "gallery": [
           {
-            "src": "/image/destination-img-6.jpg",
+            "src": "https://nairobi.life/image/destination-img-6.jpg",
             "alt": "Guide pointing at view",
             "attribution": "Photo by Tour Guide"
           },
           {
-            "src": "/image/destination-img-8.jpg",
+            "src": "https://nairobi.life/image/destination-img-8.jpg",
             "alt": "Group hiking",
             "attribution": "Photo by Adventure Club"
           }
@@ -212,7 +210,7 @@
       "title": "How to Get to Nairobi: Routes, Transport & Travel Tips",
       "slug": "how-to-get-to-nairobi",
       "excerpt": "Planning a trip to Nairobi? Here’s a simple guide on routes, public transport, and travel tips.",
-      "image": "/image/destination-img-11.jpg",
+      "image": "https://nairobi.life/image/destination-img-11.jpg",
       "imageAlt": "Winding road through tea fields",
       "imageAttribution": "Photo by Sarah James",
       "href": "/about/how-to-get-to-nairobi",
@@ -220,24 +218,24 @@
         "subheading": "Getting to Nairobi",
         "intro": "Nairobi is one of Africa’s most accessible cities, served by a major international airport, well-connected highways, and a wide range of public and private transport options. Depending on where you are coming from, getting into the city is generally straightforward and efficient.",
         "paragraphs": [
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
-           "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Jomo Kenyatta International Airport (JKIA)</h3><p>The primary gateway into Nairobi is Jomo Kenyatta International Airport, located approximately 15 kilometers southeast of the city centre. It handles both international and domestic flights, making it the main arrival point for most visitors.</p><p class='mt-2'>From the airport, you can access the city via the Nairobi Expressway or Mombasa Road. Travel time to central Nairobi typically ranges from 20 to 45 minutes depending on traffic.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Nairobi Expressway</h3><p>The Nairobi Expressway is the fastest and most convenient route into the city from JKIA and along Mombasa Road. This elevated toll road significantly reduces travel time by bypassing heavy traffic areas.</p><p class='mt-2'>It is ideal for visitors heading to Westlands, Upper Hill, or the central business district, especially during peak hours.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Road (Major Highways)</h3><p>Nairobi is well connected to other regions in Kenya through major highways:</p><ul class='list-disc pl-5 mt-2 space-y-1 text-gray-600'><li><b>Mombasa Road (A109):</b> Connects Nairobi to the coast and JKIA.</li><li><b>Nairobi–Nakuru Highway (A104):</b> Ideal if travelling from Naivasha, Nakuru, or Western Kenya.</li><li><b>Thika Superhighway (A2):</b> Best for those coming from Thika and Central Kenya.</li></ul><p class='mt-2'>These highways feed directly into the city, though traffic congestion is common during morning and evening rush hours.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Via Standard Gauge Railway (SGR)</h3><p>For travelers coming from the coast, the Standard Gauge Railway offers a comfortable and reliable alternative. The train runs between Mombasa and Nairobi, arriving at the Nairobi Terminus in Syokimau.</p><p class='mt-2'>From there, you can take a commuter train, taxi, or ride-hailing service into the city centre.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Taxis & Ride-Hailing Services</h3><p>Nairobi has a wide range of taxis and ride-hailing options, including apps like Uber, Bolt, and Little Cab. These services are widely available throughout the city and at the airport.</p><p class='mt-2'>They offer a convenient way to move around, especially for first-time visitors unfamiliar with local routes.</p>",
+          "<h3 class='text-xl font-bold text-background mb-2'>Public Transport (Matatus & Buses)</h3><p>For a more local experience, Nairobi’s matatus (shared minibuses) and public buses operate extensively across the city and surrounding areas. While affordable, they can be crowded and less predictable, making them better suited for those familiar with the system.</p>"
         ],
         "gallery": [
-           {
-             "src": "/image/destination-img-12.jpg",
-             "alt": "Car driving on a scenic road",
-             "attribution": "Photo by Road Tripper"
-           },
-           {
-             "src": "/image/destination-img-0.jpg",
-             "alt": "Public transport bus",
-             "attribution": "Photo by Commuter"
-           }
+          {
+            "src": "https://nairobi.life/image/destination-img-12.jpg",
+            "alt": "Car driving on a scenic road",
+            "attribution": "Photo by Road Tripper"
+          },
+          {
+            "src": "https://nairobi.life/image/destination-img-0.jpg",
+            "alt": "Public transport bus",
+            "attribution": "Photo by Commuter"
+          }
         ],
         "closing": "Safe travels! A beautiful escape awaits you just around the corner."
       }
