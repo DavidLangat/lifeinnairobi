@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import React from "react";
 import destinationsData from "@/data/destinations-data.json";
+import bestThingsData from "@/data/bestthings-data.json";
 import ActivitiesClientPage from "./ActivitiesClientPage";
 
 export const metadata: Metadata = {
@@ -54,7 +55,20 @@ export const metadata: Metadata = {
 };
 
 export default function ActivitiesPage() {
-  const activities = destinationsData.items.map((item) => ({
+  const bestActivities = bestThingsData.items.map((item) => ({
+    title: item.name,
+    subtitle: item.shortDescription || "Experience Nairobi",
+    image: item.image,
+    href: (item as any).externalLink || `/best-things-to-do-in-nairobi/${
+      (item as any).slug ||
+      item.name
+        .toLowerCase()
+        .replace(/ /g, "-")
+        .replace(/[^\w-]+/g, "")
+    }`,
+  }));
+
+  const otherActivities = destinationsData.items.map((item) => ({
     title: item.name,
     subtitle: item.shortDescription || "Experience Nairobi",
     image: item.image,
@@ -66,6 +80,8 @@ export default function ActivitiesPage() {
         .replace(/[^\w-]+/g, "")
     }`,
   }));
+
+  const activities = [...bestActivities, ...otherActivities];
 
   return (
     <ActivitiesClientPage

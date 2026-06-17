@@ -41,7 +41,7 @@ export default function HomeClientPage({
       {/* Sticky Background Images with Parallax/Float Effect */}
       <div className="hidden md:block fixed  opacity-30 top-36 left-30 w-[500px] h-[500px] pointer-events-none z-0  transform -translate-x-1/4 -translate-y-1/4">
         <Image
-          src="https://ik.imagekit.io/lxn522qamc/tigonilife/v2/background/Artboard%20left.png"
+          src="https://davidlangat.github.io/tigoniimages/v2/background/Artboard%20left.png"
           alt="Decorative Flower"
           fill
           className="object-contain"
@@ -49,7 +49,7 @@ export default function HomeClientPage({
       </div>
       <div className="hidden md:block fixed  opacity-30 bottom-30 right-30 w-[500px] h-[500px] pointer-events-none z-0  transform translate-x-1/4 translate-y-1/4">
         <Image
-          src="https://ik.imagekit.io/lxn522qamc/tigonilife/v2/background/Artboard%20Right%20Bottom.png"
+          src="https://davidlangat.github.io/tigoniimages/v2/background/Artboard%20Right%20Bottom.png"
           alt="Decorative Flower"
           fill
           className="object-contain"
@@ -80,12 +80,27 @@ export default function HomeClientPage({
           data={otherDestinationsData}
         /> */}
 
-        <FavoriteDestinationsSection page="restaurants-in-nairobi" data={eatData} />
-        <FavoriteDestinationsSection page="accommodation-in-nairobi" data={stayData} />
-        <FavoriteDestinationsSection page="hotels-in-nairobi" data={hotelData} />
+        <FavoriteDestinationsSection
+          page="restaurants-in-nairobi"
+          data={eatData}
+        />
+        <FavoriteDestinationsSection
+          page="accommodation-in-nairobi"
+          data={stayData}
+        />
+        <FavoriteDestinationsSection
+          page="hotels-in-nairobi"
+          data={hotelData}
+        />
         <FavoriteDestinationsSection page="shops-in-nairobi" data={shopData} />
-        <FavoriteDestinationsSection page="golf-clubs-in-nairobi" data={golfData} />
-        <FavoriteDestinationsSection page="padel-courts-in-nairobi" data={padelData} />
+        <FavoriteDestinationsSection
+          page="golf-clubs-in-nairobi"
+          data={golfData}
+        />
+        <FavoriteDestinationsSection
+          page="padel-courts-in-nairobi"
+          data={padelData}
+        />
         <FavoriteDestinationsSection page="clubs-in-nairobi" data={partyData} />
 
         <div className="h-8"></div>
