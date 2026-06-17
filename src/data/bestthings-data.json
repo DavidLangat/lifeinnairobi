@@ -2,11 +2,7 @@
   "items": [
     {
       "shortDescription": "Explore scenic tea farm tours near Nairobi. Walk through lush plantations, learn tea processing, and enjoy authentic local farm experiences in Kenya.",
-      "inclusions": [
-        "Professional Guide",
-        "Tea tasting",
-        "Farm entry fees"
-      ],
+      "inclusions": ["Professional Guide", "Tea tasting", "Farm entry fees"],
       "name": "Tea Farm Tours",
       "location": "Nairobi",
       "highlights": [
@@ -34,30 +30,23 @@
       "slug": "tea-farm-tours-in-nairobi",
       "gallery": [
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm.jpg",
+          "src": "https://davidlangat.github.io/tigoniimages/v2/images/tea%20farm.jpg",
           "alt": "Tea farm landscape"
         },
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/tea%20farm%20tour.jpg",
+          "src": "https://davidlangat.github.io/tigoniimages/v2/images/tea%20farm%20tour.jpg",
           "alt": "Tea picking"
         }
       ],
       "keyDetails": {
         "location": "Ravenswood Escapes, Tigoni",
         "duration": "120 minutes",
-        "startTime": [
-          "9:00 AM",
-          "12:00 PM",
-          "3:00 PM"
-        ],
+        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
         "mapUrl": "https://maps.app.goo.gl/eAc5zTVr5pfiiHRF6"
       },
       "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >The tea farm tour begins with a guided walk through the tea estate, where participants are introduced to the landscape, history, and cultural significance of tea farming in the region.</span></p><p><span >The experience is structured to be relaxed and interactive, allowing time for questions, photography, and appreciation of the surroundings. Throughout the walk, guides provide insights into tea cultivation, harvesting, and processing, connecting the landscape to its broader economic and cultural context.</span></p><p><span >The tour concludes with a tea tasting session, offering a complete journey from field to cup.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>The Walking Experience</p></span></h2><p><span >The route follows a scenic trail through:</span></p><ul><li ><p>Expansive tea plantations</p></li><li ><p>Forest edges and natural pathways</p></li><li ><p>Gentle terrain suitable for most fitness levels</p></li></ul><p><span >Participants walk at a comfortable pace, with multiple opportunities to pause and take in the environment. The experience focuses on immersion rather than distance or speed.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Natural Features and Landscape</p></span></h2><p><span >The tea farm landscape in Tigoni offers a variety of natural elements, including:</span></p><ul><li ><p>Rolling green hills</p></li><li ><p>River-fed valleys</p></li><li ><p>Quiet forest sections</p></li></ul><p><span >These features create a layered experience, where the walk transitions between open tea fields and more secluded natural spaces.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Heritage and Tea Culture</p></span></h2><p><span >A key part of the experience is understanding the heritage behind tea farming in Tigoni.</span></p><p><span >During the tour, participants learn about:</span></p><ul><li ><p>The origins of tea farming in the region</p></li><li ><p>Traditional and modern cultivation methods</p></li><li ><p>The role of tea in Kenya’s economy and identity</p></li></ul><p><span >This adds context to the landscape, turning a simple walk into an educational experience.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Tea Tasting Experience</p></span></h2><p><span >The tour concludes with a guided tea tasting session.</span></p><p><span >Participants are invited to:</span></p><ul><li ><p>Sample freshly brewed tea from the estate</p></li><li ><p>Learn how to identify flavor notes and aromas</p></li><li ><p>Understand how altitude, soil, and climate influence taste</p></li></ul><p><span >This final stage provides a quiet and reflective end to the experience.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Distance</p></span></h2><ul><li ><p>Duration: 2 to 3 hours</p></li><li ><p>Distance: Approximately 4 to 5 kilometres</p></li><li ><p>Difficulty: Easy (guided walking experience)</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Included</p></span></h2><ul><li ><p>Guided tea farm walk</p></li><li ><p>Tea tasting experience</p></li><li ><p>Informational and cultural insights</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Not Included</p></span></h2><ul><li ><p>Transport to and from Tigoni</p></li><li ><p>Additional meals or refreshments</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >This experience is suitable for:</span></p><ul><li ><p>Individuals and couples</p></li><li ><p>Families and small groups</p></li><li ><p>Visitors looking for a calm outdoor activity</p></li><li ><p>Anyone seeking a day trip from Nairobi</p></li></ul><p><span >No prior experience is required.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Location</p></span></h2><p><span >All tours take place in Tigoni, approximately 30 to 60 minutes from Nairobi.</span></p><br>",
       "seo": "Tea farm tours in Nairobi",
-      "exclusions": [
-        "Transport",
-        "Lunch (unless arranged)"
-      ],
+      "exclusions": ["Transport", "Lunch (unless arranged)"],
       "practicalInfo": [],
       "pricing": {
         "nonResident": 4500,
@@ -106,7 +95,7 @@
           "answer": "Yes. The experience is suitable for group bookings, including corporate and team-building activities."
         }
       ],
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg"
+      "image": "https://davidlangat.github.io/tigoniimages/v2/activities/Tigoni%20Tea%20Farm%20Tours.jpg"
     },
     {
       "price": 100,
@@ -132,7 +121,7 @@
           "answer": "Yes. The park is ideal for half-day or full-day visits, making it suitable for short stays in Nairobi."
         }
       ],
-      "image": "/image/Nairobi-National-Park-entry-fee.jpg",
+      "image": "https://nairobi.life/image/Nairobi-National-Park-entry-fee.jpg",
       "practicalInfo": [],
       "pricing": {
         "nonResident": 0,
@@ -144,7 +133,7 @@
       "gallery": [
         {
           "alt": "Nairobi National Park",
-          "src": "/image/Nairobi-National-Park-entry-fee.jpg"
+          "src": "https://nairobi.life/image/Nairobi-National-Park-entry-fee.jpg"
         }
       ],
       "keyDetails": {
@@ -196,28 +185,21 @@
       "gallery": [
         {
           "alt": "E-bike tour group riding",
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5922-2.jpg"
+          "src": "https://davidlangat.github.io/tigoniimages/v2/images/IMG_5922-2.jpg"
         },
         {
-          "src": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/images/IMG_5931.jpg?updatedAt=1765891140765",
+          "src": "https://davidlangat.github.io/tigoniimages/v2/images/IMG_5931.jpg?updatedAt=1765891140765",
           "alt": "Scenic tea farm view"
         }
       ],
       "keyDetails": {
         "duration": "120 minutes",
-        "startTime": [
-          "9:00 AM",
-          "12:00 PM",
-          "3:00 PM"
-        ],
+        "startTime": ["9:00 AM", "12:00 PM", "3:00 PM"],
         "mapUrl": "https://maps.app.goo.gl/NmntafaDgkzh1ng86",
         "location": "Ravenswood Escapes, Tigoni"
       },
       "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Experience Overview</p></span></h2><p><span >The e-bike tour begins with a meet-and-greet session, followed by a short orientation to ensure all participants are comfortable with the bikes. Once ready, the ride sets off through the rolling tea fields and quiet countryside roads that define Tigoni.</span></p><p><span >The experience is guided throughout, with opportunities to learn about tea farming, the history of the area, and the natural features that make this region unique.</span></p><p><span >The pace is relaxed, with multiple stops for photos, short breaks, and appreciation of the surroundings.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>The Ride Through Tigoni</p></span></h2><p><span >The route takes you through:</span></p><ul><li ><p>Expansive tea plantations</p></li><li ><p>Scenic ridgelines overlooking the highlands</p></li><li ><p>Quiet rural roads with minimal traffic</p></li></ul><p><span >As you ride, the landscape shifts subtly, offering a combination of open views, shaded paths, and elevated vantage points. The experience is designed to be immersive rather than physically demanding.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Midway Stop at The Fig &amp; Olive</p></span></h2><p><span >At the halfway point, the tour includes a stop at The Fig &amp; Olive, a farm-style restaurant set within the tea fields.</span></p><p><span >This break allows participants to:</span></p><ul><li ><p>Rest and recharge</p></li><li ><p>Enjoy brunch or refreshments (optional)</p></li><li ><p>Take in views of the surrounding tea estates</p></li></ul><p><span >The stop adds a lifestyle element to the experience, balancing the activity with a moment of relaxation.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Return Journey</p></span></h2><p><span >After the break, the tour continues along a return route that offers a different perspective of the landscape. The second half of the ride is typically more relaxed, allowing participants to fully take in the environment.</span></p><p><span >By the end of the experience, participants will have covered a meaningful portion of Tigoni’s tea-growing region while gaining a deeper understanding of the area.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Duration and Distance</p></span></h2><ul><li ><p>Duration: 2 to 3 hours</p></li><li ><p>Distance: Approximately 20–25 kilometres</p></li><li ><p>Difficulty: Easy to moderate (e-bike assisted)</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Included</p></span></h2><ul><li ><p>Electric bike</p></li><li ><p>Safety helmet</p></li><li ><p>Guided experience</p></li><li ><p>Orientation and safety briefing</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What Is Not Included</p></span></h2><ul><li ><p>Food and drinks at The Fig &amp; Olive</p></li><li ><p>Transport to and from Tigoni</p></li></ul><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Who This Experience Is For</p></span></h2><p><span >This experience is suitable for:</span></p><ul><li ><p>Individuals and couples</p></li><li ><p>Small groups and families</p></li><li ><p>Corporate and team-building groups</p></li><li ><p>Visitors looking for a day trip from Nairobi</p></li></ul><p><span >No prior cycling experience is required.</span></p><p></p><p></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Location</p></span></h2><p><span >All tours take place in Tigoni, approximately 30 to 45 minutes from Nairobi.</span></p><br class=\"Apple-interchange-newline\" ><br><br class=\"Apple-interchange-newline\" ><br>",
-      "exclusions": [
-        "Transport to venue",
-        "Meals"
-      ],
+      "exclusions": ["Transport to venue", "Meals"],
       "seo": "Tigoni E-bike Tours",
       "practicalInfo": [
         {
@@ -252,7 +234,7 @@
         "citizen": 3500,
         "nonResident": 5500
       },
-      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Nairobi e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
+      "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Tigoni e-bike tours offer a unique way to explore the scenic tea-growing landscapes just outside the city. Located in the highlands of Tigoni, this guided experience combines effortless cycling, cultural insight, and curated stops to create one of the most enjoyable day activities near Nairobi.</span></p><p><span>Designed for both beginners and experienced riders, the tour uses electric bikes with pedal assistance, allowing you to cover longer distances comfortably while focusing on the landscape and experience.</span></p><p><span></span></p></div>",
       "faqs": [
         {
           "answer": "Yes. E-bike tours are available in Tigoni, offering guided rides through tea plantations and scenic countryside within a short distance from Nairobi.",
@@ -280,10 +262,10 @@
         }
       ],
       "price": 3500,
-      "image": "https://ik.imagekit.io/lxn522qamc/tigonilife/v2/activities/Tigoni%20E-bike%20Tours.jpeg"
+      "image": "https://davidlangat.github.io/tigoniimages/v2/activities/Tigoni%20E-bike%20Tours.jpeg"
     },
     {
-      "image": "/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
       "price": 20,
       "faqs": [
         {
@@ -325,7 +307,7 @@
       },
       "gallery": [
         {
-          "src": "/image/Giraffe-Centre-Visit-scaled.jpg",
+          "src": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
           "alt": "Giraffe Centre"
         }
       ],

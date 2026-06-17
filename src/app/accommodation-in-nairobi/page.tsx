@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description: 'Discover top-rated accommodations offering comfort, style, and exceptional hospitality for your next trip to Nairobi. Find your perfect getaway.',
   keywords: ['Where to Stay in Nairobi', 'Nairobi Hotels', 'Cottages Nairobi', 'Nairobi Retreats', 'Vacation Rentals Limuru'],
   alternates: {
-    canonical: 'https://nairobi.life/stay',
+    canonical: 'https://nairobi.life/accommodation-in-nairobi',
   },
   openGraph: {
     title: 'Accommodation in Nairobi | Places to stay in Nairobi',
     description: 'Discover top-rated accommodations offering comfort, style, and exceptional hospitality for your next trip to Nairobi.',
-    url: 'https://nairobi.life/stay',
+    url: 'https://nairobi.life/accommodation-in-nairobi',
     type: 'website',
     images: [
       {

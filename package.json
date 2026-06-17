@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "echo \"{\\\"version\\\": \\\"$(date +%s)\\\"}\" > public/build-version.json",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"

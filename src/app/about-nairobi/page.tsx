@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description: 'Learn about Nairobi, a lush highland region known for its tea estates, colonial history, and serene landscapes just outside Nairobi.',
   keywords: ['About Nairobi', 'History of Nairobi', 'Tea Farms Kenya', 'Nairobi Limuru', 'Highland Region Kenya'],
   alternates: {
-    canonical: 'https://nairobi.life/about',
+    canonical: 'https://nairobi.life/about-nairobi',
   },
   openGraph: {
     title: 'About Nairobi | History, Tea Farms & Highland Charm',
     description: 'Learn about Nairobi, a lush highland region known for its tea estates, colonial history, and serene landscapes.',
-    url: 'https://nairobi.life/about',
+    url: 'https://nairobi.life/about-nairobi',
     type: 'website',
     images: [
       {

@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import React from "react";
 import destinationsData from "@/data/destinations-data.json";
+import bestThingsData from "@/data/bestthings-data.json";
 import ActivitiesClientPage from "./ActivitiesClientPage";
 
 export const metadata: Metadata = {
@@ -16,13 +17,13 @@ export const metadata: Metadata = {
     "Day Trips from Nairobi",
   ],
   alternates: {
-    canonical: "https://nairobi.life/activities",
+    canonical: "https://nairobi.life/things-to-do-in-nairobi",
   },
   openGraph: {
     title: "Activities in Nairobi | Things to do in Nairobi",
     description:
       "Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences.",
-    url: "https://nairobi.life/activities",
+    url: "https://nairobi.life/things-to-do-in-nairobi",
     type: "website",
     images: [
       {
@@ -54,11 +55,11 @@ export const metadata: Metadata = {
 };
 
 export default function ActivitiesPage() {
-  const activities = destinationsData.items.map((item) => ({
+  const bestActivities = bestThingsData.items.map((item) => ({
     title: item.name,
     subtitle: item.shortDescription || "Experience Nairobi",
     image: item.image,
-    href: `/things-to-do-in-nairobi/${
+    href: (item as any).externalLink || `/best-things-to-do-in-nairobi/${
       (item as any).slug ||
       item.name
         .toLowerCase()
@@ -66,6 +67,21 @@ export default function ActivitiesPage() {
         .replace(/[^\w-]+/g, "")
     }`,
   }));
+
+  const otherActivities = destinationsData.items.map((item) => ({
+    title: item.name,
+    subtitle: item.shortDescription || "Experience Nairobi",
+    image: item.image,
+    href: (item as any).externalLink || `/things-to-do-in-nairobi/${
+      (item as any).slug ||
+      item.name
+        .toLowerCase()
+        .replace(/ /g, "-")
+        .replace(/[^\w-]+/g, "")
+    }`,
+  }));
+
+  const activities = [...bestActivities, ...otherActivities];
 
   return (
     <ActivitiesClientPage

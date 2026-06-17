@@ -1,15 +1,30 @@
-'use client';
+"use client";
 
-import React from 'react';
-import Link from 'next/link';
-import { ArrowRight, Facebook, Twitter, Instagram, Clock, TriangleAlert, ArrowDown } from 'lucide-react';
-import heroData from '@/data/hero-data.json';
+import React from "react";
+import Link from "next/link";
+import {
+  ArrowRight,
+  Facebook,
+  Twitter,
+  Instagram,
+  Clock,
+  TriangleAlert,
+  ArrowDown,
+} from "lucide-react";
+import heroData from "@/data/hero-data.json";
 
 // tiktok compont <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M448.5 209.9c-44 .1-87-13.6-122.8-39.2l0 178.7c0 33.1-10.1 65.4-29 92.6s-45.6 48-76.6 59.6-64.8 13.5-96.9 5.3-60.9-25.9-82.7-50.8-35.3-56-39-88.9 2.9-66.1 18.6-95.2 40-52.7 69.6-67.7 62.9-20.5 95.7-16l0 89.9c-15-4.7-31.1-4.6-46 .4s-27.9 14.6-37 27.3-14 28.1-13.9 43.9 5.2 31 14.5 43.7 22.4 22.1 37.4 26.9 31.1 4.8 46-.1 28-14.4 37.2-27.1 14.2-28.1 14.2-43.8l0-349.4 88 0c-.1 7.4 .6 14.9 1.9 22.2 3.1 16.3 9.4 31.9 18.7 45.7s21.3 25.6 35.2 34.6c19.9 13.1 43.2 20.1 67 20.1l0 87.4z"/></svg>
 
 const Tiktok = (props: React.SVGProps<SVGSVGElement>) => {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" {...props}><path d="M448.5 209.9c-44 .1-87-13.6-122.8-39.2l0 178.7c0 33.1-10.1 65.4-29 92.6s-45.6 48-76.6 59.6-64.8 13.5-96.9 5.3-60.9-25.9-82.7-50.8-35.3-56-39-88.9 2.9-66.1 18.6-95.2 40-52.7 69.6-67.7 62.9-20.5 95.7-16l0 89.9c-15-4.7-31.1-4.6-46 .4s-27.9 14.6-37 27.3-14 28.1-13.9 43.9 5.2 31 14.5 43.7 22.4 22.1 37.4 26.9 31.1 4.8 46-.1 28-14.4 37.2-27.1 14.2-28.1 14.2-43.8l0-349.4 88 0c-.1 7.4 .6 14.9 1.9 22.2 3.1 16.3 9.4 31.9 18.7 45.7s21.3 25.6 35.2 34.6c19.9 13.1 43.2 20.1 67 20.1l0 87.4z" /></svg>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 448 512"
+      fill="currentColor"
+      {...props}
+    >
+      <path d="M448.5 209.9c-44 .1-87-13.6-122.8-39.2l0 178.7c0 33.1-10.1 65.4-29 92.6s-45.6 48-76.6 59.6-64.8 13.5-96.9 5.3-60.9-25.9-82.7-50.8-35.3-56-39-88.9 2.9-66.1 18.6-95.2 40-52.7 69.6-67.7 62.9-20.5 95.7-16l0 89.9c-15-4.7-31.1-4.6-46 .4s-27.9 14.6-37 27.3-14 28.1-13.9 43.9 5.2 31 14.5 43.7 22.4 22.1 37.4 26.9 31.1 4.8 46-.1 28-14.4 37.2-27.1 14.2-28.1 14.2-43.8l0-349.4 88 0c-.1 7.4 .6 14.9 1.9 22.2 3.1 16.3 9.4 31.9 18.7 45.7s21.3 25.6 35.2 34.6c19.9 13.1 43.2 20.1 67 20.1l0 87.4z" />
+    </svg>
   );
 };
 
@@ -53,7 +68,7 @@ export default function HeroSection() {
       <div
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat transition-transform duration-10000 hover:scale-105"
         style={{
-          backgroundImage: 'url("/image/bg2.jpg")',
+          backgroundImage: 'url("https://nairobi.life/image/bg2.jpg")',
         }}
       >
         {/* Overlay */}
@@ -61,10 +76,8 @@ export default function HeroSection() {
       </div>
 
       <div className="container mx-auto px-6 lg:px-6 h-full relative z-10 flex flex-col justify-end pb-16 md:pb-26 lg:pb-20 max-w-7xl">
-
         {/* Main Content - Bottom Left */}
         <div className="max-w-3xl space-y-2 animate-in fade-in slide-in-from-left-8 duration-1000">
-
           {/* Badge */}
           {/* {data.subtitle && (
             <div className="inline-block">
@@ -126,7 +139,10 @@ export default function HeroSection() {
             {data.features.map((feature, index) => {
               const Icon = IconMap[feature.icon] || IconMap.mountain;
               return (
-                <div key={index} className="flex items-start gap-4 max-w-xs bg-primary/20 backdrop-blur-md p-4 rounded-xl border border-primary/10">
+                <div
+                  key={index}
+                  className="flex items-start gap-4 max-w-xs bg-primary/20 backdrop-blur-md p-4 rounded-xl border border-primary/10"
+                >
                   <div className="w-10 h-10 rounded-full bg-primary/20 backdrop-blur-sm flex items-center justify-center shrink-0">
                     {Icon ? <Icon className="w-4 h-4" /> : null}
                   </div>
@@ -144,7 +160,6 @@ export default function HeroSection() {
           <div className="w-px h-24 bg-linear-to-b from-transparent to-primary/50" />
           <ArrowDown className="w-5 h-5 text-primary/70 animate-bounce" />
         </div>
-
       </div>
     </div>
   );

@@ -38,12 +38,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         description: `Experience ${item.name} in Nairobi. ${item.category}`,
         keywords: [item.name, 'Nairobi', item.category, 'Limuru'],
         alternates: {
-            canonical: `https://nairobi.life/stay/${slug}`,
+            canonical: `https://nairobi.life/accommodation-in-nairobi/${slug}`,
         },
         openGraph: {
             title: `${titleStr} | Places to Visit in Nairobi`,
             description: `Experience ${item.name} in Nairobi.`,
-            url: `https://nairobi.life/stay/${slug}`,
+            url: `https://nairobi.life/accommodation-in-nairobi/${slug}`,
             type: 'website',
             images: [
                 {
@@ -95,13 +95,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                         .map(i => ({
                             title: i.name,
                             image: i.image,
-                            href: `/stay/${i.slug}`
+                            href: `/accommodation-in-nairobi/${i.slug}`
                         }));
 
     return <CategoryClientPage 
               item={item} 
               relatedItems={relatedItems} 
-              basePath="/stay" 
+              basePath="/accommodation-in-nairobi" 
               categoryName="Stays" 
            />;
 }

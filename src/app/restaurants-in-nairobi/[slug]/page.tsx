@@ -12,6 +12,7 @@ interface ItemType {
     isActive?: boolean;
     contentHtml: string;
     seo?: string;
+    seodesc?: string;
 }
 
 export async function generateStaticParams() {
@@ -31,11 +32,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         };
     }
 
-    const titleStr = item.seo ? item.seo : item.name;
+    const titleStr = item.seo ? item.seo : item.name + " | Places to Visit in Nairobi";
+    const descStr = item.seodesc ? item.seodesc : "Experience " + item.name +"in Nairobi. " + item.category + " | Places to Visit in Nairobi";
 
     return {
-        title: `${titleStr} | Places to Visit in Nairobi`,
-        description: `Experience ${item.name} in Nairobi. ${item.category}`,
+        title: `${titleStr}`,
+        description: ` ${descStr} `,
         keywords: [item.name, 'Nairobi', item.category, 'Limuru'],
         alternates: {
             canonical: `https://nairobi.life/restaurants-in-nairobi/${slug}`,

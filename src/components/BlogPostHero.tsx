@@ -1,7 +1,7 @@
-'use client';
+"use client";
 
-import React from 'react';
-import Image from 'next/image';
+import React from "react";
+import Image from "next/image";
 
 interface BlogPostHeroProps {
   image: string;
@@ -10,22 +10,23 @@ interface BlogPostHeroProps {
   attribution?: string;
 }
 
-export default function BlogPostHero({ image, title, alt, attribution }: BlogPostHeroProps) {
+export default function BlogPostHero({
+  image,
+  title,
+  alt,
+  attribution,
+}: BlogPostHeroProps) {
   return (
     <div className="relative w-full mb-32 lg:mb-48">
-
       {/* Layer 1: Background Pattern (Decor) */}
       <div className="relative w-full h-[300px] md:h-[400px] lg:h-[550px]  overflow-hidden">
         <Image
-          
-          src="/image/bg2.jpg"
+          src="https://nairobi.life/image/bg2.jpg"
           alt="Tropical Background"
           fill
-
           className="object-cover"
         />
-                <div className="absolute inset-0 bg-black/50" />
-
+        <div className="absolute inset-0 bg-black/50" />
       </div>
 
       {/* Layer 2: Foreground Featured Image */}
@@ -33,12 +34,11 @@ export default function BlogPostHero({ image, title, alt, attribution }: BlogPos
         <div className="relative w-full h-full">
           {image && (
             <Image
-              
               src={image}
               alt={alt || title}
               fill
-            className={`${title === "Tea Pod Nairobi" ? "object-cover object-bottom" : "object-cover"}`}
-          />
+              className={`${title === "Tea Pod Nairobi" ? "object-cover object-bottom" : "object-cover"}`}
+            />
           )}
           {/* {attribution && (
             <div className="absolute bottom-0 left-0 right-0 bg-black/60 p-2 text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -47,7 +47,6 @@ export default function BlogPostHero({ image, title, alt, attribution }: BlogPos
           )} */}
         </div>
       </div>
-
     </div>
   );
 }

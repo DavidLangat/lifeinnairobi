@@ -81,7 +81,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-3.jpg",
+      "image": "https://nairobi.life/image/destination-img-3.jpg",
       "isActive": false,
       "name": "Networks Padel Village",
       "seo": "",
@@ -189,7 +189,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-1.jpg",
+      "image": "https://nairobi.life/image/destination-img-1.jpg",
       "isActive": false,
       "name": "PRO PADEL",
       "seo": "",
@@ -213,7 +213,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "/image/destination-img-12.jpg",
+      "image": "https://nairobi.life/image/destination-img-12.jpg",
       "isActive": false,
       "name": "Pulse Padel Gigiri",
       "seo": "",

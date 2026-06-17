@@ -1,10 +1,10 @@
-'use client';
+"use client";
 
-import React from 'react';
-import Link from 'next/link';
-import { Phone, ChevronDown, Menu, X } from 'lucide-react';
-import Image from 'next/image';
-import navbarData from '@/data/navbar-data.json';
+import React from "react";
+import Link from "next/link";
+import { Phone, ChevronDown, Menu, X } from "lucide-react";
+import Image from "next/image";
+import navbarData from "@/data/navbar-data.json";
 
 interface NavItem {
   name: string;
@@ -25,12 +25,11 @@ export default function Navbar() {
     <nav className="absolute top-0 left-0 right-0 z-50">
       <div className="container mx-auto px-6 lg:pl-6 lg:pr-12 max-w-7xl ">
         <div className="relative flex items-center justify-between py-6 ">
-
           {/* Logo */}
-          <div className="flex-shrink-0 " >
+          <div className="flex-shrink-0 ">
             <Link href="/">
               <Image
-                src="/image/logo.png"
+                src="https://nairobi.life/image/logo.png"
                 alt="Nairobi Logo"
                 width={260}
                 height={60}
@@ -44,15 +43,16 @@ export default function Navbar() {
           <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 hidden lg:flex items-center gap-8">
             <ul className="flex items-center gap-2 text-primary border border-primary rounded-full px-2 py-1.5 bg-primary/5">
               {navLinks.map((link) => {
-                const isActive = link.name === 'Home'; // Basic active state check, can be improved
+                const isActive = link.name === "Home"; // Basic active state check, can be improved
                 return (
                   <li key={link.name} className="relative group">
                     <Link
                       href={link.href}
-                      className={`flex items-center gap-1 font-sans text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full transition-all duration-300 ${isActive
-                        ? 'bg-primary/20 text-primary'
-                        : 'text-primary/90 hover:bg-primary hover:text-gray-900 group-hover:bg-primary group-hover:text-gray-900'
-                        }`}
+                      className={`flex items-center gap-1 font-sans text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full transition-all duration-300 ${
+                        isActive
+                          ? "bg-primary/20 text-primary"
+                          : "text-primary/90 hover:bg-primary hover:text-gray-900 group-hover:bg-primary group-hover:text-gray-900"
+                      }`}
                     >
                       {link.name}
                       {link.dropdown && (
@@ -61,37 +61,30 @@ export default function Navbar() {
                     </Link>
                     {/* Dropdown Menu */}
                     {link.dropdown && (
-                      
                       <div className="absolute top-full left-0 mt-2 w-64 bg-primary text-gray-800 rounded-3xl shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform origin-top-left p-2 z-50">
                         <ul className="flex flex-col gap-1">
                           {link.dropdown.map((subItem) => (
-
                             <li key={subItem.name}>
-                              {subItem.name === 'Activitiesd' ? (
-                             <div
-                             className='flex flex-row gap-1'
-                             >
-
-                                <Link
-                                  href={subItem.href}
-                                  className="block px-4 py-3 hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors"
-                                >
-                                  {subItem.name}
-                                </Link>
-                                <div 
-                                />
-                                <Link
-                                  href="/calendar"
-                                  className="block px-4 py-3 hover:bg-background hover:text-primary hover:rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors border-l border-background"
-                                >
-                                  calendar
-                                </Link>
+                              {subItem.name === "Activitiesd" ? (
+                                <div className="flex flex-row gap-1">
+                                  <Link
+                                    href={subItem.href}
+                                    className="block px-4 py-3 hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors"
+                                  >
+                                    {subItem.name}
+                                  </Link>
+                                  <div />
+                                  <Link
+                                    href="/calendar"
+                                    className="block px-4 py-3 hover:bg-background hover:text-primary hover:rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors border-l border-background"
+                                  >
+                                    calendar
+                                  </Link>
                                 </div>
                               ) : (
-                                
                                 <Link
                                   href={subItem.href}
-                                  className={`block px-4 py-3 ${subItem.name === 'View All' ? 'bg-accent text-primary' : ''} hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors`}
+                                  className={`block px-4 py-3 ${subItem.name === "View All" ? "bg-accent text-primary" : ""} hover:bg-background hover:text-primary rounded-2xl cursor-pointer text-sm font-bold tracking-widest uppercase transition-colors`}
                                 >
                                   {subItem.name}
                                 </Link>
@@ -109,12 +102,14 @@ export default function Navbar() {
 
           {/* Right Action & Mobile Toggle */}
           <div className="flex items-center gap-4">
-
             {/* WhatsApp Chat Button (Desktop) */}
             <div className="hidden lg:block">
               <button
-                onClick={() => window.open('https://wa.me/254740726783', '_blank')}
-                className="flex items-center justify-center w-10 h-10 rounded-full bg-primary text-background hover:bg-background hover:text-primary transition-colors">
+                onClick={() =>
+                  window.open("https://wa.me/254740726783", "_blank")
+                }
+                className="flex items-center justify-center w-10 h-10 rounded-full bg-primary text-background hover:bg-background hover:text-primary transition-colors"
+              >
                 <Phone className="w-4 h-4" />
               </button>
             </div>
@@ -125,10 +120,13 @@ export default function Navbar() {
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
                 className="text-primary p-2"
               >
-                {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+                {isMobileMenuOpen ? (
+                  <X className="w-6 h-6" />
+                ) : (
+                  <Menu className="w-6 h-6" />
+                )}
               </button>
             </div>
-
           </div>
         </div>
       </div>
@@ -153,9 +151,9 @@ export default function Navbar() {
                   {/* Mobile Dropdown Items (Basic Implementation: Always visible if exists, or distinct toggle. For now, flat list below parent) */}
                   {link.dropdown && (
                     <ul className="pl-4 mt-2 space-y-2">
-                      {link.dropdown.map(subItem => (
+                      {link.dropdown.map((subItem) => (
                         <li key={subItem.name}>
-                          {subItem.name === 'Activitiesd' ? (
+                          {subItem.name === "Activitiesd" ? (
                             <div className="flex flex-col gap-2">
                               <Link
                                 href={subItem.href}
@@ -181,7 +179,6 @@ export default function Navbar() {
                               {subItem.name}
                             </Link>
                           )}
-            
                         </li>
                       ))}
                     </ul>

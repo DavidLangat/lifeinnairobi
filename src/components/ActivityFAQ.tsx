@@ -45,7 +45,7 @@ export default function ActivityFAQ({ faqs }: ActivityFAQProps) {
 
     return (
         <section className="py-10">
-            <h3 className="text-2xl font-serif text-accent font-medium mb-6">Frequently Asked Questions</h3>
+            <h2 className="text-2xl font-serif text-accent font-medium mb-6">Frequently Asked Questions</h2>
             <div className="space-y-2">
                 {faqs.map((faq, idx) => (
                     <AccordionItem

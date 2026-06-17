@@ -56,18 +56,110 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://nairobi.life/#organization",
+        "name": "Life in Nairobi",
+        "url": "https://nairobi.life/",
+        "logo": "https://nairobi.life/favicon.ico",
+        "description": "Official guide to Nairobi experiences including wildlife, culture, food tours, museums, and authentic local experiences.",
+        "sameAs": []
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://nairobi.life/#website",
+        "url": "https://nairobi.life/",
+        "name": "Life in Nairobi",
+        "description": "Discover Nairobi’s top experiences, from wildlife and culture to food tours, museums, and authentic local experiences.",
+        "publisher": {
+          "@id": "https://nairobi.life/#organization"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "TouristAttraction",
+        "@id": "https://nairobi.life/#destination",
+        "name": "Nairobi",
+        "url": "https://nairobi.life/",
+        "description": "Discover Nairobi’s top experiences, from wildlife and culture to food tours, museums, and authentic local experiences.",
+        "touristType": [
+          "Nature Lovers",
+          "Adventure Travelers",
+          "Weekend Travelers",
+          "Couples",
+          "Groups"
+        ],
+        "containedInPlace": {
+          "@type": "Place",
+          "name": "Nairobi County, Kenya"
+        },
+        "mainEntityOfPage": {
+          "@id": "https://nairobi.life/#website"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://nairobi.life/#experiences",
+        "name": "Things to Do in Nairobi",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Best Things to Do in Nairobi",
+            "url": "https://nairobi.life/best-things-to-do-in-nairobi/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Restaurants in Nairobi",
+            "url": "https://nairobi.life/restaurants-in-nairobi/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hotels in Nairobi",
+            "url": "https://nairobi.life/hotels-in-nairobi/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Golf Clubs in Nairobi",
+            "url": "https://nairobi.life/golf-clubs-in-nairobi/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Padel Courts in Nairobi",
+            "url": "https://nairobi.life/padel-courts-in-nairobi/"
+          }
+        ]
+      }
+    ]
+  };
+
   return (
-    <HomeClientPage 
-      restaurantData={restaurantData}
-      favoriteDestinationsData={favoriteDestinationsData}
-      otherDestinationsData={otherDestinationsData}
-      stayData={stayData}
-      eatData={eatData}
-      golfData={golfData}
-      padelData={padelData}
-      shopData={shopData}
-      partyData={partyData}
-      hotelData={hotelData}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <HomeClientPage 
+        restaurantData={restaurantData}
+        favoriteDestinationsData={favoriteDestinationsData}
+        otherDestinationsData={otherDestinationsData}
+        stayData={stayData}
+        eatData={eatData}
+        golfData={golfData}
+        padelData={padelData}
+        shopData={shopData}
+        partyData={partyData}
+        hotelData={hotelData}
+      />
+    </>
   );
 }

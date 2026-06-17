@@ -91,7 +91,7 @@ export default function AboutNairobiSection() {
               <div className="bg-accent p-6 rounded-2xl">
                 <h4 className="font-serif text-primary mb-2">Did you know?</h4>
                 <p className="text-sm text-primary mb-4 font-sans leading-relaxed">
-                  Nairobi is often called the "richest village in Africa" due to its lush fertile land and heritage estates.
+                  Nairobi is the capital of Kenya and is often called the "Green City in the Sun" for its national parks, tree-lined streets, and vibrant culture.
                 </p>
                 <div className="flex gap-4 pt-2">
                   {/* Social placeholders */}

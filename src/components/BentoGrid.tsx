@@ -60,7 +60,7 @@ export default function BentoGrid({ items }: BentoGridProps) {
 
               {/* Text Content */}
               <div className="transform translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
-                <h3 className="text-white font-serif text-2xl mb-1 tracking-wide capitalize">{item.title}</h3>
+                <h2 className="text-white font-serif text-2xl mb-1 tracking-wide capitalize">{item.title}</h2>
                 {/* <span className="text-white/70 text-sm font-medium">{item.subtitle}</span> */}
                 {item.price && (
                   <div className="mt-2 text-white/90 text-sm font-semibold">
@@ -77,7 +77,12 @@ export default function BentoGrid({ items }: BentoGridProps) {
             </div>
 
             {/* Link Wrapper */}
-            <Link href={item.href} className="absolute inset-0 z-10">
+            <Link 
+              href={item.href} 
+              target={item.href.startsWith("http") ? "_blank" : undefined} 
+              rel={item.href.startsWith("http") ? "noopener noreferrer" : undefined} 
+              className="absolute inset-0 z-10"
+            >
               <span className="sr-only">View {item.title}</span>
             </Link>
           </div>

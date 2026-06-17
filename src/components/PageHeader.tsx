@@ -1,8 +1,8 @@
-'use client';
+"use client";
 
-import React from 'react';
-import Link from 'next/link';
-import { ChevronRight } from 'lucide-react';
+import React from "react";
+import Link from "next/link";
+import { ChevronRight } from "lucide-react";
 
 interface PageHeaderProps {
   title: string;
@@ -15,7 +15,7 @@ export default function PageHeader({
   title,
   breadcrumb,
   description,
-  backgroundImage = 'v2/images/background.jpeg'
+  backgroundImage = "v2/images/background.jpeg",
 }: PageHeaderProps) {
   return (
     <section className="relative w-full h-[60vh] min-h-[400px] flex items-center bg-gray-900 text-primary overflow-hidden">
@@ -23,7 +23,7 @@ export default function PageHeader({
       <div
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url("/image/bg2.jpg")`,
+          backgroundImage: `url("https://nairobi.life/image/bg2.jpg")`,
         }}
       >
         {/* Overlay */}
@@ -32,10 +32,11 @@ export default function PageHeader({
 
       <div className="container mx-auto px-6 lg:px-12 relative z-10 max-w-7xl pt-20">
         <div className="max-w-4xl space-y-6 animate-in fade-in slide-in-from-left-8 duration-700">
-
           {/* Breadcrumbs */}
           <div className="flex items-center gap-2 text-sm font-medium uppercase tracking-widest text-primary/80">
-            <Link href="/" className="hover:text-primary transition-colors">Home</Link>
+            <Link href="/" className="hover:text-primary transition-colors">
+              Home
+            </Link>
             <ChevronRight className="w-4 h-4" />
             <span className="text-primary">{breadcrumb}</span>
           </div>
@@ -51,7 +52,6 @@ export default function PageHeader({
               {description}
             </p>
           )}
-
         </div>
       </div>
     </section>

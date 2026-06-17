@@ -125,7 +125,8 @@ export default function FavoriteDestinationsSection({ data, page }: FavoriteDest
               // Determine base path based on viewMoreLink or fallback
               const basePath = page ? (page.startsWith('/') ? page : `/${page}`) : '';
               const slug = item.slug || item.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '');
-              const href = `${basePath}/${slug}`;
+              const href = (item as any).externalLink || `${basePath}/${slug}`;
+              const isExternal = !!(item as any).externalLink;
 
               return (
                 <div
@@ -143,7 +144,7 @@ export default function FavoriteDestinationsSection({ data, page }: FavoriteDest
                     />
 
                     {/* Overlay */}
-                    <Link href={href} className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent opacity-90 transition-opacity duration-300" />
+                    <Link href={href} target={isExternal ? "_blank" : undefined} rel={isExternal ? "noopener noreferrer" : undefined} className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent opacity-90 transition-opacity duration-300" />
 
                     {/* Action Buttons (Only for active items) */}
                     <div className={`pt-4 px-4 right-4 flex flex-row w-full  z-20 ${item.isActive ? 'justify-between' : 'justify-end'}`}>
@@ -158,7 +159,7 @@ export default function FavoriteDestinationsSection({ data, page }: FavoriteDest
                     </div>
 
                     {/* Content */}
-                    <Link href={href} className="absolute inset-0 p-6 flex flex-col items-start justify-end text-center z-10">
+                    <Link href={href} target={isExternal ? "_blank" : undefined} rel={isExternal ? "noopener noreferrer" : undefined} className="absolute inset-0 p-6 flex flex-col items-start justify-end text-center z-10">
                       <h3 className="text-primary font-serif text-xl md:text-2xl font-medium tracking-wide mb-1 text-left">
                         {item.name}
                       </h3>
