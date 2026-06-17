@@ -24,17 +24,11 @@ jobs:
       - name: Build Project
         run: npm run build
 
-      - name: Setup SSH
-        uses: webfactory/ssh-agent@v0.9.0
+      - name: Deploy to cPanel via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          ssh-private-key: ${{ secrets.CPANEL_SSH_KEY }}
-
-      - name: Deploy to cPanel via SFTP
-        run: |
-          sudo apt-get update && sudo apt-get install lftp -y
-          lftp -c "
-          set sftp:auto-confirm yes
-          set sftp:connect-program 'ssh -a -x -p ${{ secrets.CPANEL_PORT }} -o StrictHostKeyChecking=no -o PubkeyAcceptedKeyTypes=+ssh-rsa'
-          open sftp://${{ secrets.CPANEL_USERNAME }}@${{ secrets.CPANEL_HOST }}
-          mirror -R --delete --parallel=10 out/ public_html/test
-          "
+          server: ${{ secrets.CPANEL_HOST }}
+          username: ${{ secrets.CPANEL_USERNAME }}
+          password: ${{ secrets.CPANEL_FTP_PASSWORD }}
+          local-dir: ./out/
+          server-dir: ./public_html/test/
