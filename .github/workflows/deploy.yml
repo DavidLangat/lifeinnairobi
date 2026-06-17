@@ -25,12 +25,15 @@ jobs:
         run: npm run build
 
       - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.CPANEL_SSH_KEY }}
+
+      - name: Add cPanel to known_hosts
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.CPANEL_SSH_KEY }}" > ~/.ssh/cpanel_key
-          chmod 600 ~/.ssh/cpanel_key
           ssh-keyscan -p ${{ secrets.CPANEL_PORT }} -H ${{ secrets.CPANEL_HOST }} >> ~/.ssh/known_hosts
 
       - name: Deploy via Rsync
         run: |
-          rsync -avz --delete -e "ssh -p ${{ secrets.CPANEL_PORT }} -i ~/.ssh/cpanel_key" out/ ${{ secrets.CPANEL_USERNAME }}@${{ secrets.CPANEL_HOST }}:public_html/test
+          rsync -avz --delete -e "ssh -p ${{ secrets.CPANEL_PORT }} -o StrictHostKeyChecking=no -o PubkeyAcceptedKeyTypes=+ssh-rsa" out/ ${{ secrets.CPANEL_USERNAME }}@${{ secrets.CPANEL_HOST }}:public_html/test
