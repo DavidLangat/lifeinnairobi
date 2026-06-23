@@ -131,8 +131,8 @@ export default function AboutNairobiSection() {
               />
               <div className="absolute inset-0 bg-linear-to-t from-black/40 to-transparent" />
               <div className="absolute bottom-6 left-6 md:bottom-10 md:left-10 text-white">
-                <p className="text-sm font-medium uppercase tracking-wider opacity-90 mb-2">The Highlands</p>
-                <h1 className="font-serif text-3xl md:text-4xl">Exploring Nairobi</h1>
+                <p className="text-sm font-medium uppercase tracking-wider opacity-90 mb-2">The City</p>
+                <h2 className="font-serif text-3xl md:text-4xl">Exploring Nairobi</h2>
               </div>
             </div>
 
