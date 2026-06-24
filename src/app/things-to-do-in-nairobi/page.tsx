@@ -59,7 +59,7 @@ export default function ActivitiesPage() {
     title: item.name,
     subtitle: item.shortDescription || "Experience Nairobi",
     image: item.image,
-    href: (item as any).externalLink || `/best-things-to-do-in-nairobi/${
+    href: (item as any).externalLink || `/${
       (item as any).slug ||
       item.name
         .toLowerCase()
@@ -72,7 +72,7 @@ export default function ActivitiesPage() {
     title: item.name,
     subtitle: item.shortDescription || "Experience Nairobi",
     image: item.image,
-    href: (item as any).externalLink || `/things-to-do-in-nairobi/${
+    href: (item as any).externalLink || `/${
       (item as any).slug ||
       item.name
         .toLowerCase()
