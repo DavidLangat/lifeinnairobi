@@ -28,7 +28,7 @@ export default function DestinationsSection() {
             const slug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
             return (
               <Link
-                href={`/best-things-to-do-in-nairobi/${slug}`}
+                href={`/${slug}`}
                 key={index}
                 className="group relative h-[450px] rounded-3xl overflow-hidden cursor-pointer block"
               >

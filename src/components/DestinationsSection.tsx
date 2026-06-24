@@ -92,7 +92,7 @@ export default function DestinationsSection() {
                     .toLowerCase()
                     .replace(/ /g, "-")
                     .replace(/[^\w-]+/g, "");
-                const href = (item as any).externalLink || `/things-to-do-in-nairobi/${slug}`;
+                const href = (item as any).externalLink || `/${slug}`;
                 const isExternal = !!(item as any).externalLink;
                 return (
                   <div

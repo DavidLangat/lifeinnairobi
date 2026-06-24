@@ -9,6 +9,9 @@ import { User, Clock } from "lucide-react";
 import ServiceCategories from "@/components/ServiceCategories";
 import guideData from "@/data/travel-guide-data.json";
 import Link from "next/link";
+import destinationsData from "@/data/bestthings-data.json";
+import otherDestinationsData from "@/data/destinations-data.json";
+import ActivityClientPage from "./ActivityClientPage";
 import {
   ArrowRight,
   Facebook,
@@ -34,9 +37,21 @@ export async function generateStaticParams() {
       typeof post.slug === "string",
   );
 
-  return allPosts.map((post) => ({
-    slug: post.slug,
+  const destinationSlugs = destinationsData.items.map((item) => ({
+    slug: (item as any).slug || item.name.toLowerCase().replace(/ /g, '-'),
   }));
+
+  const otherDestinationSlugs = otherDestinationsData.items.map((item) => ({
+    slug: (item as any).slug || item.name.toLowerCase().replace(/ /g, '-'),
+  }));
+
+  return [
+    ...allPosts.map((post) => ({
+      slug: post.slug,
+    })),
+    ...destinationSlugs,
+    ...otherDestinationSlugs,
+  ];
 }
 
 export async function generateMetadata({
@@ -45,6 +60,61 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
+
+  // Check if it's an activity
+  let activity: any = destinationsData.items.find((item) => {
+    const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+    return itemSlug === slug;
+  });
+
+  if (!activity) {
+    activity = otherDestinationsData.items.find((item) => {
+      const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+      return itemSlug === slug;
+    });
+  }
+
+  if (activity) {
+    return {
+      title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? (activity as any).seo : (activity as any).seo || activity.name} | Things to do in Nairobi`,
+      description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
+      keywords: [activity.name, 'Nairobi Activities', 'Things to do in Nairobi', 'Kenya Travel', 'Nairobi Day Trip'],
+      alternates: {
+        canonical: `https://nairobi.life/${slug}`,
+      },
+      openGraph: {
+        title: `${activity.name === "Farm Tours" || activity.name === "Hiking Tours" ? (activity as any).seo : (activity as any).seo || activity.name} | Things to do in Nairobi`,
+        description: activity.shortDescription || `Experience ${activity.name} in Nairobi.`,
+        url: `https://nairobi.life/${slug}`,
+        images: [
+          {
+            url: activity.image,
+            width: 1200,
+            height: 630,
+            alt: activity.name,
+          },
+        ],
+        type: 'website',
+      },
+      robots: {
+          index: true,
+          follow: true,
+          googleBot: {
+              index: true,
+              follow: true,
+              'max-video-preview': -1,
+              'max-image-preview': 'large',
+              'max-snippet': -1,
+          },
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: activity.name,
+        description: activity.shortDescription,
+        images: [activity.image],
+      },
+    };
+  }
 
   const allPosts = [
     blogData.featuredPost,
@@ -119,6 +189,32 @@ export default async function BlogPostPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+
+  // Check if it's an activity
+  let activity: any = destinationsData.items.find((item) => {
+    const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+    return itemSlug === slug;
+  });
+
+  if (!activity) {
+    activity = otherDestinationsData.items.find((item) => {
+      const itemSlug = (item as any).slug || item.name.toLowerCase().replace(/ /g, '-');
+      return itemSlug === slug;
+    });
+  }
+
+  if (activity) {
+    const details = activity as any;
+    const relatedActivities = destinationsData.items
+      .filter(item => (item as any).slug !== slug && (item as any).slug !== activity.name.toLowerCase().replace(/ /g, '-'))
+      .slice(0, 4)
+      .map(item => ({
+        title: item.name,
+        image: item.image,
+        href: `/${(item as any).slug || item.name.toLowerCase().replace(/ /g, '-')}`
+      }));
+    return <ActivityClientPage activity={activity as any} details={details} relatedActivities={relatedActivities} />;
+  }
 
   const allPosts = [
     blogData.featuredPost,

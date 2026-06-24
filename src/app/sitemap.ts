@@ -84,14 +84,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const thingsToDoRoutes = activitiesData.items.map((item) => ({
-    url: `${BASE_URL}/things-to-do-in-nairobi/${item.slug}/`,
+    url: `${BASE_URL}/${item.slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
 
   const bestThingsToDoRoutes = bestActivitiesData.items.map((item) => ({
-    url: `${BASE_URL}/best-things-to-do-in-nairobi/${item.slug}/`,
+    url: `${BASE_URL}/${item.slug}/`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
