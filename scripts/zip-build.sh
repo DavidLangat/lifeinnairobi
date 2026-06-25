@@ -25,6 +25,6 @@ cd out || exit
 
 # Zip everything except sitemap.xml, robots.txt, and the images folder
 # We use -q for quiet, -r for recursive
-zip -r -q "../builds/build-${NEXT_BUILD_NUM}.zip" . -x "sitemap.xml" -x "robots.txt"
+zip -r -q "../builds/build-${NEXT_BUILD_NUM}.zip" . -x "sitemap.xml" -x "robots.txt" -x "favicon.ico" -x "image/*" -x "image/"
 
 echo "Successfully created builds/build-${NEXT_BUILD_NUM}.zip"
