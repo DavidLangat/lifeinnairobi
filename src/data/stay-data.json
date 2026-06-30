@@ -9,7 +9,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/stay/casabellasuites.jpg",
       "isActive": false,
       "name": "Casa Bella Suites",
       "seo": "",
@@ -21,7 +21,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-0.jpg",
+      "image": "/image/stay/trademarksuitesatenakitown.jpg",
       "isActive": false,
       "name": "Trademark Suites At Enaki Town",
       "seo": "",
@@ -33,7 +33,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-1.jpg",
+      "image": "/image/stay/edaalacomfortbb.jpg",
       "isActive": false,
       "name": "Edaala Comfort - B&B",
       "seo": "",
@@ -45,7 +45,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-11.jpg",
+      "image": "/image/stay/nyatihillcottages.jpg",
       "isActive": false,
       "name": "Nyati Hill Cottages",
       "seo": "",
@@ -57,7 +57,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-12.jpg",
+      "image": "/image/stay/severinecottageslounge.jpg",
       "isActive": false,
       "name": "Severine Cottages & Lounge",
       "seo": "",
@@ -69,7 +69,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-2.jpg",
+      "image": "/image/stay/pumbaafarmhouseandcottages.jpg",
       "isActive": false,
       "name": "Pumbaa Farmhouse And Cottages",
       "seo": "",
@@ -81,7 +81,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-3.jpg",
+      "image": "/image/stay/windsorgolfhotelandcountryclub.jpg",
       "isActive": false,
       "name": "Windsor Golf Hotel and Country Club",
       "seo": "",
@@ -93,7 +93,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-4.jpg",
+      "image": "/image/stay/dusitprincesshotelresidencesnairobi.jpg",
       "isActive": false,
       "name": "Dusit Princess Hotel Residences Nairobi",
       "seo": "",
@@ -105,7 +105,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-5.jpg",
+      "image": "/image/stay/theaframewindyridgekaren.jpg",
       "isActive": false,
       "name": "The A-Frame | Windy Ridge, Karen",
       "seo": "",
@@ -117,7 +117,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-6.jpg",
+      "image": "/image/stay/sugarbowlhouse.jpg",
       "isActive": false,
       "name": "SugarBowl House",
       "seo": "",
@@ -129,7 +129,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-8.jpg",
+      "image": "/image/stay/ravensnest.jpg",
       "isActive": false,
       "name": "RAVEN'S NEST, Private cottage, surrounded by trees",
       "seo": "",
@@ -141,7 +141,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/ngong-hills.jpg",
+      "image": "/image/stay/theartistscottage.jpg",
       "isActive": false,
       "name": "The Artists' Cottage",
       "seo": "",
@@ -153,7 +153,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "/image/stay/afrocentricmotherlandsembrace.jpg",
       "isActive": false,
       "name": "Afrocentric: motherland's embrace",
       "seo": "",
@@ -165,7 +165,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/stay/rusticcottage.jpg",
       "isActive": false,
       "name": "Rustic Cottage",
       "seo": "",
@@ -177,7 +177,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-0.jpg",
+      "image": "/image/stay/dikdikcreek.jpg",
       "isActive": false,
       "name": "Dik Dik Creek",
       "seo": "",
@@ -189,7 +189,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-1.jpg",
+      "image": "/image/stay/jungleoasis.jpg",
       "isActive": false,
       "name": "Jungle Oasis",
       "seo": "",
@@ -201,7 +201,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-11.jpg",
+      "image": "/image/stay/olechalet.jpg",
       "isActive": false,
       "name": "Ole Chalet",
       "seo": "",
@@ -213,7 +213,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-12.jpg",
+      "image": "/image/stay/bushwillow.jpg",
       "isActive": false,
       "name": "Bush Willow",
       "seo": "",
@@ -225,7 +225,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-2.jpg",
+      "image": "/image/stay/arimunipoolhouse.jpg",
       "isActive": false,
       "name": "Arimuni Poolhouse",
       "seo": "",
@@ -237,7 +237,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-3.jpg",
+      "image": "/image/stay/cozycottageinthebushnairobinationalpark.jpg",
       "isActive": false,
       "name": "Cozy cottage in the bush - Nairobi National Park",
       "seo": "",
@@ -249,7 +249,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-4.jpg",
+      "image": "/image/stay/hardycottage.jpg",
       "isActive": false,
       "name": "Hardy Cottage",
       "seo": "",
@@ -261,7 +261,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-5.jpg",
+      "image": "/image/stay/cottageserenityrealmoftranquility.jpg",
       "isActive": false,
       "name": "Cottage - Serenity: realm of tranquility",
       "seo": "",
@@ -273,7 +273,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-6.jpg",
+      "image": "/image/stay/karenholidaycottage.jpg",
       "isActive": false,
       "name": "Karen Holiday Cottage",
       "seo": "",
@@ -285,7 +285,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-8.jpg",
+      "image": "/image/stay/thegardencottagewindyridgekaren.jpg",
       "isActive": false,
       "name": "The Garden Cottage | Windy Ridge, Karen",
       "seo": "",
@@ -297,7 +297,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/ngong-hills.jpg",
+      "image": "/image/stay/makenasplacekarenkgirlgeckoroom.jpg",
       "isActive": false,
       "name": "Makena's Place Karen - K Girl & Gecko Room",
       "seo": "",
@@ -309,7 +309,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/pexels-vadym-alyekseyenko-137433856-31762062.jpg",
+      "image": "/image/stay/freshflawless2bedgardenhaveninkarenkenya.jpg",
       "isActive": false,
       "name": "Fresh Flawless 2-Bed Garden Haven in Karen, Kenya",
       "seo": "",
@@ -321,7 +321,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/Giraffe-Centre-Visit-scaled.jpg",
+      "image": "/image/stay/ollosowan.jpg",
       "isActive": false,
       "name": "Ol Losowan",
       "seo": "",
@@ -333,7 +333,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-0.jpg",
+      "image": "/image/stay/staypluskarenpartyhouse.jpg",
       "isActive": false,
       "name": "Stay.Plus karen Party House",
       "seo": "",
@@ -345,7 +345,7 @@
       "gallery": [
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop"
       ],
-      "image": "https://nairobi.life/image/destination-img-1.jpg",
+      "image": "/image/stay/villagevillabytheunitednations.jpg",
       "isActive": false,
       "name": "Village Villa - By The United Nations",
       "seo": "",
