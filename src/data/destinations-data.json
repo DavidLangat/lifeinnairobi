@@ -362,7 +362,7 @@
       "pricing": {},
       "seo": "Brown's Cheese Factory Tour",
       "shortDescription": "Visit Brown's Cheese Factory near Nairobi and discover artisan cheese making, farm life, guided tastings, and scenic countryside experiences.",
-      "slug": "brown-s-cheese-factory-tour",
+      "slug": "browns-cheese-factory-tour",
       "name2": "Brown's cheese factory",
       "currency": "USD"
     },
@@ -733,19 +733,19 @@
       "featured": false,
       "gallery": [
         {
-          "alt": "Bomas of Kenya",
+          "alt": "Bomas of Kenya Tour",
           "src": "https://nairobi.life/image/image-12.jpg"
         }
       ],
       "image": "https://nairobi.life/image/image-12.jpg",
       "location": "Nairobi",
-      "name": "Bomas of Kenya",
+      "name": "Bomas of Kenya Tour",
       "price": 60,
       "pricing": {},
-      "seo": "Bomas of Kenya",
+      "seo": "Bomas of Kenya Tour",
       "shortDescription": "Experience Kenya’s rich cultural heritage at Bomas of Kenya. Enjoy traditional dances, music, and authentic village exhibits near Nairobi.",
-      "slug": "bomas-of-kenya",
-      "name2": "Bomas of Kenya",
+      "slug": "bomas-of-kenya-tour",
+      "name2": "Bomas of Kenya Tour",
       "currency": "USD"
     },
     {
@@ -1001,23 +1001,23 @@
       "featured": false,
       "gallery": [
         {
-          "alt": "Nairobi Museums",
+          "alt": "Nairobi Museums Tour",
           "src": "https://nairobi.life/image/unnamed (15).jpg"
         },
         {
-          "alt": "Nairobi Museums",
+          "alt": "Nairobi Museums Tour",
           "src": "https://nairobi.life/image/unnamed (14).jpg"
         }
       ],
       "image": "https://nairobi.life/image/unnamed (14).jpg",
       "location": "Nairobi",
-      "name": "Nairobi Museums",
+      "name": "Nairobi Museums Tour",
       "price": 60,
       "pricing": {},
-      "seo": "Nairobi Museums",
+      "seo": "Nairobi Museums Tour",
       "shortDescription": "Nairobi Museum Tours - Cultural, Historical and Educational Experiences in Nairobi",
-      "slug": "nairobi-museums",
-      "name2": "Nairobi Museums",
+      "slug": "nairobi-museums-tour",
+      "name2": "Nairobi Museums Tour",
       "currency": "USD"
     },
     {
@@ -1275,19 +1275,19 @@
       "featured": false,
       "gallery": [
         {
-          "alt": "Karura Forest",
+          "alt": "Karura Forest Tour",
           "src": "https://nairobi.life/image/IMG_6202.jpg"
         }
       ],
       "image": "https://nairobi.life/image/IMG_6202.jpg",
       "location": "Nairobi",
-      "name": "Karura Forest",
+      "name": "Karura Forest Tour",
       "price": 60,
       "pricing": {},
-      "seo": "Karura Forest",
+      "seo": "Karura Forest Tour",
       "shortDescription": "Explore Karura Forest in Nairobi with scenic walking and cycling trails, waterfalls, caves, and peaceful nature escapes just minutes from the city.",
-      "slug": "karura-forest",
-      "name2": "Karura Forest",
+      "slug": "karura-forest-tour",
+      "name2": "Karura Forest Tour",
       "currency": "USD"
     },
     {

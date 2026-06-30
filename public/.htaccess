@@ -3,6 +3,31 @@ Options -MultiViews
 RewriteEngine On
 RewriteBase /
 
+# 301 Redirects for removed categories
+Redirect 301 /things-to-do-in-nairobi/guided-food-tour/ /guided-food-tour/
+Redirect 301 /things-to-do-in-nairobi/david-sheldrick-wildlife-trust/ /david-sheldrick-wildlife-trust/
+Redirect 301 /things-to-do-in-nairobi/nairobi-museums/ /nairobi-museums/
+Redirect 301 /things-to-do-in-nairobi/coffee-farm-tour/ /coffee-farm-tour/
+Redirect 301 /things-to-do-in-nairobi/nairobi-pottery-tour/ /nairobi-pottery-tour/
+Redirect 301 /things-to-do-in-nairobi/brown-s-cheese-factory/ /brown-s-cheese-factory/
+Redirect 301 /best-things-to-do-in-nairobi/giraffe-centre/ /giraffe-centre/
+Redirect 301 /things-to-do-in-nairobi/karen-blixen-museum-tour/ /karen-blixen-museum-tour/
+Redirect 301 /things-to-do-in-nairobi/nairobi-city-walking-tour/ /nairobi-city-walking-tour/
+Redirect 301 /things-to-do-in-nairobi/karura-forest/ /karura-forest/
+Redirect 301 /best-things-to-do-in-nairobi/tigoni-ebike-tours/ /tigoni-ebike-tours/
+Redirect 301 /things-to-do-in-nairobi/ngong-hills/ /ngong-hills/
+Redirect 301 /things-to-do-in-nairobi/wine-tasting-tours/ /wine-tasting-tours/
+Redirect 301 /things-to-do-in-nairobi/explore-the-local-food-market-cook-a-kenyan-meal/ /explore-the-local-food-market-cook-a-kenyan-meal/
+Redirect 301 /things-to-do-in-nairobi/naivasha/ /naivasha/
+Redirect 301 /things-to-do-in-nairobi/hikes-in-nairobi/ /hikes-in-nairobi/
+Redirect 301 /things-to-do-in-nairobi/twin-rivers-tigoni/ /twin-rivers-tigoni/
+Redirect 301 /best-things-to-do-in-nairobi/nairobi-national-park/ /nairobi-national-park/
+Redirect 301 /best-things-to-do-in-nairobi/tea-farm-tours-in-nairobi/ /tea-farm-tours-in-nairobi/
+Redirect 301 /things-to-do-in-nairobi/kibera-slum-tour/ /kibera-slum-tour/
+Redirect 301 /things-to-do-in-nairobi/nairobi-art-gallery-tours/ /nairobi-art-gallery-tours/
+Redirect 301 /things-to-do-in-nairobi/rent-a-kenyan-friend/ /rent-a-kenyan-friend/
+Redirect 301 /things-to-do-in-nairobi/bomas-of-kenya/ /bomas-of-kenya/
+
 # Serve the standard index.html for directories
 DirectoryIndex index.html
 
