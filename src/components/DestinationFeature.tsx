@@ -28,29 +28,36 @@ export default function DestinationFeature({ data }: DestinationFeatureProps) {
         const isImageLeft = item.imagePosition !== "right";
 
         return (
-          <section key={index} className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
-            {/* Image Column */}
+          <section key={index} className="flex flex-col space-y-6 lg:space-y-8">
+            {/* Title Row: Aligns with the text column on desktop, sits on top on mobile */}
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
+              <div className={`hidden lg:block ${isImageLeft ? "lg:order-1" : "lg:order-2"}`} />
+              <div className={`${isImageLeft ? "lg:order-2" : "lg:order-1"}`}>
+                <h2 className="text-3xl md:text-4xl font-serif text-background leading-tight">
+                  {item.title}
+                </h2>
+              </div>
+            </div>
+
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
+              {/* Image Column */}
             <div className={`relative w-full h-[350px] lg:h-[450px] ${isImageLeft ? "lg:order-1" : "lg:order-2"}`}>
               {item.image.src ? (
                 <Image
                   src={item.image.src}
                   alt={item.image.alt}
                   fill
-                  className="object-cover rounded-xl"
+                  className="object-cover rounded-3xl"
                 />
               ) : (
-                <div className="absolute inset-0 bg-accent/10 flex items-center justify-center border border-accent/20 rounded-xl">
+                <div className="absolute inset-0 bg-accent/10 flex items-center justify-center border border-accent/20 rounded-3xl">
                   <span className="text-accent/50 font-serif text-lg">Image Placeholder</span>
                 </div>
               )}
             </div>
 
             {/* Text Content Column */}
-            <div className={`flex flex-col space-y-6 lg:pt-4 ${isImageLeft ? "lg:order-2" : "lg:order-1"}`}>
-              <h2 className="text-3xl md:text-4xl font-serif text-background leading-tight">
-                {item.title}
-              </h2>
-
+            <div className={`flex flex-col space-y-6 ${isImageLeft ? "lg:order-2" : "lg:order-1"}`}>
               <div className="text-gray-600 space-y-4 font-sans leading-relaxed">
                 {item.paragraphs.map((paragraph, pIndex) => (
                   <p
@@ -90,6 +97,7 @@ export default function DestinationFeature({ data }: DestinationFeatureProps) {
                   {item.button.text}
                 </Link>
               </div>
+            </div>
             </div>
           </section>
         );
