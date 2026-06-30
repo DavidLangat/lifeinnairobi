@@ -18,7 +18,55 @@
     "imagePosition": "left",
     "tourDuration": "4–5 Hours",
     "driveFromCBD": "30 Minutes",
-    "slug": "nairobi-national-park-half-day-tour"
+    "slug": "nairobi-national-park-half-day-tour",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you only have a few hours in Nairobi and want a true African safari experience, this is the tour I always recommend. Nowhere else in the world can you watch a lion or rhino against the backdrop of a capital city's skyline.</span></p><p><span>On this half-day tour, you'll leave the city behind and head into Nairobi National Park for an early morning or afternoon game drive. Despite being just minutes from downtown Nairobi, the park is home to four of the Big Five—lion, leopard, buffalo, and rhino—as well as giraffes, zebras, antelopes, and over 400 bird species.</span></p><p><span>One of my favourite things about this experience is how much wildlife you can see in just a few hours, making it perfect for travellers with limited time in Nairobi or those looking to experience a safari before heading to Kenya's larger national parks.</span></p></div>"
   },
   {
     "title": "Half-Day Tour to Sheldrick Elephant Orphanage and Giraffe Centre Nairobi",
@@ -40,7 +88,55 @@
     "imagePosition": "left",
     "tourDuration": "4–5 Hours",
     "driveFromCBD": "30–40 Minutes",
-    "slug": "half-day-tour-to-sheldrick-elephant-orphanage-and-giraffe-centre-nairobi"
+    "slug": "half-day-tour-to-sheldrick-elephant-orphanage-and-giraffe-centre-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you love animals, this is easily one of my favourite half-day trips in Nairobi. In just a few hours, you'll get to meet two of Kenya's most iconic residents—rescued baby elephants and the endangered Rothschild's giraffes.</span></p><p><span>The tour begins at the Sheldrick Wildlife Trust, where you'll watch orphaned elephants being bottle-fed and hear the incredible stories of how they were rescued and prepared for their return to the wild. It's one of the most heartwarming wildlife experiences you can have in Kenya.</span></p><p><span>Afterwards, you'll head to the Giraffe Centre, home to the endangered Rothschild's giraffe. Here, you'll have the chance to feed the giraffes from an elevated platform and learn about the conservation efforts that have helped bring the species back from the brink of extinction.</span></p><p><span>This half-day experience is perfect if you're short on time but still want an unforgettable wildlife encounter in Nairobi.</span></p></div>"
   },
   {
     "title": "Day Trip to Tigoni Tea Farm Tour from Nairobi",
@@ -61,7 +157,55 @@
     "imagePosition": "left",
     "tourDuration": "Half Day",
     "driveFromCBD": "1 Hour",
-    "slug": "day-trip-to-tigoni-tea-farm-tour-from-nairobi"
+    "slug": "day-trip-to-tigoni-tea-farm-tour-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Just an hour from Nairobi, the busy city gives way to rolling tea plantations, fresh country air, and some of Kenya's most beautiful landscapes. Whenever I need a break from the city's pace, Tigoni is one of the first places I recommend.</span></p><p><span>This day trip takes you into the heart of Kenya's tea country, where you'll walk through a working tea farm, meet local tea pickers, and learn how one of Kenya's most important exports goes from the field to your cup. You'll even get the chance to pick your own tea leaves before enjoying a tea processing demonstration and freshly brewed tea tasting.</span></p><p><span>What makes this experience special is that it feels a world away from Nairobi, yet it's close enough to enjoy as a relaxed day trip. Between the endless green fields, hidden waterfalls, and fascinating stories of Kenya's tea heritage, Tigoni offers a completely different side of the country that many visitors never get to see.</span></p></div>"
   },
   {
     "title": "One Day Trip to Hell's Gate and Lake Naivasha from Nairobi",
@@ -83,7 +227,55 @@
     "imagePosition": "left",
     "tourDuration": "8–10 Hours",
     "driveFromCBD": "2 Hours",
-    "slug": "one-day-trip-to-hell-s-gate-and-lake-naivasha-from-nairobi"
+    "slug": "one-day-trip-to-hell-s-gate-and-lake-naivasha-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you're looking for an adventure-filled escape from the city, this is one of the best day trips from Nairobi. In just a couple of hours, you'll swap traffic and skyscrapers for dramatic gorges, towering cliffs, wildlife, and the beautiful waters of Lake Naivasha.</span></p><p><span>The day begins at Hell's Gate National Park, one of the few national parks in Africa where you can cycle alongside zebras, giraffes, gazelles, and buffalo. The park's spectacular scenery, geothermal activity, and towering rock formations make it feel like something out of a movie—and for good reason, it inspired parts of Disney's The Lion King.</span></p><p><span>After exploring Hell's Gate, you'll head to Lake Naivasha, Kenya's highest freshwater lake in the Great Rift Valley. Here, you can enjoy a boat ride among pods of hippos and hundreds of bird species, before visiting Crescent Island, where you can walk freely among giraffes, zebras, and antelopes with no predators in sight.</span></p><p><span>It's the perfect combination of adventure, wildlife, and stunning landscapes, all within easy reach of Nairobi.</span></p></div>"
   },
   {
     "title": "Lake Nakuru Day Trip from Nairobi",
@@ -105,7 +297,55 @@
     "imagePosition": "left",
     "tourDuration": "10–12 Hours",
     "driveFromCBD": "3–3.5 Hours",
-    "slug": "lake-nakuru-day-trip-from-nairobi"
+    "slug": "lake-nakuru-day-trip-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If seeing rhinos is on your Kenya bucket list, this is the day trip I recommend most. Just a few hours from Nairobi, Lake Nakuru National Park is one of the best places in Africa to spot both black and white rhinos in the wild.</span></p><p><span>The drive takes you into the heart of the Great Rift Valley, where Lake Nakuru's acacia forests, open grasslands, and lakeshore create a stunning backdrop for wildlife viewing. The park is home to lions, leopards, buffalo, Rothschild's giraffes, zebras, and one of Kenya's largest rhino populations.</span></p><p><span>Depending on the season, you may also witness thousands of flamingos painting the lake's shoreline pink, alongside pelicans and hundreds of other bird species. One of my favourite moments is stopping at Baboon Cliff, where you'll get panoramic views over the lake and the park below.</span></p><p><span>For travellers looking for a classic Kenyan safari without venturing too far from Nairobi, Lake Nakuru delivers an incredible amount of wildlife in just one day.</span></p></div>"
   },
   {
     "title": "Tigoni E-Bike Tour Day Trip from Nairobi",
@@ -127,7 +367,55 @@
     "imagePosition": "left",
     "tourDuration": "2–3 Hours",
     "driveFromCBD": "1 Hour",
-    "slug": "tigoni-e-bike-tour-day-trip-from-nairobi"
+    "slug": "tigoni-e-bike-tour-day-trip-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you want to escape Nairobi without driving for hours, this is one of my favourite day trips from the city. Just an hour away, Tigoni offers quiet country roads, endless tea plantations, hidden waterfalls, and some of the most beautiful scenery in Kenya.</span></p><p><span>This guided e-bike adventure takes you deep into Kenya's tea country, where you'll cycle through private tea estates, ride past colonial-era farms, and stop at breathtaking viewpoints overlooking the rolling green hills of Limuru. The electric bikes do most of the hard work, meaning you can simply enjoy the scenery, no matter your fitness level.</span></p><p><span>One of the things I love most about this experience is how peaceful it feels. Within minutes of leaving Nairobi behind, you're surrounded by fresh air, birdsong, and landscapes that feel a world away from the city. Along the way, there are plenty of opportunities to stop for photos, learn about the region's tea heritage, and enjoy a meal or coffee overlooking the plantations.</span></p><p><span>For travellers looking for something different from a traditional safari, the Tigoni E-Bike Tour is one of the most unique and refreshing day trips from Nairobi.</span></p></div>"
   },
   {
     "title": "Day Trip to Amboseli from Nairobi",
@@ -149,7 +437,55 @@
     "imagePosition": "left",
     "tourDuration": "12–14 Hours",
     "driveFromCBD": "4–5 Hours each way",
-    "slug": "day-trip-to-amboseli-from-nairobi"
+    "slug": "day-trip-to-amboseli-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you've ever dreamed of seeing elephants walking beneath Africa's highest mountain, this is the day trip for you. Amboseli National Park is one of Kenya's most iconic safari destinations and offers some of the most spectacular views in all of Africa.</span></p><p><span>Leaving Nairobi early in the morning, you'll journey south to the vast plains of Amboseli, where large herds of elephants roam freely against the backdrop of the majestic Mount Kilimanjaro. The park is also home to lions, cheetahs, buffalo, giraffes, zebras, wildebeest, and more than 400 bird species.</span></p><p><span>What makes Amboseli special is the scenery. On a clear day, seeing dozens of elephants crossing the dusty plains with Kilimanjaro towering above them is a moment you never forget. It's also one of the best places in Africa for wildlife photography, thanks to its open landscapes and incredible mountain backdrop.</span></p><p><span>Although it's a long day from Nairobi, the experience is absolutely worth it for travellers looking to enjoy a classic African safari without spending the night away from the city.</span></p></div>"
   },
   {
     "title": "Day Trip to Masai Mara from Nairobi",
@@ -171,7 +507,55 @@
     "imagePosition": "left",
     "tourDuration": "14–16 Hours",
     "driveFromCBD": "5–6 Hours each way",
-    "slug": "day-trip-to-masai-mara-from-nairobi"
+    "slug": "day-trip-to-masai-mara-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If there's one safari destination that needs no introduction, it's the Masai Mara. Home to the Great Migration and some of Africa's highest concentrations of wildlife, the Mara is the ultimate bucket-list safari and an unforgettable day trip from Nairobi.</span></p><p><span>An early morning departure from Nairobi takes you across the dramatic landscapes of the Great Rift Valley and into the endless plains of the Masai Mara. The reserve is famous for its incredible predator sightings, offering excellent chances of seeing lions, cheetahs, leopards, and large herds of elephants, buffalo, zebras, and giraffes.</span></p><p><span>What I love most about the Masai Mara is that every game drive feels different. One moment you're watching a pride of lions resting beneath an acacia tree, and the next you're witnessing hundreds of wildebeest crossing the plains. Even outside the migration season, the Mara delivers one of the best safari experiences in Africa.</span></p><p><span>It's a long day from Nairobi, but if you're short on time and want to experience Kenya's most famous wildlife destination, few adventures can compare.</span></p></div>"
   },
   {
     "title": "Kereita The Forest Day Trip from Nairobi",
@@ -193,7 +577,55 @@
     "imagePosition": "left",
     "tourDuration": "Half or Full Day",
     "driveFromCBD": "1–1.5 Hours",
-    "slug": "kereita-the-forest-day-trip-from-nairobi"
+    "slug": "kereita-the-forest-day-trip-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>Just an hour from Nairobi, Kereita Forest is one of my favourite escapes when I want fresh air, towering forests, and a bit of adventure. Tucked away on the edge of the Great Rift Valley, this beautiful forest offers a completely different side of Kenya that many visitors never get to see.</span></p><p><span>Whether you're looking for a peaceful nature walk or an adrenaline-filled day out, Kereita has something for everyone. The forest is famous for its scenic hiking and mountain biking trails, while adventure seekers can enjoy East Africa's longest zipline, archery, and high ropes courses among the trees.</span></p><p><span>What I love most about Kereita is how tranquil it feels. The cool highland climate, birdsong, and endless forest views make it the perfect place to disconnect from the city and spend a day in nature.</span></p><p><span>For travellers looking for an active outdoor experience close to Nairobi, Kereita Forest is one of the best hidden gems for a day trip.</span></p></div>"
   },
   {
     "title": "Nairobi Maasai Village Day Tour Experience",
@@ -215,7 +647,55 @@
     "imagePosition": "left",
     "tourDuration": "Half or Full Day",
     "driveFromCBD": "1–2 Hours",
-    "slug": "nairobi-maasai-village-day-tour-experience"
+    "slug": "nairobi-maasai-village-day-tour-experience",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you're curious about Kenya's people and traditions, this is one of the most rewarding cultural day trips from Nairobi. Beyond the wildlife and landscapes, Kenya's greatest treasure is its rich culture, and few communities are as iconic as the Maasai.</span></p><p><span>On this experience, you'll visit a traditional Maasai village, known as a manyatta, where you'll be welcomed with songs, dances, and stories that have been passed down through generations. You'll learn about Maasai customs, their unique way of life, and how they have preserved their traditions while adapting to the modern world.</span></p><p><span>One of my favourite parts of this experience is sitting with the elders and hearing firsthand stories about their culture, livestock traditions, and deep connection with nature. You'll also have the opportunity to explore traditional homes, learn about local crafts, and support the community by purchasing handmade beadwork and souvenirs.</span></p><p><span>For travellers looking to go beyond the typical tourist attractions and experience the cultural heart of Kenya, this is an unforgettable day out from Nairobi.</span></p></div>"
   },
   {
     "title": "Paragliding Day Trip to Kijabe from Nairobi",
@@ -237,7 +717,55 @@
     "imagePosition": "left",
     "tourDuration": "Half Day",
     "driveFromCBD": "1.5 Hours",
-    "slug": "paragliding-day-trip-to-kijabe-from-nairobi"
+    "slug": "paragliding-day-trip-to-kijabe-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you've ever wanted to fly, this is as close as it gets. Just over an hour from Nairobi, Kijabe offers one of the most thrilling adventures in Kenya—paragliding above the dramatic landscapes of the Great Rift Valley.</span></p><p><span>Your day begins with a scenic drive through the Limuru highlands before reaching the launch site on the Kijabe escarpment. After a safety briefing, you'll take off with an experienced pilot and soar high above forests, valleys, and rolling hills, with breathtaking views stretching across the Rift Valley below.</span></p><p><span>What I love most about paragliding in Kijabe is the feeling of complete freedom. One moment you're standing on the edge of the escarpment, and the next you're silently gliding through the sky, taking in some of the most spectacular scenery in Kenya from a completely different perspective.</span></p><p><span>Whether you're an adrenaline junkie or simply looking to tick off a once-in-a-lifetime experience, this is one of the most unforgettable day trips from Nairobi.</span></p></div>"
   },
   {
     "title": "Day Trip to Mount Kenya National Park from Nairobi",
@@ -259,7 +787,55 @@
     "imagePosition": "left",
     "tourDuration": "10–12 Hours",
     "driveFromCBD": "3–4 Hours each way",
-    "slug": "day-trip-to-mount-kenya-national-park-from-nairobi"
+    "slug": "day-trip-to-mount-kenya-national-park-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you're looking to trade the city skyline for mountain air and breathtaking scenery, a day trip to Mount Kenya National Park is hard to beat. Home to Africa's second-highest mountain and a UNESCO World Heritage Site, this is one of the most spectacular escapes from Nairobi.</span></p><p><span>An early departure from the city takes you to the lower slopes of Mount Kenya, where you'll spend the day exploring bamboo forests, alpine moorlands, and scenic trails with incredible views of the mountain's snow-capped peaks. Along the way, you may spot buffalo, colobus monkeys, antelopes, and a variety of birdlife that thrive in this unique ecosystem.</span></p><p><span>What I love most about Mount Kenya is how quickly the landscape changes. Within a few hours, you can go from dense forest to open heathlands and enjoy some of the freshest air and most dramatic scenery in the country.</span></p><p><span>Whether you choose a nature walk, a short hike, or simply want to experience one of Kenya's most iconic landscapes, this is the perfect adventure for travellers looking to escape the city and immerse themselves in nature.</span></p></div>"
   },
   {
     "title": "Day Trip to Ol Pejeta Wildlife Sanctuary from Nairobi",
@@ -281,7 +857,55 @@
     "imagePosition": "left",
     "tourDuration": "12–14 Hours",
     "driveFromCBD": "3.5–4 Hours each way",
-    "slug": "day-trip-to-ol-pejeta-wildlife-sanctuary-from-nairobi"
+    "slug": "day-trip-to-ol-pejeta-wildlife-sanctuary-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>If you want a safari that combines incredible wildlife with one of Africa's greatest conservation success stories, I always recommend a day trip to Ol Pejeta. Set against the backdrop of Mount Kenya, this award-winning conservancy is one of the best places in Kenya to see the Big Five and learn about wildlife conservation.</span></p><p><span>An early morning departure from Nairobi brings you to the vast plains of Ol Pejeta, home to lions, elephants, rhinos, buffalo, cheetahs, giraffes, and hundreds of other species. The conservancy is particularly famous for its rhino conservation efforts and is the last home of the world's two remaining northern white rhinos.</span></p><p><span>One of my favourite parts of visiting Ol Pejeta is that it offers experiences you won't find anywhere else in Kenya. In addition to a classic game drive, you can visit the northern white rhino enclosure and stop by the chimpanzee sanctuary, the only place in Kenya where rescued chimpanzees can be seen.</span></p><p><span>For travellers looking for more than just a safari, Ol Pejeta offers a meaningful and unforgettable wildlife experience that blends adventure, conservation, and spectacular scenery.</span></p></div>"
   },
   {
     "title": "Hot Air Balloon Safari Day Trip from Nairobi",
@@ -304,6 +928,54 @@
     "imagePosition": "left",
     "tourDuration": "14–16 Hours",
     "driveFromCBD": "5–6 Hours each way",
-    "slug": "hot-air-balloon-safari-day-trip-from-nairobi"
+    "slug": "hot-air-balloon-safari-day-trip-from-nairobi",
+    "whatYouWillDo": "Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.",
+    "included": [
+      "Driver/guide",
+      "Airport charges",
+      "Local taxes",
+      "Surcharges on fuel"
+    ],
+    "notIncluded": [
+      "Drinks",
+      "Food and drinks",
+      "Gratuities"
+    ],
+    "cancellationPolicy": "For a full refund, cancel at least 24 hours before the scheduled departure time.",
+    "itinerary": [
+      {
+        "title": "Meeting Point",
+        "description": "Cruzeiro Safaris"
+      },
+      {
+        "title": "3 to 4 hrs",
+        "description": "Sit back and relax as you are transported between the main Nairobi airport and your accommodation in the comfort of your own private vehicle which ranges from 3-passenger sedans to 7-passenger vans and 20-passenger buses, depending on the size of your group. For airport arrival transfers, you will find your name clearly displayed on a sign, after the baggage and customs clearance desks. If you are arriving for a conference and event, there is typically a welcome desk located inside the lounge to allow for easy identification of delegates without having to check for their names. Just come to the desk and you will be ushered to your vehicle. For departure transfers, your driver will meet you at your accommodation 4 hours prior to your flight for CITY hotels and 5 hours for hotels OUTSIDE the city including WESTLANDS. Transfer times vary according to traffic, but generally range from 40 minutes to 1.5 hours. When making a booking for this private one-way transfer from Jomo Kenyatta International Airport to your accommodation in central Nairobi or vice versa, you will need to advise your flight details and your Nairobi hotel or final destination details."
+      }
+    ],
+    "additionalInfo": [
+      "This activity is operated by Cruzeiro Safaris Kenya",
+      "Suitable for all physical fitness levels",
+      "Child rate applies only when sharing with 2 paying adults",
+      "Children must be accompanied by an adult",
+      "The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions",
+      "For arrival pick up, please provide flight details to supplier.",
+      "Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information."
+    ],
+    "guideOptions": [
+      "German",
+      "English",
+      "Italian",
+      "French",
+      "Spanish"
+    ],
+    "reviews": [
+      {
+        "text": "Absolutely wonderful experience. The transfer was smooth and exactly on time!",
+        "rating": 5,
+        "author": "Sarah M. • Verified Traveler"
+      }
+    ],
+    "contentHtml": "<h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What You Will Do</p></span></h2><p><span>Book a one-way transfer between Jomo Kenyatta International Airport (NBO) and your Nairobi accommodation in the comfort of a private vehicle. Spend less time waiting for a taxi or other transportation with your priority reservation. Depending on the size of your group, you have the option of a sedan, a van, or a bus.</span></p><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Included</p></span></h2><ul>  <li><p>Driver/guide</p></li>  <li><p>Airport charges</p></li>  <li><p>Local taxes</p></li>  <li><p>Surcharges on fuel</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>What's Not Included</p></span></h2><ul>  <li><p>Drinks</p></li>  <li><p>Food and drinks</p></li>  <li><p>Gratuities</p></li></ul><h2 class='text-2xl font-serif text-background font-medium mt-6 mb-3'><span><p>Additional Information</p></span></h2><ul>  <li><p>This activity is operated by Cruzeiro Safaris Kenya</p></li>  <li><p>Suitable for all physical fitness levels</p></li>  <li><p>Child rate applies only when sharing with 2 paying adults</p></li>  <li><p>Children must be accompanied by an adult</p></li>  <li><p>The duration of transfers are approximate, the exact duration will depend on the time of day and traffic conditions</p></li>  <li><p>For arrival pick up, please provide flight details to supplier.</p></li>  <li><p>Please note that due to heavy traffic experienced in the evening, all transfers from the city will need to depart 4 hours before and those staying in hotels outside the city will need to depart 5 hours before. Please clearly indicate ahead of time your departure flight information.</p></li></ul>",
+    "contentHtmltop": "<div class='mb-4 leading-relaxed'><p><span>There are few experiences in Africa as magical as watching the sunrise from a hot air balloon. Floating silently above the savannah while wildlife moves below is something you'll remember long after your trip to Kenya.</span></p><p><span>This unforgettable day trip begins with an early departure from Nairobi, taking you to the world-famous Maasai Mara for a once-in-a-lifetime balloon safari. As the first light of day breaks over the plains, you'll gently rise into the sky and enjoy panoramic views of one of Africa's greatest wildlife destinations.</span></p><p><span>From above, you may spot elephants, giraffes, zebras, buffalo, and even predators beginning their morning hunt. The perspective is completely different from a traditional game drive, offering incredible photography opportunities and a true sense of the vastness of the African wilderness.</span></p><p><span>After landing, the experience continues with a champagne-style bush breakfast before enjoying a game drive through the reserve.</span></p><p><span>If you're celebrating a honeymoon, anniversary, or simply looking for the ultimate bucket-list experience, this is one of the most extraordinary day trips you can take from Nairobi.</span></p></div>"
   }
 ]

@@ -7,6 +7,17 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { MapPin, Clock, Star, Share2, Heart, Grid2X2, ChevronRight } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
+import ActivityBookingCard from "@/components/ActivityBookingCard";
+import ActivityPricingCard from "@/components/ActivityPricingCard";
+import ActivityBookingWidget from "@/components/booking/ActivityBookingWidget";
+import {
+  HTMLContentFirstParagraph,
+  HTMLContentRest,
+} from "@/components/HTMLContentSplit";
+import ServiceCategories from "@/components/ServiceCategories";
+import featureData from "@/data/destination-feature-data.json";
+
+const slugify = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 
 interface TripDetailClientPageProps {
   trip: {
@@ -24,6 +35,12 @@ interface TripDetailClientPageProps {
 }
 
 export default function TripDetailClientPage({ trip }: TripDetailClientPageProps) {
+  const relatedDayTrips = featureData.slice(0, 4).map(t => ({
+    title: t.title,
+    image: t.image.src,
+    href: `/day-trips-from-nairobi/${slugify(t.title)}`
+  }));
+
   return (
     <main className="bg-primary min-h-screen relative overflow-hidden">
       {/* Background Images for Parallax similar to other pages */}
@@ -46,19 +63,19 @@ export default function TripDetailClientPage({ trip }: TripDetailClientPageProps
 
       <div className="relative z-10">
         <Navbar />
- <PageHeader
-            title={"Day Trip from Nairobi"}
-            breadcrumb="Day Trip from Nairobi"
+        <PageHeader
+            title={trip.title}
+            breadcrumb={"Day Trip from Nairobi"}
             description={""}
-            backgroundImage="https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg"
+            backgroundImage={trip.image?.src || "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg"}
           />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16 pt-24 md:pt-32">
           {/* Header section */}
           <div className="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-6">
             <div className="flex-1">
-              <h1 className="text-3xl md:text-5xl lg:text-6xl font-serif text-background font-bold mb-4 leading-tight">
+              {/* <h1 className="text-3xl md:text-5xl lg:text-6xl font-serif text-background font-bold mb-4 leading-tight">
                 {trip.title}
-              </h1>
+              </h1> */}
               
               <div className="flex flex-wrap items-center gap-4 text-background/80 font-sans text-sm md:text-base">
                 <div className="flex items-center gap-1.5">
@@ -75,9 +92,7 @@ export default function TripDetailClientPage({ trip }: TripDetailClientPageProps
                   <Star className="w-4 h-4 md:w-5 md:h-5 text-accent fill-accent" />
                   <span className="font-medium text-background">4.8 (124)</span>
                 </div>
-                <div className="flex items-center gap-1.5 text-accent/80">
-                  <span className="font-medium px-3 py-1 bg-accent/20 text-accent rounded-full text-xs uppercase tracking-wider">Day Trips & Excursions</span>
-                </div>
+             
               </div>
             </div>
 
@@ -145,46 +160,138 @@ export default function TripDetailClientPage({ trip }: TripDetailClientPageProps
           </div>
 
           {/* Breadcrumbs */}
-          <div className="mt-8 text-sm text-background/60 font-sans flex flex-wrap items-center gap-2">
+          {/* <div className="mt-8 text-sm text-background/60 font-sans flex flex-wrap items-center gap-2">
             <Link href="/" className="hover:text-accent transition-colors font-medium">Home</Link>
             <ChevronRight className="w-4 h-4" />
             <Link href="/day-trips-from-nairobi" className="hover:text-accent transition-colors font-medium">Day Trips from Nairobi</Link>
             <ChevronRight className="w-4 h-4" />
             <span className="text-background font-medium truncate max-w-[200px] sm:max-w-none">{trip.title}</span>
-          </div>
+          </div> */}
 
           {/* Initial Overview Content Area */}
-          <div className="mt-12 mb-20">
-            <div className="bg-secondary/40 backdrop-blur-md p-8 md:p-12 rounded-[2rem] border border-background/10 shadow-xl">
-              <div className="max-w-3xl">
-                <h2 className="text-3xl font-serif text-background mb-8">About this trip</h2>
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 justify-start mt-12 mb-20">
+            {/* Main Content Column (8 cols) */}
+            <div className="lg:col-span-8 space-y-1">
+              {/* Intro Text - ID: Overview */}
+              <section id="overview" className="scroll-mt-32 space-y-10">
+                <h2 className="text-2xl font-serif text-background font-medium mb-2">About this trip</h2>
                 
-                {trip.idealFor && (
+                {/* {trip.idealFor && (
                   <div className="inline-block px-4 py-2 bg-accent/10 border border-accent/20 rounded-xl mb-6">
                     <p className="text-accent text-sm font-semibold tracking-wide">
                       {trip.idealFor}
                     </p>
                   </div>
+                )} */}
+                
+                {trip.contentHtmltop && (
+                  <>
+                    <div className="lg:hidden">
+                      <HTMLContentFirstParagraph contentHtml={trip.contentHtmltop} />
+                      {/* Mobile Booking Cards */}
+                      <ActivityBookingCard
+                        activity={{ name: trip.title, price: 50, currency: 'USD' }}
+                        details={{
+                          keyDetails: {
+                            duration: trip.tourDuration || 'Full Day',
+                            startTime: ['Flexible'],
+                            location: 'Nairobi'
+                          }
+                        }}
+                        className="lg:hidden mb-10"
+                      />
+                      <HTMLContentRest contentHtml={trip.contentHtmltop} />
+                    </div>
+                    <div
+                      className="hidden lg:block prose prose-lg max-w-none text-background/90 font-sans leading-relaxed text-lg prose-headings:font-serif prose-headings:font-medium prose-a:text-accent"
+                      dangerouslySetInnerHTML={{
+                        __html: trip.contentHtmltop,
+                      }}
+                    />
+                  </>
                 )}
                 
-                <div className="text-background/90 space-y-6 font-sans leading-relaxed text-lg">
-                   {trip.paragraphs.map((p: string, i: number) => (
-                      <p key={i} dangerouslySetInnerHTML={{ __html: p }} />
-                   ))}
-                </div>
+                {/* Image under overview */}
+                {/* <div className="relative rounded-xl overflow-hidden h-[400px] w-full not-prose">
+                  <Image
+                    src={trip.image?.src || "https://ik.imagekit.io/kggumm8iz/Nairobilife/v2/images/background.jpeg"}
+                    alt={trip.image?.alt || trip.title}
+                    fill
+                    className="object-cover"
+                  />
+                </div> */}
+              </section>
 
-                {trip.driveFromCBD && (
-                  <div className="mt-8 pt-8 border-t border-background/10">
-                    <p className="font-sans">
-                      <span className="font-semibold text-background">Drive from Nairobi CBD:</span>{" "}
-                      <span className="text-background/80">{trip.driveFromCBD}</span>
-                    </p>
-                  </div>
+              {/* Details Section - ID: Details */}
+              <section id="details" className="scroll-mt-32 pt-1">
+                {trip.contentHtml && (
+                  <div
+                    className="block prose prose-lg max-w-none text-background/90 font-sans prose-headings:font-serif prose-headings:font-medium prose-a:text-accent prose-li:marker:text-accent"
+                    dangerouslySetInnerHTML={{ __html: trip.contentHtml }}
+                  />
                 )}
+              </section>
+
+              {/* Itinerary Section */}
+              {trip.itinerary && (
+                <section id="itinerary" className="scroll-mt-32 pt-4">
+                  <div className="block">
+                    <h2 className="text-2xl font-serif text-background font-medium mb-6 mt-6">
+                      Itinerary
+                    </h2>
+                    <div className="space-y-6 relative border-l-2 border-background ml-3 pl-8">
+                      {trip.itinerary.map((item: any, idx: number) => (
+                        <div key={idx} className="relative">
+                          <span className="absolute -left-[41px] top-0 bg-background text-primary w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold ring-4 ring-white">
+                            {idx + 1}
+                          </span>
+                          <h3 className="font-bold text-gray-900 text-lg mb-2">
+                            {item.title}
+                          </h3>
+                          <p className="text-gray-600 whitespace-pre-line ">
+                            {item.description}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </section>
+              )}
+
+              {/* Cancellation Policy */}
+              {trip.cancellationPolicy && (
+                <section id="cancellation" className="scroll-mt-32 space-y-6 pt-10">
+                  <h2 className="text-2xl font-serif text-background font-medium mb-4">Cancellation Policy</h2>
+                  <div className="bg-secondary/40 p-6 rounded-xl border border-background/10">
+                    <p className="text-background/90 font-sans text-lg">{trip.cancellationPolicy}</p>
+                  </div>
+                </section>
+              )}
+            </div>
+
+            {/* Sidebar Column (4 cols) - Sticky */}
+            <div className="lg:col-span-4 relative">
+              <div className="sticky top-12 space-y-6">
+                <ActivityBookingCard
+                  activity={{ name: trip.title, price: 50, currency: 'USD' }}
+                  details={{
+                    keyDetails: {
+                      duration: trip.tourDuration || 'Full Day',
+                      startTime: ['Flexible'],
+                      location: 'Nairobi'
+                    }
+                  }}
+                  className="hidden lg:block"
+                />
               </div>
             </div>
           </div>
         </div>
+
+        <ServiceCategories
+          title="More Adventures"
+          items={relatedDayTrips}
+        />
 
         <Footer />
       </div>

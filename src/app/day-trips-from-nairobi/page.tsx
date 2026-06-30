@@ -4,23 +4,23 @@ import destinationsData from '@/data/bestthings-data.json';
 import DayTripClientPage from './DayTripClientPage';
 
 export const metadata: Metadata = {
-    title: 'Activities in Nairobi | Things to do in Nairobi',
-    description: 'Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences. Plan your perfect Nairobi escape.',
-    keywords: ['Activities in Nairobi', 'Nairobi Experiences', 'Hiking in Nairobi', 'Tea Farm Tours', 'E-bike Tours Kenya', 'Day Trips from Nairobi'],
+    title: 'Day Trips from Nairobi | Things to do in Nairobi',
+    description: 'Discover the best day trips from Nairobi, from safaris and tea farms to Naivasha, Amboseli, and Tigoni weekend getaways and tours.',
+    keywords: ['Day Trips from Nairobi', 'Weekend Getaways Nairobi', 'Nairobi Safaris', 'Tea Farm Tours', 'Naivasha Day Trip', 'Amboseli Tours', 'Tigoni Getaways'],
     alternates: {
-        canonical: 'https://nairobi.life/best-things-to-do-in-nairobi',
+        canonical: 'https://nairobi.life/day-trips-from-nairobi',
     },
     openGraph: {
-        title: 'Activities in Nairobi | Things to do in Nairobi',
-        description: 'Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences.',
-        url: 'https://nairobi.life/best-things-to-do-in-nairobi',
+        title: 'Day Trips from Nairobi | Things to do in Nairobi',
+        description: 'Discover the best day trips from Nairobi, from safaris and tea farms to Naivasha, Amboseli, and Tigoni weekend getaways and tours.',
+        url: 'https://nairobi.life/day-trips-from-nairobi',
         type: 'website',
         images: [
             {
                 url: 'v2/images/background.jpeg',
                 width: 1200,
                 height: 630,
-                alt: 'Activities in Nairobi',
+                alt: 'Day Trips from Nairobi',
             },
         ],
     },
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Activities in Nairobi | Best Things to Do & Experiences',
-        description: 'Discover the best activities in Nairobi, from tea farm tours and e-bike rides to hikes and custom experiences.',
+        title: 'Day Trips from Nairobi | Things to do in Nairobi',
+        description: 'Discover the best day trips from Nairobi, from safaris and tea farms to Naivasha, Amboseli, and Tigoni weekend getaways and tours.',
         images: ['v2/images/background.jpeg'],
     },
 };
